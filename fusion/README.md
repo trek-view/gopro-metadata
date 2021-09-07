@@ -26,6 +26,10 @@ LRV files are low-resolution video files used by GoPros as video previews. THM f
 
 .WAV files contain the audio recording from the video.
 
+**Times**
+
+One important point to note: `CreateDate` fields in metadata refer to the time the image was stitched. When stitching is done on a PC, the reported `CreateDate` can therefore differ significantly from the actual time the imagery was captured. In many cases it is therefore more accurate to rely on the reported `GPSDateTime` values for true capture times.
+
 ## Metadata samples
 
 [Download the files here](https://drive.google.com/drive/folders/1QaNr-cfUT4lBYxVoBVe98q_-WH6NAd31?usp=sharing).
