@@ -4,4 +4,4 @@ _site
 .jekyll-metadata
 
 # OS or Editor folders
-.DS_Store
+*.DS_Store
