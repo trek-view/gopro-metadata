@@ -6,7 +6,7 @@
 
 ## 360 Modes (suitable for street-level capture)
 
-* Unprocessed Video
+* Processed Video
 	* 360 Video (output .`mp4`)
 		* 5.2K stitched (30 FPS)
 		* 3k stitched (60 FPS)
