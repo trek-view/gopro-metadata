@@ -1,7 +1,7 @@
 # GoPro Fusion Overview
 
 * Manufacturer: GoPro
-* Model: MAX
+* Model: Fusion
 * On Sale: 2017 - 2020
 
 ## 360 Modes (suitable for street-level capture)
@@ -18,9 +18,13 @@
 
 ### Notes
 
-**Stitching**
+**Stitching videos**
 
-GoPro Fusion creates two seperate video files on the memory card. They are named `GPFR` (front camera) or `GPBK` (back camera). Front and back files have the same number ID and are both .mp4 files (e.g. `GPFR0001.mp4` and `GPBK0001.mp4`). The telemetry is stored in the front .mp4. You can tell it is not stitched as it will not contain `XMP-GSpherical:StitchingSoftware` meta.
+
+
+**Stitching photos**
+
+
 
 **.LRV / .THM / .WAV**
 
@@ -38,6 +42,8 @@ LRV files are low-resolution video files used by GoPros as video previews. THM f
 
 #### 360 Video (output .`mp4`)
 
+GoPro Fusion creates two seperate video files on the memory card. They are named `GPFR` (front camera) or `GPBK` (back camera). Front and back files have the same number ID and are both .mp4 files (e.g. `GPFR0001.mp4` and `GPBK0001.mp4`). The telemetry is stored in the front .mp4. You can tell it is not stitched as it will not contain `XMP-GSpherical:StitchingSoftware` meta.
+
 ##### 5.6K stitched @ 30 FPS
 
 ###### Input:
@@ -48,7 +54,33 @@ exiftool -ee -G3 -api LargeFileSupport=1 -X VIDEO_7152.mp4 > VIDEO_7152.xml
 
 ###### Output:
 
-[VIDEO_7152.xml](.gopro/max/VIDEO_7152.xml)
+[VIDEO_7152.xml](.gopro/fusion/VIDEO_7152.xml)
+
+###### Validation checks
+
+[For Trek View Explorer](.gopro/fusion/explorer).
+
+---
+
+### Timelapse photo (.jpg)
+
+GoPro Fusion creates two seperate image files (front and back) on the memory card. 
+
+Stitched timelapse file names are preface with `MULTISHOT_` . Each unique timelapse is prefaced with a 4 digit number, which takes the last 4 digits of photo filenames before stitched (e.g. GF089146.JPG and GB089146.JPG = MULTISHOT_9146_xxxxxx.jpg. xxxxxx represents number of timelapse in sequence, starting with 000000 (e.g. MULTISHOT_9146_000000.jpg).
+
+Note, GoPro Fusion prestitched files follow an order where timelapse is defined by the first 2 digits (e.g GF08, GF09, GF10).
+
+##### 16.6mp output
+
+###### Input:
+
+```
+exiftool -X MULTISHOT_9146_000000.jpg > MULTISHOT_9146_000000.xml
+```
+
+###### Output:
+
+[MULTISHOT_9146_000000.jpg](.gopro/fusion/MULTISHOT_9146_000000.xml)
 
 ###### Validation checks
 
