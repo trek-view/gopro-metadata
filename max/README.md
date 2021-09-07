@@ -60,7 +60,7 @@ exiftool -ee -G3 -api LargeFileSupport=1 -X GS018422.360 > GS018422.xml
 
 ###### Validation checks
 
-[For Trek View Explorer](/explorer).
+[For Trek View Explorer](/explorer.md).
 
 ##### 5.6K stitched @ 30FPS
 
@@ -76,7 +76,7 @@ exiftool -ee -G3 -api LargeFileSupport=1 -X GS018421.360 > GS018421.xml
 
 ###### Validation checks
 
-[For Trek View Explorer](/explorer).
+[For Trek View Explorer](/explorer.md).
 
 ##### 3K stitched @ 60FPS
 
@@ -92,7 +92,7 @@ exiftool -ee -G3 -api LargeFileSupport=1 -X GS018423.360 > GS018423.xml
 
 ###### Validation checks
 
-[For Trek View Explorer](/explorer).
+[For Trek View Explorer](/explorer.md).
 
 ##### TimeWarp @ 5.6k
 
@@ -108,7 +108,7 @@ exiftool -ee -G3 -api LargeFileSupport=1 -X GS018424.360 > GS018424.xml
 
 ###### Validation checks
 
-[For Trek View Explorer](/explorer).
+[For Trek View Explorer](/explorer.md).
 
 ---
 
@@ -134,7 +134,7 @@ exiftool -ee -G3 -api LargeFileSupport=1 -X GS018422.mp4 > GS018422_mp4.xml
 
 ###### Validation checks
 
-[For Trek View Explorer](/explorer).
+[For Trek View Explorer](/explorer.md).
 
 ##### 5.6K stitched @ 30FPS
 
@@ -150,7 +150,7 @@ exiftool -ee -G3 -api LargeFileSupport=1 -X GS018421.mp4 > GS018421_mp4.xml
 
 ###### Validation checks
 
-[For Trek View Explorer](/explorer).
+[For Trek View Explorer](/explorer.md).
 
 ##### 3K stitched @ 60FPS
 
@@ -166,7 +166,7 @@ exiftool -ee -G3 -api LargeFileSupport=1 -X GS018423.mp4 > GS018423_mp4.xml
 
 ###### Validation checks
 
-[For Trek View Explorer](/explorer).
+[For Trek View Explorer](/explorer.md).
 
 ##### TimeWarp @ 5.6k
 
@@ -182,7 +182,7 @@ exiftool -ee -G3 -api LargeFileSupport=1 -X GS018424.mp4 > GS018424_mp4.xml
 
 ###### Validation checks
 
-[For Trek View Explorer](/explorer).
+[For Trek View Explorer](/explorer.md).
 
 ---
 
@@ -206,4 +206,4 @@ exiftool -X GSAD3685.JPG > GSAD3685.xml
 
 ###### Validation checks
 
-[For Trek View Explorer](/explorer).
+[For Trek View Explorer](/explorer.md).

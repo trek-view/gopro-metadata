@@ -32,7 +32,7 @@ LRV files are low-resolution video files used by GoPros as video previews. THM f
 
 [All files contain GPMF/GPMD telemetry](https://github.com/gopro/gpmf-parser).
 
-#### 360 Video (output .`mp4`)
+### 360 Video (output .`mp4`)
 
 GoPro Fusion creates two seperate video files on the memory card. They are named `GPFR` (front camera) or `GPBK` (back camera). Front and back files have the same number ID and are both .mp4 files (e.g. `GPFR0001.mp4` and `GPBK0001.mp4`). The telemetry is stored in the front .mp4. You can tell it is not stitched as it will not contain `XMP-GSpherical:StitchingSoftware` meta.
 
@@ -50,7 +50,7 @@ exiftool -ee -G3 -api LargeFileSupport=1 -X VIDEO_7152.mp4 > VIDEO_7152.xml
 
 ###### Validation checks
 
-[For Trek View Explorer](/explorer).
+[For Trek View Explorer](/explorer.md).
 
 ---
 
@@ -78,4 +78,4 @@ exiftool -X MULTISHOT_9146_000000.jpg > MULTISHOT_9146_000000.xml
 
 ###### Validation checks
 
-[For Trek View Explorer](/explorer).
+[For Trek View Explorer](/explorer.md).
