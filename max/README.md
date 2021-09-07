@@ -16,7 +16,7 @@
 	* 360 TimeLapse 360 (output .jpg)
 		* 16.6MP stitched (2s, 5s, 10s, 30s, 60s interval)
 
-[User Manual](/gopro/max/MAX_UM_ENG_REVA.pdf)
+[User Manual](/MAX_UM_ENG_REVA.pdf)
 
 ### Notes
 
@@ -56,11 +56,11 @@ exiftool -ee -G3 -api LargeFileSupport=1 -X GS018422.360 > GS018422.xml
 
 ###### Output:
 
-[GS018422.xml](.gopro/max/GS018422.xml)
+[GS018422.xml](/GS018422.xml)
 
 ###### Validation checks
 
-[For Trek View Explorer](.gopro/max/explorer).
+[For Trek View Explorer](/explorer).
 
 ##### 5.6K stitched @ 30FPS
 
@@ -72,11 +72,11 @@ exiftool -ee -G3 -api LargeFileSupport=1 -X VIDEO_7152.mp4 > VIDEO_7152.xml
 
 ###### Output:
 
-[GS018421.xml](.gopro/max/GS018421.xml)
+[GS018421.xml](/GS018421.xml)
 
 ###### Validation checks
 
-[For Trek View Explorer](.gopro/max/explorer).
+[For Trek View Explorer](/explorer).
 
 ##### 3K stitched @ 60FPS
 
@@ -88,11 +88,11 @@ exiftool -ee -G3 -api LargeFileSupport=1 -X GS018423.360 > GS018423.xml
 
 ###### Output:
 
-[GS018423.xml](.gopro/max/GS018423.xml)
+[GS018423.xml](/GS018423.xml)
 
 ###### Validation checks
 
-[For Trek View Explorer](.gopro/max/explorer).
+[For Trek View Explorer](/explorer).
 
 ### Timelapse
 
@@ -106,11 +106,11 @@ exiftool -ee -G3 -api LargeFileSupport=1 -X GS018424.360 > GS018424.xml
 
 ###### Output:
 
-[GS018424.xml](.gopro/max/GS018424.xml)
+[GS018424.xml](/GS018424.xml)
 
 ###### Validation checks
 
-[For Trek View Explorer](.gopro/max/explorer).
+[For Trek View Explorer](/explorer).
 
 ---
 
@@ -138,8 +138,8 @@ exiftool -X GSAD3685.JPG > GSAD3685.xml
 
 ###### Output:
 
-[GSAD3685.JPG](.gopro/max/GSAD3685.xml)
+[GSAD3685.JPG](/GSAD3685.xml)
 
 ###### Validation checks
 
-[For Trek View Explorer](.gopro/max/explorer).
+[For Trek View Explorer](/explorer).

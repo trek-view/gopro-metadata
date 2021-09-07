@@ -14,17 +14,9 @@
 	* 360 TimeLapse (output .jpg)
 		* 18MP stitched (0.5 sec, 1s, 2s, 5s, 10s, 30s, 60s interval)
 
-[User Manual](/gopro/fusion/Fusion_UM_ENG_REVC.pdf)
+[User Manual](/Fusion_UM_ENG_REVC.pdf)
 
 ### Notes
-
-**Stitching videos**
-
-
-
-**Stitching photos**
-
-
 
 **.LRV / .THM / .WAV**
 
@@ -54,11 +46,11 @@ exiftool -ee -G3 -api LargeFileSupport=1 -X VIDEO_7152.mp4 > VIDEO_7152.xml
 
 ###### Output:
 
-[VIDEO_7152.xml](.gopro/fusion/VIDEO_7152.xml)
+[VIDEO_7152.xml](/VIDEO_7152.xml)
 
 ###### Validation checks
 
-[For Trek View Explorer](.gopro/fusion/explorer).
+[For Trek View Explorer](/explorer).
 
 ---
 
@@ -70,6 +62,8 @@ Stitched timelapse file names are preface with `MULTISHOT_` . Each unique timela
 
 Note, GoPro Fusion prestitched files follow an order where timelapse is defined by the first 2 digits (e.g GF08, GF09, GF10).
 
+You can tell it is not stitched as it will not contain `XMP-GPano:StitchingSoftware` meta.
+
 ##### 16.6mp output
 
 ###### Input:
@@ -80,8 +74,8 @@ exiftool -X MULTISHOT_9146_000000.jpg > MULTISHOT_9146_000000.xml
 
 ###### Output:
 
-[MULTISHOT_9146_000000.jpg](.gopro/fusion/MULTISHOT_9146_000000.xml)
+[MULTISHOT_9146_000000.jpg](/MULTISHOT_9146_000000.xml)
 
 ###### Validation checks
 
-[For Trek View Explorer](.gopro/fusion/explorer).
+[For Trek View Explorer](/explorer).
