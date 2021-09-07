@@ -16,6 +16,8 @@
 	* 360 TimeLapse 360 (output .jpg)
 		* 16.6MP stitched (2s, 5s, 10s, 30s, 60s interval)
 
+[User Manual](/gopro/max/MAX_UM_ENG_REVA.pdf)
+
 ### Notes
 
 **.360's**
@@ -26,7 +28,7 @@ All videos shot on the MAX are stitched as `.360` files on the camera. This is a
 
 When shooting GoPro videos on the MAX, the camera will also create .LRV and .THM files.
 
-LRV files are low-resolution video files used by GoPros as video previews. THM files are JPG thumbnails used by GoPros as photo previews. Both are used by the GoPro mobile apps. You can safely delete both filetypes—they'll be regenerated from the original MP4 or image file if needed.
+LRV files are low-resolution video files used by GoPros as video previews. THM files are JPG thumbnails used by GoPros as photo previews. Both are used by the GoPro mobile apps. You can safely delete both filetypes — they'll be regenerated from the original MP4 or image file if needed.
 
 ## Metadata samples
 
@@ -37,6 +39,10 @@ LRV files are low-resolution video files used by GoPros as video previews. THM f
 ### Unprocessed Videos (.360)
 
 The GoPro MAX writes .360 files to the SD card. .360 is a GoPro proprietary format. .360's use EAC projections.
+
+Video file names are preface with `GS` and increase sequentially numerically based on existing files on memory card (e.g. `GS018423.360`, `GS018424.360`.
+
+When shooting video longer than 8 mins (about 4GB), GoPro creates a new .360 file (put another way; .360 video files are chunked into 8min/4gb outputs).
 
 #### 360 Video (output .`360`)
 
@@ -61,7 +67,7 @@ exiftool -ee -G3 -api LargeFileSupport=1 -X GS018422.360 > GS018422.xml
 ###### Input:
 
 ```
-exiftool -ee -G3 -api LargeFileSupport=1 -X GS018421.360 > GS018421.xml
+exiftool -ee -G3 -api LargeFileSupport=1 -X VIDEO_7152.mp4 > VIDEO_7152.xml
 ```
 
 ###### Output:
@@ -119,6 +125,8 @@ Note: because we could not get GPMF metadata (telemetry) to be retained by GoPro
 ### Timelapse photo (.jpg)
 
 360 .jpgs are stitched on camera.
+
+Timelapse file names are preface with `GS` . Each unique timelapse is prefaced with two characters starting at AA, and increase sequentially alphabetically based on existing timelapses on memory card (e.g. `GSAA`, `GSAB`. Each photo in timelapse is assigned a number starting at 0001. The next timelapse photo follows the same sequential numerical order (e.g. GSAA0001.jpg - GSAA0991.jpg, GSAB0992.jpg - GSAB2001.jpg).
 
 ##### 16.6mp output
 
