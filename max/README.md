@@ -67,7 +67,7 @@ exiftool -ee -G3 -api LargeFileSupport=1 -X GS018422.360 > GS018422.xml
 ###### Input:
 
 ```
-exiftool -ee -G3 -api LargeFileSupport=1 -X VIDEO_7152.mp4 > VIDEO_7152.xml
+exiftool -ee -G3 -api LargeFileSupport=1 -X GS018421.360 > GS018421.xml
 ```
 
 ###### Output:
@@ -94,8 +94,6 @@ exiftool -ee -G3 -api LargeFileSupport=1 -X GS018423.360 > GS018423.xml
 
 [For Trek View Explorer](/explorer).
 
-### Timelapse
-
 ##### TimeWarp @ 5.6k
 
 ###### Input:
@@ -114,11 +112,77 @@ exiftool -ee -G3 -api LargeFileSupport=1 -X GS018424.360 > GS018424.xml
 
 ---
 
-### Processed Videos (.mp4 on Win, .mov on Mac)
+### Processed Videos (.mp4)
 
 User need to convert .360's into a more available standard using [GoPro Studio](https://community.gopro.com/t5/en/GoPro-Player/ta-p/413305). This software allows for some video adjustments (e.g. horizon leveling) during processing. Outputted mp4's use equirectangular projections.
 
-Note: because we could not get GPMF metadata (telemetry) to be retained by GoPro software at time of writing, this is omitted here.
+Note: the GPMF metadata (telemetry) is not retained on the Windows version of GoPro Studio.
+
+The files used here were stitched on a Mac in h264 with no additional setting enabled (e.g. Horizon levelling).
+
+##### 5.6K stitched @ 24FPS
+
+###### Input:
+
+```
+exiftool -ee -G3 -api LargeFileSupport=1 -X GS018422.mp4 > GS018422_mp4.xml
+```
+
+###### Output:
+
+[GS018422_mp4.xml](GS018422_mp4.xml)
+
+###### Validation checks
+
+[For Trek View Explorer](/explorer).
+
+##### 5.6K stitched @ 30FPS
+
+###### Input:
+
+```
+exiftool -ee -G3 -api LargeFileSupport=1 -X GS018421.mp4 > GS018421_mp4.xml
+```
+
+###### Output:
+
+[GS018421_mp4.xml](/GS018421_mp4.xml)
+
+###### Validation checks
+
+[For Trek View Explorer](/explorer).
+
+##### 3K stitched @ 60FPS
+
+###### Input:
+
+```
+exiftool -ee -G3 -api LargeFileSupport=1 -X GS018423.mp4 > GS018423_mp4.xml
+```
+
+###### Output:
+
+[GS018423_mp4.xml](/GS018423_mp4.xml)
+
+###### Validation checks
+
+[For Trek View Explorer](/explorer).
+
+##### TimeWarp @ 5.6k
+
+###### Input:
+
+```
+exiftool -ee -G3 -api LargeFileSupport=1 -X GS018424.mp4 > GS018424_mp4.xml
+```
+
+###### Output:
+
+[GS018424_mp4.xml](/GS018424_mp4.xml)
+
+###### Validation checks
+
+[For Trek View Explorer](/explorer).
 
 ---
 

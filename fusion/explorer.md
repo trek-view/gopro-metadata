@@ -7,7 +7,6 @@
 ###### Is GoPro Fusion:
 
 ```
-<Track3:HandlerDescription>GoPro MET</Track3:HandlerDescription>
 <Track3:DeviceName>Fusion</Track3:DeviceName>
 ```
 

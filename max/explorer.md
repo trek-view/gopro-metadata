@@ -87,6 +87,82 @@
 <GoPro:Rate>5X</GoPro:Rate>
 ```
 
+---
+
+### For `.mp4`
+
+###### Is GoPro MAX:
+
+```
+<Track3:DeviceName>GoPro Max</Track3:DeviceName>
+```
+
+###### Is stitched by GoPro Studio
+
+```
+<XMP-GSpherical:StitchingSoftware>Spherical Metadata Tool</XMP-GSpherical:StitchingSoftware>
+```
+
+###### Is equirectangular 
+
+```
+<XMP-GSpherical:ProjectionType>equirectangular</XMP-GSpherical:ProjectionType>
+```
+
+###### Has GoPro telemetry:
+
+```
+<Track3:MetaFormat>gpmd</Track3:MetaFormat>
+```
+
+###### Is correct framerate
+
+**24 FPS (5.6k)**
+
+```
+<Track1:VideoFrameRate>23.976</Track1:VideoFrameRate>
+```
+
+**30 FPS (5.6k)**
+
+```
+<Track1:VideoFrameRate>29.967</Track1:VideoFrameRate>
+```
+
+**60 FPS (3k)**
+
+```
+<Track1:VideoFrameRate>59.941</Track1:VideoFrameRate>
+```
+
+###### Is correct resolution:
+
+**3k (60 FPS)**
+
+```
+<Track1:ImageWidth>3072</Track1:ImageWidth>
+<Track1:ImageHeight>1536</Track1:ImageHeight>
+```
+
+**5.6k (24 FPS, 30 FPS)**
+
+```
+<Track1:ImageWidth>5376</Track1:ImageWidth>
+<Track1:ImageHeight>2688</Track1:ImageHeight>
+```
+
+###### Is longer than 10 seconds:
+
+```
+<Track1:TrackDuration>15.98 s</Track1:TrackDuration>
+```
+
+###### If timewarp
+
+I think it's impossible to identify?
+
+---
+
 ### For `.jpg`
 
 ###### Is GoPro MAX:
