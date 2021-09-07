@@ -6,15 +6,15 @@
 
 ## 360 Modes (suitable for street-level capture)
 
-* Video
+* Unprocessed Video
 	* 360 Video (output .`360`)
 		* 5.6K stitched (24FPS, 30FPS)
 		* 3k stitched (60 FPS)
-* Timelapse
 	* 360 TimeWarp (output `.360`)
-		* (2x,5x,10x,15x,30x)
-	* 360 TimeLapse 360) (output .jpg)
-		* 16.6MP stitched (2s, 5s, 10s, 30s, 60s)
+		* (2x,5x,10x,15x,30x frame rate)
+* Timelapse photo
+	* 360 TimeLapse 360 (output .jpg)
+		* 16.6MP stitched (2s, 5s, 10s, 30s, 60s interval)
 
 ### Notes
 
@@ -31,6 +31,8 @@ LRV files are low-resolution video files used by GoPros as video previews. THM f
 ## Metadata samples
 
 [Download the files here](https://drive.google.com/drive/folders/1T2-ntDGtvBJlgDOmNwrKAQfvkP8leIQD?usp=sharing).
+
+[All files contain GPMF/GPMD telemetry](https://github.com/gopro/gpmf-parser).
 
 ### Unprocessed Videos (.360)
 
@@ -110,5 +112,26 @@ exiftool -ee -G3 -api LargeFileSupport=1 -X GS018424.360 > GS018424.xml
 
 User need to convert .360's into a more available standard using [GoPro Studio](https://community.gopro.com/t5/en/GoPro-Player/ta-p/413305). This software allows for some video adjustments (e.g. horizon leveling) during processing. Outputted mp4's use equirectangular projections.
 
+Note: because we could not get GPMF metadata (telemetry) to be retained by GoPro software at time of writing, this is omitted here.
 
+---
 
+### Timelapse photo (.jpg)
+
+360 .jpgs are stitched on camera.
+
+##### 16.6mp output
+
+###### Input:
+
+```
+exiftool -X GSAD3685.JPG > GSAD3685.xml
+```
+
+###### Output:
+
+[GSAD3685.JPG](.gopro/max/GSAD3685.xml)
+
+###### Validation checks
+
+[For Trek View Explorer](.gopro/max/explorer).

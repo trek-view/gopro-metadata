@@ -2,7 +2,7 @@
 
 ## Explorer Checks
 
-For .`360`
+### For `.360`
 
 ###### Is GoPro MAX:
 
@@ -25,14 +25,19 @@ For .`360`
 
 ###### Is video or timewarp
 
-**Video**
+**Normal Video**
 
+```
 <Track1:CompressorName>GoPro H.265 encoder</Track1:CompressorName>
 <Track6:CompressorName>GoPro H.265 encoder</Track6:CompressorName>
+```
 
-**Timewarp**
+**Timewarp video**
+
+```
 <Track1:CompressorName>GoPro H.265 encoder</Track1:CompressorName>
 <Track5:CompressorName>GoPro H.265 encoder</Track5:CompressorName>
+```
 
 ###### Is correct frame rate
 
@@ -80,4 +85,18 @@ For .`360`
 
 ```
 <GoPro:Rate>5X</GoPro:Rate>
+```
+
+### For `.jpg`
+
+###### Is GoPro MAX:
+
+```
+<IFD0:Model>GoPro Max</IFD0:Model>
+```
+
+###### Is equirectangular:
+
+```
+<XMP-GPano:ProjectionType>equirectangular</XMP-GPano:ProjectionType>
 ```
