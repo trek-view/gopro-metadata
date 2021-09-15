@@ -15,24 +15,25 @@
 		* [5.6K stitched (30FPS)](#56k-stitched--30fps-output-360)
 		* [3k stitched (60 FPS)](#3k-stitched--60fps-output-360)
 	* 360 TimeWarp stitched (output `.360`)
-		* 5x rate
+		* [5x rate](#timewarp-stitched--56k-5x-output-360)
 * Processed Video (output of GoPro Studio)
 	* 360 Video (output `.mp4`)
-		* 5.6K blended (24FPS, 30FPS)
-		* 3k blended (60 FPS)
+		* [5.6K blended (24FPS)](#56k-blended--24fps-output-mp4)
+		* [5.6K blended (30FPS)](#56k-blended--30fps-output-mp4)
+		* [3k blended (60 FPS)](#3k-blended--60fps-output-mp4)
 	* 360 TimeWarp blended (output `.mp4`)
-		* (2x,5x,10x,15x,30x frame rate)
+		* [5x rate](#timewarp-blended--56k-output-mp4)
 	* HERO Video (output `.mp4`)
-		* 1440 @60 FPS
-		* 1080 @60 FPS
-		* 1080 @60 FPS Max SuperView
-	* HERO Timewarp 1080 Auto
-		* (Auto frame rate)
+		* [1440 @60 FPS](#1440-60-fps-output-mp4)
+		* [1080 @60 FPS](#1080-60-fps-output-mp4)
+		* [1080 @60 FPS Max SuperView](#1080-60-fps-max-superview-output-mp4)
+	* HERO Timewarp 1080 Auto (output `.mp4`)
+		* [Auto frame rate](#timewarp-1080-auto-output-mp4)
 * Timelapse photo
 	* 360 TimeLapse 360 (output `.jpg`)
-		* 16.6MP stitched (2s, 5s, 10s, 30s, 60s interval)
+		* [16.6MP stitched (2s, 5s, 10s, 30s, 60s interval)](x#166mp-output-output-jpg)
 	* HERO Photo (output `.jpg`)
-		* 1080 output (wide)
+		* [1080 output (wide)](#1080-output-wide-output-jpg)
 
 ### Notes
 
@@ -94,7 +95,7 @@ exiftool -ee -G3 -api LargeFileSupport=1 -X GS018423.360 > GS018423.xml
 
 [GS018423.xml](/max/GS018423.xml)
 
-##### TimeWarp @ 5.6k 5x (output `.360`)
+##### TimeWarp stitched @ 5.6k 5x (output `.360`)
 
 ###### Input:
 
@@ -116,7 +117,7 @@ Note: the GPMF metadata (telemetry) is not retained on the Windows version of Go
 
 The files used here were stitched on a Mac in h264 with no additional setting enabled (e.g. Horizon levelling).
 
-##### 5.6K stitched @ 24FPS (output `.mp4`)
+##### 5.6K blended @ 24FPS (output `.mp4`)
 
 ###### Input:
 
@@ -128,7 +129,7 @@ exiftool -ee -G3 -api LargeFileSupport=1 -X GS018422.mp4 > GS018422_mp4.xml
 
 [GS018422_mp4.xml](/max/GS018422_mp4.xml)
 
-##### 5.6K stitched @ 30FPS (output `.mp4`)
+##### 5.6K blended @ 30FPS (output `.mp4`)
 
 ###### Input:
 
@@ -140,7 +141,7 @@ exiftool -ee -G3 -api LargeFileSupport=1 -X GS018421.mp4 > GS018421_mp4.xml
 
 [GS018421_mp4.xml](/max/GS018421_mp4.xml)
 
-##### 3K stitched @ 60FPS (output `.mp4`)
+##### 3K blended @ 60FPS (output `.mp4`)
 
 ###### Input:
 
@@ -154,7 +155,7 @@ exiftool -ee -G3 -api LargeFileSupport=1 -X GS018423.mp4 > GS018423_mp4.xml
 
 #### 360 Timewarp
 
-##### TimeWarp @ 5.6k (output `.mp4`)
+##### TimeWarp blended @ 5.6k 5x (output `.mp4`)
 
 ###### Input:
 
