@@ -11,10 +11,11 @@
 
 * Unprocessed Video
 	* 360 Video (output .`360`)
-		* 5.6K stitched (24FPS, 30FPS)
-		* 3k stitched (60 FPS)
+		* [5.6K stitched (24FPS)](#56k-stitched--24fps-output-360)
+		* [5.6K stitched (30FPS)](#56k-stitched--30fps-output-360)
+		* [3k stitched (60 FPS)](#3k-stitched--60fps-output-360)
 	* 360 TimeWarp stitched (output `.360`)
-		* (2x,5x,10x,15x,30x frame rate)
+		* 5x rate
 * Processed Video (output of GoPro Studio)
 	* 360 Video (output `.mp4`)
 		* 5.6K blended (24FPS, 30FPS)
@@ -55,9 +56,9 @@ Video file names are preface with `GS` and increase sequentially numerically bas
 
 When shooting video longer than 8 mins (about 4GB), GoPro creates a new .360 file (put another way; .360 video files are chunked into 8min/4gb outputs).
 
-#### 360 Video (output `.360`)
+#### 360 Video
 
-##### 5.6K stitched @ 24FPS
+##### 5.6K stitched @ 24FPS (output `.360`)
 
 ###### Input:
 
@@ -93,7 +94,7 @@ exiftool -ee -G3 -api LargeFileSupport=1 -X GS018423.360 > GS018423.xml
 
 [GS018423.xml](/max/GS018423.xml)
 
-##### TimeWarp @ 5.6k (output `.360`)
+##### TimeWarp @ 5.6k 5x (output `.360`)
 
 ###### Input:
 

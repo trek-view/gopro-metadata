@@ -17,7 +17,7 @@ Before processing them, we need to understand the format (or standard) of files 
 
 ## GPMF 101
 
-All GoPro cameras write telemetry data (GPS)in their own GoPro Metadata Format (GPMF / GPMD) also called the General Purpose Metadata Framework.
+All GoPro cameras write video telemetry data (GPS) in their own GoPro Metadata Format (GPMF / GPMD) also called the General Purpose Metadata Framework.
 
 [This blog post provides a good introduction](https://gopro.com/en/us/news/gopro-video-metadata-open-source-explained).
 
