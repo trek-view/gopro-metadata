@@ -64,11 +64,10 @@ NEED SAMPLE
 ###### Is GoPro Fusion:
 
 ```
-<IFD0:Make>GoPro</IFD0:Make>
 <IFD0:Model>GoPro Fusion FS1.04.01.80.00</IFD0:Model>
 ```
 
-_Note: only GoPro Fusion needs to exist in IFD0:Model tag._
+_Note: only "GoPro Fusion" needs to exist in IFD0:Model tag._
 
 ###### Is equirectangular:
 

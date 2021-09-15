@@ -14,13 +14,20 @@
 
 ```
 <Track1:CompressorName>GoPro H.265 encoder</Track1:CompressorName>
-<Track6:CompressorName>GoPro H.265 encoder</Track6:CompressorName>
 ```
 
 ###### Has GoPro telemetry:
 
+**Normal Video**
+
 ```
 <Track4:MetaFormat>gpmd</Track4:MetaFormat>
+```
+
+**Timewarp video**
+
+```
+<Track3:MetaFormat>gpmd</Track3:MetaFormat>
 ```
 
 ###### Is video or timewarp
@@ -28,14 +35,12 @@
 **Normal Video**
 
 ```
-<Track1:CompressorName>GoPro H.265 encoder</Track1:CompressorName>
 <Track6:CompressorName>GoPro H.265 encoder</Track6:CompressorName>
 ```
 
 **Timewarp video**
 
 ```
-<Track1:CompressorName>GoPro H.265 encoder</Track1:CompressorName>
 <Track5:CompressorName>GoPro H.265 encoder</Track5:CompressorName>
 ```
 
@@ -93,8 +98,18 @@
 
 ###### Is GoPro MAX:
 
+
+**Normal Video**
+
 ```
 <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+```
+
+**Timewarp video**
+
+```
+<Track2:DeviceName>GoPro Max</Track2:DeviceName>
+
 ```
 
 ###### Is stitched by GoPro Studio
@@ -111,8 +126,16 @@
 
 ###### Has GoPro telemetry:
 
+**Normal Video**
+
 ```
 <Track3:MetaFormat>gpmd</Track3:MetaFormat>
+```
+
+**Timewarp video**
+
+```
+<Track2:MetaFormat>gpmd</Track2:MetaFormat>
 ```
 
 ###### Is correct framerate
@@ -159,7 +182,17 @@
 
 ###### If timewarp
 
-I think it's impossible to identify?
+**Normal Video**
+
+```
+<Track3:MetaFormat>gpmd</Track3:MetaFormat>
+```
+
+**Timewarp video**
+
+```
+<Track2:MetaFormat>gpmd</Track2:MetaFormat>
+```
 
 ---
 

@@ -1,23 +1,23 @@
-# GoPro 360 Metadata
+# GoPro Metadata
 
 ## In one sentence
 
-This repository exists to accumulate and understand the metadata produced by GoPro 360 cameras.
+This repository exists to accumulate and understand the metadata produced by GoPro  cameras.
 
 ## Why we built this
 
-We build software that processes 360 video and image files. In many cases these files contain telemetry data (e.g are geotagged).
+We build software that processes GoPro video and image files. In many cases these files contain telemetry data (e.g are geotagged).
 
 Before processing them, we need to understand the format (or standard) of files each camera produces to process it correctly.
 
-## Cameras
+## Cameras tested
 
 * [Fusion](/fusion)
 * [MAX](/max)
 
 ## GPMF 101
 
-All GoPro 360 cameras (and non 360 cams) write telemetry data in their own GoPro Metadata Format (GPMF / GPMD) also called the General Purpose Metadata Framework.
+All GoPro cameras write telemetry data (GPS)in their own GoPro Metadata Format (GPMF / GPMD) also called the General Purpose Metadata Framework.
 
 [This blog post provides a good introduction](https://gopro.com/en/us/news/gopro-video-metadata-open-source-explained).
 
@@ -29,6 +29,12 @@ Other useful tools for understanding / using GPMF:
 
 * https://github.com/stilldavid/gopro-utils
 * https://github.com/gopro/gpmf-write
+
+## .LRV / .THM
+
+When shooting GoPro videos, the camera will also create .LRV and .THM files.
+
+LRV files are low-resolution video files used by GoPros as video previews. THM files are JPG thumbnails used by GoPros as photo previews. Both are used by the GoPro mobile apps. You can safely delete both filetypes — they'll be regenerated from the original MP4 or image file if needed.
 
 ## License
 
