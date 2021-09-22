@@ -15,7 +15,11 @@
 		* [5.6K stitched (30FPS)](#56k-stitched--30fps-output-360)
 		* [3k stitched (60 FPS)](#3k-stitched--60fps-output-360)
 	* 360 TimeWarp stitched (output `.360`)
+		* [2x rate](#timewarp-stitched--56k-2x-output-360)
 		* [5x rate](#timewarp-stitched--56k-5x-output-360)
+		* [10x rate](#timewarp-stitched--56k-10x-output-360)
+		* [15x rate](#timewarp-stitched--56k-15x-output-360)
+		* [30x rate](#timewarp-stitched--56k-30x-output-360)
 * Processed Video (output of GoPro Studio)
 	* 360 Video (output `.mp4`)
 		* [5.6K blended (24FPS)](#56k-blended--24fps-output-mp4)
@@ -41,6 +45,7 @@
 
 All videos shot on the MAX are stitched as `.360` files on the camera. This is a propriatory GoPro format (with EAC projection). [Using GoPro Player](https://community.gopro.com/t5/en/GoPro-Player/ta-p/413305) you can convert to mp4 (with equirectanguar projection).
 
+
 #### Download Samples
 
 [Download the all the samples here](https://drive.google.com/drive/folders/1T2-ntDGtvBJlgDOmNwrKAQfvkP8leIQD?usp=sharing).
@@ -61,51 +66,43 @@ When shooting video longer than 8 mins (about 4GB), GoPro creates a new .360 fil
 
 ##### 5.6K stitched @ 24FPS (output `.360`)
 
-###### Input:
-
-```
-exiftool -ee -G3 -api LargeFileSupport=1 -X GS018422.360 > GS018422.xml
-```
-
-###### Output:
-
-[GS018422.xml](/max/GS018422.xml)
+* [GS018422.xml](/max/GS018422.xml)
+* Telemetry: Track4
 
 ##### 5.6K stitched @ 30FPS (output `.360`)
 
-###### Input:
-
-```
-exiftool -ee -G3 -api LargeFileSupport=1 -X GS018421.360 > GS018421.xml
-```
-
-###### Output:
-
-[GS018421.xml](/max/GS018421.xml)
+* [GS018421.xml](/max/GS018421.xml)
+* Telemetry: Track4
 
 ##### 3K stitched @ 60FPS (output `.360`)
 
-###### Input:
+* [GS018423.xml](/max/GS018423.xml)
+* Telemetry: Track4
 
-```
-exiftool -ee -G3 -api LargeFileSupport=1 -X GS018423.360 > GS018423.xml
-```
+##### TimeWarp stitched @ 5.6k 2x (output `.360`)
 
-###### Output:
-
-[GS018423.xml](/max/GS018423.xml)
+* [GS018469.xml](/max/GS018469.xml)
+* Telemetry: Track3
 
 ##### TimeWarp stitched @ 5.6k 5x (output `.360`)
 
-###### Input:
+* [GS018424.xml](/max/GS018424.xml)
+* Telemetry: Track3
 
-```
-exiftool -ee -G3 -api LargeFileSupport=1 -X GS018424.360 > GS018424.xml
-```
+##### TimeWarp stitched @ 5.6k 10x (output `.360`)
 
-###### Output:
+* [GS018470.xml](/max/GS018470.xml)
+* Telemetry: Track3
 
-[GS018424.xml](/GS018424.xml)
+##### TimeWarp stitched @ 5.6k 15x (output `.360`)
+
+* [GS018471.xml](/max/GS018471.xml)
+* Telemetry: Track3
+
+##### TimeWarp stitched @ 5.6k 30x (output `.360`)
+
+* [GS018472.xml](/max/GS018472.xml)
+* Telemetry: Track3
 
 ### Processed Videos
 
@@ -119,91 +116,40 @@ The files used here were stitched on a Mac in h264 with no additional setting en
 
 ##### 5.6K blended @ 24FPS (output `.mp4`)
 
-###### Input:
-
-```
-exiftool -ee -G3 -api LargeFileSupport=1 -X GS018422.mp4 > GS018422_mp4.xml
-```
-
-###### Output:
-
-[GS018422_mp4.xml](/max/GS018422_mp4.xml)
+* [GS018422_mp4.xml](/max/GS018422_mp4.xml)
+* Telemetry: Track3
 
 ##### 5.6K blended @ 30FPS (output `.mp4`)
 
-###### Input:
-
-```
-exiftool -ee -G3 -api LargeFileSupport=1 -X GS018421.mp4 > GS018421_mp4.xml
-```
-
-###### Output:
-
-[GS018421_mp4.xml](/max/GS018421_mp4.xml)
+* [GS018421_mp4.xml](/max/GS018421_mp4.xml)
+* Telemetry: Track3
 
 ##### 3K blended @ 60FPS (output `.mp4`)
 
-###### Input:
+* [GS018423_mp4.xml](/max/GS018423_mp4.xml)
+* Telemetry: Track3
 
-```
-exiftool -ee -G3 -api LargeFileSupport=1 -X GS018423.mp4 > GS018423_mp4.xml
-```
+#### 360 Timewarp @ 5.6k 2x
 
-###### Output:
-
-[GS018423_mp4.xml](/max/GS018423_mp4.xml)
-
-#### 360 Timewarp
-
-##### TimeWarp blended @ 5.6k 5x (output `.mp4`)
-
-###### Input:
-
-```
-exiftool -ee -G3 -api LargeFileSupport=1 -X GS018424.mp4 > GS018424_mp4.xml
-```
-
-###### Output:
-
-[GS018424_mp4.xml](/max/GS018424_mp4.xml)
+* [GS018424_mp4.xml](/max/GS018424_mp4.xml)
+* Telemetry: Track2
 
 #### HERO Video
 
 ##### 1440 @60 FPS (output .`mp4`)
 
-###### Input:
-
-```
-exiftool -ee -G3 -api LargeFileSupport=1 -X GH018429.MP4 > GH018429_mp4.xml
-```
-
-###### Output:
-
-[GH018429_mp4.xml](/max/GH018429_mp4.xml)
+* [GH018429_mp4.xml](/max/GH018429_mp4.xml)
+* Telemetry: Track4
 
 ##### 1080 @60 FPS (output .`mp4`)
 
-###### Input:
-
-```
-exiftool -ee -G3 -api LargeFileSupport=1 -X GH018427.MP4 > GH018427_mp4.xml
-```
-
-###### Output:
-
-[GH018429_mp4.xml](/max/GH018427_mp4.xml)
+* [GH018429_mp4.xml](/max/GH018427_mp4.xml)
+* Telemetry: Track4
 
 ##### 1080 @60 FPS Max SuperView (output .`mp4`)
 
-###### Input:
-
-```
-exiftool -ee -G3 -api LargeFileSupport=1 -X GH018428.MP4 > GH018428_mp4.xml
-```
-
-###### Output:
-
-[GH018429_mp4.xml](/max/GH018429_mp4.xml)
+* [GH018429_mp4.xml](/max/GH018428_mp4.xml)
+* Telemetry: Track4
 
 #### HERO Timewarp
 
@@ -211,15 +157,8 @@ Timewarps can be set at a number of framerates from 2x to 60x (or auto, where Go
 
 ##### Timewarp 1080 Auto (output .`mp4`)
 
-###### Input:
-
-```
-exiftool -ee -G3 -api LargeFileSupport=1 -X GH018426.MP4 > GH018426_mp4.xml
-```
-
-###### Output:
-
-[GH018429_mp4.xml](/max/GH018426_mp4.xml)
+* [GH018429_mp4.xml](/max/GH018426_mp4.xml)
+* Telemetry: Track4
 
 ---
 
@@ -233,15 +172,7 @@ Timelapse file names are preface with `GS` . Each unique timelapse is prefaced w
 
 ##### 16.6mp output (output `.jpg`)
 
-###### Input:
-
-```
-exiftool -X GSAD3685.JPG > GSAD3685.xml
-```
-
-###### Output:
-
-[GSAD3685.JPG](/max/GSAD3685.xml)
+* [GSAD3685.JPG](/max/GSAD3685.xml)
 
 #### HERO Timelapse photo 
 
@@ -251,12 +182,4 @@ Timelapse file names are preface with `GP` . Each unique timelapse is prefaced w
 
 ##### 1080 output (wide) (output `.jpg`)
 
-###### Input:
-
-```
-exiftool -X GPAA8441.JPG > GPAA8441.xml
-```
-
-###### Output:
-
-[GSAD3685.JPG](/max/GPAA8441.xml)
+* [GSAD3685.JPG](/max/GPAA8441.xml)

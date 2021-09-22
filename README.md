@@ -10,6 +10,22 @@ We build software that processes GoPro video and image files. In many cases thes
 
 Before processing them, we need to understand the format (or standard) of files each camera produces to process it correctly.
 
+## Extraction logic
+
+We use exiftool to extract metadata from both video and photo files.
+
+For videos:
+
+```
+exiftool -ee -G3 -api LargeFileSupport=1 -X VIDEO.360 > VIDEO.xml
+```
+
+For photos:
+
+```
+exiftool -ee -X PHOTO.JPG > PHOTO.xml
+```
+
 ## Cameras tested
 
 * [Fusion](/fusion)
