@@ -9,7 +9,8 @@
 * Processed Video
 	* 360 Video (output .`mp4`)
 		* 5.2K stitched (30 FPS)
-		* 3k stitched (60 FPS)
+		* 3k stitched (50 FPS, PAL)
+		* 3k stitched (60 FPS, NTSC)
 * Timelapse photo
 	* 360 TimeLapse (output .jpg)
 		* 18MP stitched (0.5 sec, 1s, 2s, 5s, 10s, 30s, 60s interval)
@@ -42,19 +43,18 @@ GoPro Fusion creates two seperate video files on the memory card. They are named
 
 ##### 5.6K stitched @ 30 FPS
 
-###### Input:
+* [VIDEO_7152.xml](/VIDEO_7152.xml)
+* Telemetry: Track3
 
-```
-exiftool -ee -G3 -api LargeFileSupport=1 -X VIDEO_7152.mp4 > VIDEO_7152.xml
-```
+##### 3K stitched at 50FPS (PAL)
 
-###### Output:
+* [VIDEO_8806.xml](/fusion/VIDEO_8806.xml)
+* Telemetry: Track3
 
-[VIDEO_7152.xml](/VIDEO_7152.xml)
+##### 3K stitched at 60FPS (NTSC)
 
-###### Validation checks
-
-[For Trek View Explorer](/explorer.md).
+* [VIDEO_8807.xml](/fusion/VIDEO_8807.xml)
+* Telemetry: Track3
 
 ---
 
@@ -70,16 +70,4 @@ You can tell it is not stitched as it will not contain `XMP-GPano:StitchingSoftw
 
 ##### 16.6mp output
 
-###### Input:
-
-```
-exiftool -X MULTISHOT_9146_000000.jpg > MULTISHOT_9146_000000.xml
-```
-
-###### Output:
-
-[MULTISHOT_9146_000000.jpg](/MULTISHOT_9146_000000.xml)
-
-###### Validation checks
-
-[For Trek View Explorer](/explorer.md).
+* [MULTISHOT_9146_000000.jpg](/MULTISHOT_9146_000000.xml)
