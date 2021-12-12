@@ -46,11 +46,10 @@ Other useful tools for understanding / using GPMF:
 * https://github.com/stilldavid/gopro-utils
 * https://github.com/gopro/gpmf-write
 
-## .LRV / .THM
 
-When shooting GoPro videos, the camera will also create .LRV and .THM files.
+## More
 
-LRV files are low-resolution video files used by GoPros as video previews. THM files are JPG thumbnails used by GoPros as photo previews. Both are used by the GoPro mobile apps. You can safely delete both filetypes — they'll be regenerated from the original MP4 or image file if needed.
+[See our research into GoPro files here](https://guides.trekview.org/explorer/developer-docs/sequences/process/gopro-video-telemetry).
 
 ## License
 

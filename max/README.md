@@ -22,10 +22,11 @@
 		* [30x rate](#timewarp-stitched--56k-30x-output-360)
 * Processed Video (output of GoPro Studio)
 	* 360 Video (output `.mp4`)
-		* [5.6K blended (24FPS)](#56k-blended--24fps-output-mp4)
-		* [5.6K blended (30FPS)](#56k-blended--30fps-output-mp4)
-		* [3k blended (60 FPS)](#3k-blended--60fps-output-mp4)
-	* 360 TimeWarp blended (output `.mp4`)
+		* [5.6K stitched (24FPS)](#56k-blended--24fps-output-mp4)
+		* [5.6K stitched (30FPS)](#56k-blended--30fps-output-mp4)
+		* [4K stitched ()]()
+		* [3k stitched (60 FPS)](#3k-blended--60fps-output-mp4)
+	* 360 TimeWarp stitched (output `.mp4`)
 		* [5x rate](#timewarp-blended--56k-output-mp4)
 	* HERO Video (output `.mp4`)
 		* [1440 @60 FPS](#1440-60-fps-output-mp4)
@@ -114,17 +115,17 @@ Note: the GPMF metadata (telemetry) is not retained on the Windows version of Go
 
 The files used here were stitched on a Mac in h264 with no additional setting enabled (e.g. Horizon levelling).
 
-##### 5.6K blended @ 24FPS (output `.mp4`)
+##### 5.6K stitched @ 24FPS (output `.mp4`)
 
 * [GS018422_mp4.xml](/max/GS018422_mp4.xml)
 * Telemetry: Track3
 
-##### 5.6K blended @ 30FPS (output `.mp4`)
+##### 5.6K stitched @ 30FPS (output `.mp4`)
 
 * [GS018421_mp4.xml](/max/GS018421_mp4.xml)
 * Telemetry: Track3
 
-##### 3K blended @ 60FPS (output `.mp4`)
+##### 3K stitched @ 60FPS (output `.mp4`)
 
 * [GS018423_mp4.xml](/max/GS018423_mp4.xml)
 * Telemetry: Track3
