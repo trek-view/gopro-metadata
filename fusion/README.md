@@ -4,30 +4,20 @@
 * Model: Fusion
 * On Sale: 2017 - 2020
 
-## 360 Modes (suitable for street-level capture)
-
-* Processed Video
-	* 360 Video (output .`mp4`)
-		* 5.2K stitched (30 FPS)
-		* 3k stitched (50 FPS, PAL)
-		* 3k stitched (60 FPS, NTSC)
-* Timelapse photo
-	* 360 TimeLapse (output .jpg)
-		* 18MP stitched (0.5 sec, 1s, 2s, 5s, 10s, 30s, 60s interval)
-
-[User Manual](/Fusion_UM_ENG_REVC.pdf)
+---
 
 ## Notes
 
-### More
+### Info
 
-[See our research into GoPro Fusion files here](https://guides.trekview.org/explorer/developer-docs/sequences/process/gopro-fusion).
+* [User Manual](/Fusion_UM_ENG_REVC.pdf)
+* [See our research into GoPro Fusion files here](https://guides.trekview.org/explorer/developer-docs/sequences/process/gopro-fusion).
+
+---
 
 ## Metadata samples
 
 [Download the files here](https://drive.google.com/drive/folders/1QaNr-cfUT4lBYxVoBVe98q_-WH6NAd31?usp=sharing).
-
-[All files contain GPMF/GPMD telemetry](https://github.com/gopro/gpmf-parser).
 
 ---
 

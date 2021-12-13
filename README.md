@@ -31,6 +31,8 @@ exiftool -ee -X PHOTO.JPG > PHOTO.xml
 * [Fusion](/fusion)
 * [MAX](/max)
 
+[All files contain GPMF/GPMD telemetry](https://github.com/gopro/gpmf-parser).
+
 ## GPMF 101
 
 All GoPro cameras write video telemetry data (GPS) in their own GoPro Metadata Format (GPMF / GPMD) also called the General Purpose Metadata Framework.
