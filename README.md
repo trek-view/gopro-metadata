@@ -2,7 +2,7 @@
 
 ## In one sentence
 
-This repository exists to accumulate and understand the metadata produced by GoPro  cameras.
+This repository exists to accumulate and understand the metadata produced by GoPro cameras.
 
 ## Why we built this
 
@@ -12,21 +12,13 @@ Before processing them, we need to understand the format (or standard) of files 
 
 ## Extraction logic
 
-We use exiftool to extract metadata from both video and photo files.
-
-For videos:
+We use exiftool to extract metadata from both video and photo files like so:
 
 ```
-exiftool -ee -G3 -api LargeFileSupport=1 -X VIDEO.360 > VIDEO.xml
+exiftool -ee -G3 -api LargeFileSupport=1 -X INPUT.FILE > OUTPUT.xml
 ```
 
-For photos:
-
-```
-exiftool -ee -X PHOTO.JPG > PHOTO.xml
-```
-
-## Cameras tested
+## Cameras currently covered
 
 * [Fusion](/fusion)
 * [MAX](/max)
@@ -47,7 +39,6 @@ Other useful tools for understanding / using GPMF:
 
 * https://github.com/stilldavid/gopro-utils
 * https://github.com/gopro/gpmf-write
-
 
 ## More
 
