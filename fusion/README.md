@@ -9,5 +9,4 @@
 ## Metadata Samples
 
 * Metadata analysis: https://guides.trekview.org/explorer/developer-docs/sequences/capture/gopro-fusion-camera-modes
-* Download files: https://drive.google.com/drive/folders/140tT2tqLQZvgLavw1qSBrkXSbH3uKsUK?usp=sharing
-* User manual: https://drive.google.com/file/d/1mW7s9HdNWRadRdNIGzykIPH6qGRMrZCV/view
+* Download files (inc user manual): https://drive.google.com/drive/folders/140tT2tqLQZvgLavw1qSBrkXSbH3uKsUK?usp=sharing
