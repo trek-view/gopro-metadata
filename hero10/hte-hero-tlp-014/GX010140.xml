@@ -1,0 +1,2584 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+<rdf:Description rdf:about='GX010140.MP4'
+  xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 12.36'
+  xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
+  xmlns:System='http://ns.exiftool.org/File/System/1.0/'
+  xmlns:File='http://ns.exiftool.org/File/1.0/'
+  xmlns:QuickTime='http://ns.exiftool.org/QuickTime/QuickTime/1.0/'
+  xmlns:UserData='http://ns.exiftool.org/QuickTime/UserData/1.0/'
+  xmlns:GoPro='http://ns.exiftool.org/QuickTime/GoPro/1.0/'
+  xmlns:Track1='http://ns.exiftool.org/QuickTime/Track1/1.0/'
+  xmlns:Track2='http://ns.exiftool.org/QuickTime/Track2/1.0/'
+  xmlns:Track3='http://ns.exiftool.org/QuickTime/Track3/1.0/'
+  xmlns:Track4='http://ns.exiftool.org/QuickTime/Track4/1.0/'
+  xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
+ <ExifTool:ExifToolVersion>12.36</ExifTool:ExifToolVersion>
+ <System:FileName>GX010140.MP4</System:FileName>
+ <System:Directory>.</System:Directory>
+ <System:FileSize>24 MiB</System:FileSize>
+ <System:FileModifyDate>2022:06:08 17:02:43+01:00</System:FileModifyDate>
+ <System:FileAccessDate>2022:01:13 13:11:12+00:00</System:FileAccessDate>
+ <System:FileInodeChangeDate>2022:01:13 12:00:51+00:00</System:FileInodeChangeDate>
+ <System:FilePermissions>-rwxrwxrwx</System:FilePermissions>
+ <File:FileType>MP4</File:FileType>
+ <File:FileTypeExtension>mp4</File:FileTypeExtension>
+ <File:MIMEType>video/mp4</File:MIMEType>
+ <QuickTime:MajorBrand>MP4 v1 [ISO 14496-1:ch13]</QuickTime:MajorBrand>
+ <QuickTime:MinorVersion>2013.10.18</QuickTime:MinorVersion>
+ <QuickTime:CompatibleBrands>
+  <rdf:Bag>
+   <rdf:li>mp41</rdf:li>
+  </rdf:Bag>
+ </QuickTime:CompatibleBrands>
+ <QuickTime:MediaDataSize>25251510</QuickTime:MediaDataSize>
+ <QuickTime:MediaDataOffset>36</QuickTime:MediaDataOffset>
+ <QuickTime:MovieHeaderVersion>0</QuickTime:MovieHeaderVersion>
+ <QuickTime:CreateDate>2022:06:08 16:01:52</QuickTime:CreateDate>
+ <QuickTime:ModifyDate>2022:06:08 16:01:52</QuickTime:ModifyDate>
+ <QuickTime:TimeScale>30000</QuickTime:TimeScale>
+ <QuickTime:Duration>2.09 s</QuickTime:Duration>
+ <QuickTime:PreferredRate>1</QuickTime:PreferredRate>
+ <QuickTime:PreferredVolume>100.00%</QuickTime:PreferredVolume>
+ <QuickTime:MatrixStructure>1 0 0 0 1 0 0 0 1</QuickTime:MatrixStructure>
+ <QuickTime:PreviewTime>0 s</QuickTime:PreviewTime>
+ <QuickTime:PreviewDuration>0 s</QuickTime:PreviewDuration>
+ <QuickTime:PosterTime>0 s</QuickTime:PosterTime>
+ <QuickTime:SelectionTime>0 s</QuickTime:SelectionTime>
+ <QuickTime:SelectionDuration>0 s</QuickTime:SelectionDuration>
+ <QuickTime:CurrentTime>0 s</QuickTime:CurrentTime>
+ <QuickTime:NextTrackID>5</QuickTime:NextTrackID>
+ <UserData:GPSCoordinates>53 deg 22&#39; 24.24&quot; N, 1 deg 34&#39; 39.36&quot; W</UserData:GPSCoordinates>
+ <UserData:FirmwareVersion>H21.01.01.10.00</UserData:FirmwareVersion>
+ <UserData:LensSerialNumber rdf:datatype='http://www.w3.org/2001/XMLSchema#base64Binary'>
+TEtPMTA5MTkwNDQwMjg4OAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAA
+</UserData:LensSerialNumber>
+ <UserData:SerialNumberHash>2e42b0cdffea08c4fccfb6454401d21f</UserData:SerialNumberHash>
+ <GoPro:DeviceName>Global Settings</GoPro:DeviceName>
+ <GoPro:MetadataVersion>8.1.4</GoPro:MetadataVersion>
+ <GoPro:FirmwareVersion>H21.01.01.10.00</GoPro:FirmwareVersion>
+ <GoPro:CameraSerialNumber>C3461325454327</GoPro:CameraSerialNumber>
+ <GoPro:Model>HERO10 Black</GoPro:Model>
+ <GoPro:MediaUniqueID>cdb0422ec408eaff45b6cffc1fd2014400000000000000000000000000000000</GoPro:MediaUniqueID>
+ <GoPro:AutoRotation>Up</GoPro:AutoRotation>
+ <GoPro:DigitalZoom>Yes</GoPro:DigitalZoom>
+ <GoPro:ProTune>On</GoPro:ProTune>
+ <GoPro:WhiteBalance>AUTO</GoPro:WhiteBalance>
+ <GoPro:Sharpness>MED</GoPro:Sharpness>
+ <GoPro:ColorMode>NATURAL</GoPro:ColorMode>
+ <GoPro:MaximumShutterAngle>AUTO</GoPro:MaximumShutterAngle>
+ <GoPro:AutoISOMax>1600</GoPro:AutoISOMax>
+ <GoPro:AutoISOMin>100</GoPro:AutoISOMin>
+ <GoPro:ExposureCompensation>0.0</GoPro:ExposureCompensation>
+ <GoPro:Rate>AUTO</GoPro:Rate>
+ <GoPro:FieldOfView>Wide</GoPro:FieldOfView>
+ <GoPro:SensorReadoutTime>11.2070007324219</GoPro:SensorReadoutTime>
+ <GoPro:ElectronicImageStabilization>HS EIS</GoPro:ElectronicImageStabilization>
+ <GoPro:AudioSetting>AUTO</GoPro:AudioSetting>
+ <GoPro:DeviceName>Highlights</GoPro:DeviceName>
+ <Track1:TrackHeaderVersion>0</Track1:TrackHeaderVersion>
+ <Track1:TrackCreateDate>2022:06:08 16:01:52</Track1:TrackCreateDate>
+ <Track1:TrackModifyDate>2022:06:08 16:01:52</Track1:TrackModifyDate>
+ <Track1:TrackID>1</Track1:TrackID>
+ <Track1:TrackDuration>2.04 s</Track1:TrackDuration>
+ <Track1:TrackLayer>0</Track1:TrackLayer>
+ <Track1:TrackVolume>0.00%</Track1:TrackVolume>
+ <Track1:MatrixStructure>1 0 0 0 1 0 0 0 1</Track1:MatrixStructure>
+ <Track1:ImageWidth>2704</Track1:ImageWidth>
+ <Track1:ImageHeight>2028</Track1:ImageHeight>
+ <Track1:TimeCode>3</Track1:TimeCode>
+ <Track1:MediaHeaderVersion>0</Track1:MediaHeaderVersion>
+ <Track1:MediaCreateDate>2022:06:08 16:01:52</Track1:MediaCreateDate>
+ <Track1:MediaModifyDate>2022:06:08 16:01:52</Track1:MediaModifyDate>
+ <Track1:MediaTimeScale>30000</Track1:MediaTimeScale>
+ <Track1:MediaDuration>2.04 s</Track1:MediaDuration>
+ <Track1:HandlerClass>Media Handler</Track1:HandlerClass>
+ <Track1:HandlerType>Video Track</Track1:HandlerType>
+ <Track1:HandlerDescription>GoPro H.265</Track1:HandlerDescription>
+ <Track1:GraphicsMode>srcCopy</Track1:GraphicsMode>
+ <Track1:OpColor>0 0 0</Track1:OpColor>
+ <Track1:CompressorID>hvc1</Track1:CompressorID>
+ <Track1:SourceImageWidth>2704</Track1:SourceImageWidth>
+ <Track1:SourceImageHeight>2028</Track1:SourceImageHeight>
+ <Track1:XResolution>72</Track1:XResolution>
+ <Track1:YResolution>72</Track1:YResolution>
+ <Track1:CompressorName>GoPro H.265 encoder</Track1:CompressorName>
+ <Track1:BitDepth>24</Track1:BitDepth>
+ <Track1:VideoFrameRate>29.97</Track1:VideoFrameRate>
+ <Track2:TrackHeaderVersion>0</Track2:TrackHeaderVersion>
+ <Track2:TrackCreateDate>2022:06:08 16:01:52</Track2:TrackCreateDate>
+ <Track2:TrackModifyDate>2022:06:08 16:01:52</Track2:TrackModifyDate>
+ <Track2:TrackID>2</Track2:TrackID>
+ <Track2:TrackDuration>2.09 s</Track2:TrackDuration>
+ <Track2:TrackLayer>0</Track2:TrackLayer>
+ <Track2:TrackVolume>39.06%</Track2:TrackVolume>
+ <Track2:MatrixStructure>1 0 0 0 1 0 0 0 1</Track2:MatrixStructure>
+ <Track2:TimeCode>3</Track2:TimeCode>
+ <Track2:MediaHeaderVersion>0</Track2:MediaHeaderVersion>
+ <Track2:MediaCreateDate>2022:06:08 16:01:52</Track2:MediaCreateDate>
+ <Track2:MediaModifyDate>2022:06:08 16:01:52</Track2:MediaModifyDate>
+ <Track2:MediaTimeScale>48000</Track2:MediaTimeScale>
+ <Track2:MediaDuration>2.09 s</Track2:MediaDuration>
+ <Track2:HandlerClass>Media Handler</Track2:HandlerClass>
+ <Track2:HandlerType>Audio Track</Track2:HandlerType>
+ <Track2:HandlerDescription>GoPro AAC  </Track2:HandlerDescription>
+ <Track2:Balance>0</Track2:Balance>
+ <Track2:AudioFormat>mp4a</Track2:AudioFormat>
+ <Track2:AudioChannels>2</Track2:AudioChannels>
+ <Track2:AudioBitsPerSample>24</Track2:AudioBitsPerSample>
+ <Track2:AudioSampleRate>48000</Track2:AudioSampleRate>
+ <Track3:TrackHeaderVersion>0</Track3:TrackHeaderVersion>
+ <Track3:TrackCreateDate>2022:06:08 16:01:52</Track3:TrackCreateDate>
+ <Track3:TrackModifyDate>2022:06:08 16:01:52</Track3:TrackModifyDate>
+ <Track3:TrackID>3</Track3:TrackID>
+ <Track3:TrackDuration>2.04 s</Track3:TrackDuration>
+ <Track3:TrackLayer>0</Track3:TrackLayer>
+ <Track3:TrackVolume>0.00%</Track3:TrackVolume>
+ <Track3:MatrixStructure>1 0 0 0 1 0 0 0 1</Track3:MatrixStructure>
+ <Track3:MediaHeaderVersion>0</Track3:MediaHeaderVersion>
+ <Track3:MediaCreateDate>2022:06:08 16:01:52</Track3:MediaCreateDate>
+ <Track3:MediaModifyDate>2022:06:08 16:01:52</Track3:MediaModifyDate>
+ <Track3:MediaTimeScale>30000</Track3:MediaTimeScale>
+ <Track3:MediaDuration>2.04 s</Track3:MediaDuration>
+ <Track3:HandlerClass>Media Handler</Track3:HandlerClass>
+ <Track3:HandlerType>Time Code</Track3:HandlerType>
+ <Track3:HandlerDescription>GoPro TCD  </Track3:HandlerDescription>
+ <Track3:GenMediaVersion>0</Track3:GenMediaVersion>
+ <Track3:GenFlags>0 0 0</Track3:GenFlags>
+ <Track3:GenGraphicsMode>ditherCopy</Track3:GenGraphicsMode>
+ <Track3:GenOpColor>32768 32768 32768</Track3:GenOpColor>
+ <Track3:GenBalance>0</Track3:GenBalance>
+ <Track3:TextFont>Unknown (21)</Track3:TextFont>
+ <Track3:TextFace>Plain</Track3:TextFace>
+ <Track3:TextSize>10</Track3:TextSize>
+ <Track3:TextColor>0 0 0</Track3:TextColor>
+ <Track3:BackgroundColor>65535 65535 65535</Track3:BackgroundColor>
+ <Track3:FontName>Helvetica</Track3:FontName>
+ <Track3:OtherFormat>tmcd</Track3:OtherFormat>
+ <Track4:TrackHeaderVersion>0</Track4:TrackHeaderVersion>
+ <Track4:TrackCreateDate>2022:06:08 16:01:52</Track4:TrackCreateDate>
+ <Track4:TrackModifyDate>2022:06:08 16:01:52</Track4:TrackModifyDate>
+ <Track4:TrackID>4</Track4:TrackID>
+ <Track4:TrackDuration>20.69 s</Track4:TrackDuration>
+ <Track4:TrackLayer>0</Track4:TrackLayer>
+ <Track4:TrackVolume>0.00%</Track4:TrackVolume>
+ <Track4:MatrixStructure>1 0 0 0 1 0 0 0 1</Track4:MatrixStructure>
+ <Track4:MediaHeaderVersion>0</Track4:MediaHeaderVersion>
+ <Track4:MediaCreateDate>2022:06:08 16:01:52</Track4:MediaCreateDate>
+ <Track4:MediaModifyDate>2022:06:08 16:01:52</Track4:MediaModifyDate>
+ <Track4:MediaTimeScale>10002</Track4:MediaTimeScale>
+ <Track4:MediaDuration>2.07 s</Track4:MediaDuration>
+ <Track4:HandlerClass>Media Handler</Track4:HandlerClass>
+ <Track4:HandlerType>NRT Metadata</Track4:HandlerType>
+ <Track4:HandlerDescription>GoPro MET  </Track4:HandlerDescription>
+ <Track4:GenMediaVersion>0</Track4:GenMediaVersion>
+ <Track4:GenFlags>0 0 0</Track4:GenFlags>
+ <Track4:GenGraphicsMode>srcCopy</Track4:GenGraphicsMode>
+ <Track4:GenOpColor>0 0 0</Track4:GenOpColor>
+ <Track4:GenBalance>0</Track4:GenBalance>
+ <Track4:MetaFormat>gpmd</Track4:MetaFormat>
+ <Track4:SampleTime>0 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>0.005736</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.58984375 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 50 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>0.005736</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.58984375 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 55 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>0.036907</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/240</Track4:ExposureTimes>
+ <Track4:TimeStamp>0.036907</Track4:TimeStamp>
+ <Track4:ColorTemperatures>4931</Track4:ColorTemperatures>
+ <Track4:TimeStamp>0.036907</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 22 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>0.036907</Track4:TimeStamp>
+ <Track4:ISOSpeeds>1505</Track4:ISOSpeeds>
+ <Track4:TimeStamp>0.036907</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>0.050064</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:05.599</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.29</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 24.16&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 39.39&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>266.789 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.065</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.99</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>0.036907</Track4:TimeStamp>
+ <Track4:TimeStamp>0.036907</Track4:TimeStamp>
+ <Track4:TimeStamp>0.036907</Track4:TimeStamp>
+ <Track4:TimeStamp>0.036907</Track4:TimeStamp>
+ <Track4:SampleTime>0.03 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>0.035652</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.58984375 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 50 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>0.035652</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.58984375 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 55 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>0.370574</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/240</Track4:ExposureTimes>
+ <Track4:TimeStamp>0.370574</Track4:TimeStamp>
+ <Track4:ColorTemperatures>4946</Track4:ColorTemperatures>
+ <Track4:TimeStamp>0.370574</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 20 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>0.370574</Track4:TimeStamp>
+ <Track4:ISOSpeeds>1422</Track4:ISOSpeeds>
+ <Track4:TimeStamp>0.30384</Track4:TimeStamp>
+ <Track4:TimeStamp>0.370574</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>0.046679</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:26.389</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.29</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 24.16&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 39.40&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>266.765 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.089</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.08</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>0.370574</Track4:TimeStamp>
+ <Track4:TimeStamp>0.370574</Track4:TimeStamp>
+ <Track4:TimeStamp>0.370574</Track4:TimeStamp>
+ <Track4:TimeStamp>0.370574</Track4:TimeStamp>
+ <Track4:TimeStamp>0.036907</Track4:TimeStamp>
+ <Track4:TimeStamp>0.036907</Track4:TimeStamp>
+ <Track4:TimeStamp>0.036907</Track4:TimeStamp>
+ <Track4:SampleTime>0.07 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>0.369714</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.58984375 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 50 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>0.369714</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.58984375 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 56 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>0.70424</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/240</Track4:ExposureTimes>
+ <Track4:TimeStamp>0.70424</Track4:TimeStamp>
+ <Track4:ColorTemperatures>4961</Track4:ColorTemperatures>
+ <Track4:TimeStamp>0.70424</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 23 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>0.70424</Track4:TimeStamp>
+ <Track4:ISOSpeeds>1383</Track4:ISOSpeeds>
+ <Track4:TimeStamp>0.70424</Track4:TimeStamp>
+ <Track4:TimeStamp>0.70424</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>0.378266</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:26.444</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.29</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 24.16&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 39.42&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>266.81 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.144</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.13</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>0.70424</Track4:TimeStamp>
+ <Track4:TimeStamp>0.70424</Track4:TimeStamp>
+ <Track4:TimeStamp>0.70424</Track4:TimeStamp>
+ <Track4:TimeStamp>0.70424</Track4:TimeStamp>
+ <Track4:SampleTime>0.10 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>0.703776</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.599609375 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 50 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>0.703776</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.599609375 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 53 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>0.937807</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/240</Track4:ExposureTimes>
+ <Track4:TimeStamp>0.937807</Track4:TimeStamp>
+ <Track4:ColorTemperatures>4961</Track4:ColorTemperatures>
+ <Track4:TimeStamp>0.937807</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 23 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>0.937807</Track4:TimeStamp>
+ <Track4:ISOSpeeds>1383</Track4:ISOSpeeds>
+ <Track4:TimeStamp>0.90444</Track4:TimeStamp>
+ <Track4:TimeStamp>0.937807</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>0.036907</Track4:TimeStamp>
+ <Track4:TimeStamp>0.710233</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:26.554</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.29</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 24.16&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 39.44&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>266.814 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.054</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.12</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>0.937807</Track4:TimeStamp>
+ <Track4:TimeStamp>0.937807</Track4:TimeStamp>
+ <Track4:TimeStamp>0.937807</Track4:TimeStamp>
+ <Track4:TimeStamp>0.937807</Track4:TimeStamp>
+ <Track4:TimeStamp>0.136907</Track4:TimeStamp>
+ <Track4:TimeStamp>0.136907</Track4:TimeStamp>
+ <Track4:TimeStamp>0.136907</Track4:TimeStamp>
+ <Track4:SampleTime>0.13 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>0.938118</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.716796875 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 50 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>0.938118</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.716796875 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 55 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>1.271474</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/240</Track4:ExposureTimes>
+ <Track4:TimeStamp>1.271474</Track4:TimeStamp>
+ <Track4:ColorTemperatures>4961</Track4:ColorTemperatures>
+ <Track4:TimeStamp>1.271474</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 23 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>1.271474</Track4:TimeStamp>
+ <Track4:ISOSpeeds>1383</Track4:ISOSpeeds>
+ <Track4:TimeStamp>1.20474</Track4:TimeStamp>
+ <Track4:TimeStamp>1.271474</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>0.30384</Track4:TimeStamp>
+ <Track4:TimeStamp>0.30384</Track4:TimeStamp>
+ <Track4:TimeStamp>0.911515</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:26.609</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.29</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 24.16&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 39.46&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>266.859 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.141</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.09</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>1.271474</Track4:TimeStamp>
+ <Track4:TimeStamp>1.271474</Track4:TimeStamp>
+ <Track4:TimeStamp>1.271474</Track4:TimeStamp>
+ <Track4:TimeStamp>1.271474</Track4:TimeStamp>
+ <Track4:TimeStamp>0.236907</Track4:TimeStamp>
+ <Track4:TimeStamp>0.236907</Track4:TimeStamp>
+ <Track4:TimeStamp>0.236907</Track4:TimeStamp>
+ <Track4:SampleTime>0.17 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>1.27218</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.740234375 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 50 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>1.27218</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.740234375 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 56 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>1.638507</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/240</Track4:ExposureTimes>
+ <Track4:TimeStamp>1.638507</Track4:TimeStamp>
+ <Track4:ColorTemperatures>4961</Track4:ColorTemperatures>
+ <Track4:TimeStamp>1.638507</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 20 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>1.638507</Track4:TimeStamp>
+ <Track4:ISOSpeeds>1383</Track4:ISOSpeeds>
+ <Track4:TimeStamp>1.60514</Track4:TimeStamp>
+ <Track4:TimeStamp>1.638507</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>0.70424</Track4:TimeStamp>
+ <Track4:TimeStamp>1.29841</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:30.294</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.29</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 24.16&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 39.48&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>266.797 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.006</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.94</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>1.638507</Track4:TimeStamp>
+ <Track4:TimeStamp>1.638507</Track4:TimeStamp>
+ <Track4:TimeStamp>1.638507</Track4:TimeStamp>
+ <Track4:TimeStamp>1.638507</Track4:TimeStamp>
+ <Track4:TimeStamp>1.236907</Track4:TimeStamp>
+ <Track4:TimeStamp>1.236907</Track4:TimeStamp>
+ <Track4:TimeStamp>1.236907</Track4:TimeStamp>
+ <Track4:SampleTime>0.20 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>1.636158</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.734375 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 52 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>1.636158</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.734375 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 54 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>2.00554</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/284</Track4:ExposureTimes>
+ <Track4:TimeStamp>2.00554</Track4:TimeStamp>
+ <Track4:ColorTemperatures>4976</Track4:ColorTemperatures>
+ <Track4:TimeStamp>2.00554</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 19 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>2.00554</Track4:TimeStamp>
+ <Track4:ISOSpeeds>1600</Track4:ISOSpeeds>
+ <Track4:TimeStamp>2.00554</Track4:TimeStamp>
+ <Track4:TimeStamp>2.00554</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>0.90444</Track4:TimeStamp>
+ <Track4:TimeStamp>0.90444</Track4:TimeStamp>
+ <Track4:TimeStamp>1.63459</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:30.349</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.29</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 24.16&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 39.50&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>266.78 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.113</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.19</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>2.00554</Track4:TimeStamp>
+ <Track4:TimeStamp>2.00554</Track4:TimeStamp>
+ <Track4:TimeStamp>2.00554</Track4:TimeStamp>
+ <Track4:TimeStamp>2.00554</Track4:TimeStamp>
+ <Track4:TimeStamp>1.636907</Track4:TimeStamp>
+ <Track4:TimeStamp>1.636907</Track4:TimeStamp>
+ <Track4:TimeStamp>1.636907</Track4:TimeStamp>
+ <Track4:SampleTime>0.23 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>2.005122</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.70703125 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 50 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>2.005122</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.70703125 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 53 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>2.40594</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/259</Track4:ExposureTimes>
+ <Track4:TimeStamp>2.40594</Track4:TimeStamp>
+ <Track4:ColorTemperatures>4990</Track4:ColorTemperatures>
+ <Track4:TimeStamp>2.40594</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 23 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>2.40594</Track4:TimeStamp>
+ <Track4:ISOSpeeds>1347</Track4:ISOSpeeds>
+ <Track4:TimeStamp>2.40594</Track4:TimeStamp>
+ <Track4:TimeStamp>2.40594</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>1.238107</Track4:TimeStamp>
+ <Track4:TimeStamp>2.021644</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:30.459</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.29</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 24.15&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 39.53&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>266.734 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.224</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.22</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>2.40594</Track4:TimeStamp>
+ <Track4:TimeStamp>2.40594</Track4:TimeStamp>
+ <Track4:TimeStamp>2.40594</Track4:TimeStamp>
+ <Track4:TimeStamp>2.40594</Track4:TimeStamp>
+ <Track4:TimeStamp>2.036907</Track4:TimeStamp>
+ <Track4:TimeStamp>2.036907</Track4:TimeStamp>
+ <Track4:TimeStamp>2.036907</Track4:TimeStamp>
+ <Track4:SampleTime>0.27 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>2.404002</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.775390625 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 53 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>2.404002</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.775390625 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 56 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>2.80634</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/240</Track4:ExposureTimes>
+ <Track4:TimeStamp>2.80634</Track4:TimeStamp>
+ <Track4:ColorTemperatures>4990</Track4:ColorTemperatures>
+ <Track4:TimeStamp>2.80634</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 22 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>2.80634</Track4:TimeStamp>
+ <Track4:ISOSpeeds>1190</Track4:ISOSpeeds>
+ <Track4:TimeStamp>2.80634</Track4:TimeStamp>
+ <Track4:TimeStamp>2.80634</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>1.60514</Track4:TimeStamp>
+ <Track4:TimeStamp>1.60514</Track4:TimeStamp>
+ <Track4:TimeStamp>2.409189</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:30.569</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.29</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 24.15&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 39.55&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>266.678 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.061</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.1</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>2.80634</Track4:TimeStamp>
+ <Track4:TimeStamp>2.80634</Track4:TimeStamp>
+ <Track4:TimeStamp>2.80634</Track4:TimeStamp>
+ <Track4:TimeStamp>2.80634</Track4:TimeStamp>
+ <Track4:TimeStamp>2.436907</Track4:TimeStamp>
+ <Track4:TimeStamp>2.436907</Track4:TimeStamp>
+ <Track4:TimeStamp>2.436907</Track4:TimeStamp>
+ <Track4:SampleTime>0.30 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>2.807868</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.80078125 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 51 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>2.807868</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.80078125 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 57 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>3.30684</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/240</Track4:ExposureTimes>
+ <Track4:TimeStamp>3.30684</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5005</Track4:ColorTemperatures>
+ <Track4:TimeStamp>3.30684</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 13 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>3.30684</Track4:TimeStamp>
+ <Track4:ISOSpeeds>1137</Track4:ISOSpeeds>
+ <Track4:TimeStamp>3.30684</Track4:TimeStamp>
+ <Track4:TimeStamp>3.30684</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>1.90544</Track4:TimeStamp>
+ <Track4:TimeStamp>2.794779</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:32.329</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.29</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 24.15&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 39.58&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>266.64 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.074</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.09</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>3.30684</Track4:TimeStamp>
+ <Track4:TimeStamp>3.30684</Track4:TimeStamp>
+ <Track4:TimeStamp>3.30684</Track4:TimeStamp>
+ <Track4:TimeStamp>3.30684</Track4:TimeStamp>
+ <Track4:TimeStamp>2.836907</Track4:TimeStamp>
+ <Track4:TimeStamp>2.836907</Track4:TimeStamp>
+ <Track4:TimeStamp>2.836907</Track4:TimeStamp>
+ <Track4:SampleTime>0.33 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>3.306568</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.80078125 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 49 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>3.306568</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.80078125 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 59 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>4.00754</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/240</Track4:ExposureTimes>
+ <Track4:TimeStamp>4.00754</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5005</Track4:ColorTemperatures>
+ <Track4:TimeStamp>4.00754</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 13 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>4.00754</Track4:TimeStamp>
+ <Track4:ISOSpeeds>1089</Track4:ISOSpeeds>
+ <Track4:TimeStamp>4.00754</Track4:TimeStamp>
+ <Track4:TimeStamp>4.00754</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>2.40594</Track4:TimeStamp>
+ <Track4:TimeStamp>2.40594</Track4:TimeStamp>
+ <Track4:TimeStamp>3.291761</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:32.384</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.29</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 24.14&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 39.60&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>266.644 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.856</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.83</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>4.00754</Track4:TimeStamp>
+ <Track4:TimeStamp>4.00754</Track4:TimeStamp>
+ <Track4:TimeStamp>4.00754</Track4:TimeStamp>
+ <Track4:TimeStamp>4.00754</Track4:TimeStamp>
+ <Track4:TimeStamp>3.336907</Track4:TimeStamp>
+ <Track4:TimeStamp>3.336907</Track4:TimeStamp>
+ <Track4:TimeStamp>3.336907</Track4:TimeStamp>
+ <Track4:SampleTime>0.37 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>4.009735</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.830078125 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 49 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>4.009735</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.830078125 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 60 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>4.60814</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/240</Track4:ExposureTimes>
+ <Track4:TimeStamp>4.60814</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5005</Track4:ColorTemperatures>
+ <Track4:TimeStamp>4.60814</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 14 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>4.60814</Track4:TimeStamp>
+ <Track4:ISOSpeeds>1066</Track4:ISOSpeeds>
+ <Track4:TimeStamp>4.60814</Track4:TimeStamp>
+ <Track4:TimeStamp>4.60814</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>2.70624</Track4:TimeStamp>
+ <Track4:TimeStamp>4.009141</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:32.714</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.29</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 24.14&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 39.65&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>266.694 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.059</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.07</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>4.60814</Track4:TimeStamp>
+ <Track4:TimeStamp>4.60814</Track4:TimeStamp>
+ <Track4:TimeStamp>4.60814</Track4:TimeStamp>
+ <Track4:TimeStamp>4.60814</Track4:TimeStamp>
+ <Track4:TimeStamp>4.036907</Track4:TimeStamp>
+ <Track4:TimeStamp>4.036907</Track4:TimeStamp>
+ <Track4:TimeStamp>4.036907</Track4:TimeStamp>
+ <Track4:SampleTime>0.40 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>4.608175</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.865234375 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 50 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>4.608175</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.865234375 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 59 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>5.275474</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/240</Track4:ExposureTimes>
+ <Track4:TimeStamp>5.275474</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5005</Track4:ColorTemperatures>
+ <Track4:TimeStamp>5.275474</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 14 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>5.275474</Track4:TimeStamp>
+ <Track4:ISOSpeeds>1044</Track4:ISOSpeeds>
+ <Track4:TimeStamp>5.20874</Track4:TimeStamp>
+ <Track4:TimeStamp>5.275474</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>3.30684</Track4:TimeStamp>
+ <Track4:TimeStamp>3.30684</Track4:TimeStamp>
+ <Track4:TimeStamp>4.619605</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:32.824</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.29</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 24.13&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 39.69&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>266.856 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.187</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.19</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>5.275474</Track4:TimeStamp>
+ <Track4:TimeStamp>5.275474</Track4:TimeStamp>
+ <Track4:TimeStamp>5.275474</Track4:TimeStamp>
+ <Track4:TimeStamp>5.275474</Track4:TimeStamp>
+ <Track4:TimeStamp>4.636907</Track4:TimeStamp>
+ <Track4:TimeStamp>4.636907</Track4:TimeStamp>
+ <Track4:TimeStamp>4.636907</Track4:TimeStamp>
+ <Track4:SampleTime>0.43 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>5.276433</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.865234375 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 51 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>5.276433</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.865234375 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 57 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>5.70924</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/240</Track4:ExposureTimes>
+ <Track4:TimeStamp>5.70924</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5005</Track4:ColorTemperatures>
+ <Track4:TimeStamp>5.70924</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 14 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>5.70924</Track4:TimeStamp>
+ <Track4:ISOSpeeds>1034</Track4:ISOSpeeds>
+ <Track4:TimeStamp>5.70924</Track4:TimeStamp>
+ <Track4:TimeStamp>5.70924</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>3.90744</Track4:TimeStamp>
+ <Track4:TimeStamp>5.281849</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:35.574</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.29</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 24.12&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 39.73&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>266.85 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.221</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.2</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>5.70924</Track4:TimeStamp>
+ <Track4:TimeStamp>5.70924</Track4:TimeStamp>
+ <Track4:TimeStamp>5.70924</Track4:TimeStamp>
+ <Track4:TimeStamp>5.70924</Track4:TimeStamp>
+ <Track4:TimeStamp>5.236907</Track4:TimeStamp>
+ <Track4:TimeStamp>5.236907</Track4:TimeStamp>
+ <Track4:TimeStamp>5.236907</Track4:TimeStamp>
+ <Track4:SampleTime>0.47 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>5.710302</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.8359375 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 50 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>5.710302</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.8359375 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 57 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>6.30984</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/240</Track4:ExposureTimes>
+ <Track4:TimeStamp>6.30984</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5005</Track4:ColorTemperatures>
+ <Track4:TimeStamp>6.30984</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 12 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>6.30984</Track4:TimeStamp>
+ <Track4:ISOSpeeds>1024</Track4:ISOSpeeds>
+ <Track4:TimeStamp>6.30984</Track4:TimeStamp>
+ <Track4:TimeStamp>6.30984</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>4.60814</Track4:TimeStamp>
+ <Track4:TimeStamp>4.60814</Track4:TimeStamp>
+ <Track4:TimeStamp>5.722293</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:35.684</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.29</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 24.12&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 39.76&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>266.752 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.287</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.28</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>6.30984</Track4:TimeStamp>
+ <Track4:TimeStamp>6.30984</Track4:TimeStamp>
+ <Track4:TimeStamp>6.30984</Track4:TimeStamp>
+ <Track4:TimeStamp>6.30984</Track4:TimeStamp>
+ <Track4:TimeStamp>5.736907</Track4:TimeStamp>
+ <Track4:TimeStamp>5.736907</Track4:TimeStamp>
+ <Track4:TimeStamp>5.736907</Track4:TimeStamp>
+ <Track4:SampleTime>0.50 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>6.308742</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.87890625 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 51 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>6.308742</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.87890625 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 55 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>6.943807</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/273</Track4:ExposureTimes>
+ <Track4:TimeStamp>6.943807</Track4:TimeStamp>
+ <Track4:ColorTemperatures>4990</Track4:ColorTemperatures>
+ <Track4:TimeStamp>6.943807</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 23 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>6.943807</Track4:TimeStamp>
+ <Track4:ISOSpeeds>1137</Track4:ISOSpeeds>
+ <Track4:TimeStamp>6.91044</Track4:TimeStamp>
+ <Track4:TimeStamp>6.943807</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>5.242107</Track4:TimeStamp>
+ <Track4:TimeStamp>6.328954</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:35.794</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.29</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 24.11&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 39.81&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>266.629 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.25</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.25</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>6.943807</Track4:TimeStamp>
+ <Track4:TimeStamp>6.943807</Track4:TimeStamp>
+ <Track4:TimeStamp>6.943807</Track4:TimeStamp>
+ <Track4:TimeStamp>6.943807</Track4:TimeStamp>
+ <Track4:TimeStamp>6.336907</Track4:TimeStamp>
+ <Track4:TimeStamp>6.336907</Track4:TimeStamp>
+ <Track4:TimeStamp>6.336907</Track4:TimeStamp>
+ <Track4:SampleTime>0.53 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>6.942091</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.97265625 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 51 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>6.942091</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.97265625 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 57 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>7.61114</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/240</Track4:ExposureTimes>
+ <Track4:TimeStamp>7.61114</Track4:TimeStamp>
+ <Track4:ColorTemperatures>4990</Track4:ColorTemperatures>
+ <Track4:TimeStamp>7.61114</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 23 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>7.61114</Track4:TimeStamp>
+ <Track4:ISOSpeeds>984</Track4:ISOSpeeds>
+ <Track4:TimeStamp>7.61114</Track4:TimeStamp>
+ <Track4:TimeStamp>7.61114</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>5.70924</Track4:TimeStamp>
+ <Track4:TimeStamp>5.70924</Track4:TimeStamp>
+ <Track4:TimeStamp>6.935692</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:35.849</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.29</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 24.10&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 39.85&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>266.605 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.278</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.31</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>7.61114</Track4:TimeStamp>
+ <Track4:TimeStamp>7.61114</Track4:TimeStamp>
+ <Track4:TimeStamp>7.61114</Track4:TimeStamp>
+ <Track4:TimeStamp>7.61114</Track4:TimeStamp>
+ <Track4:TimeStamp>6.936907</Track4:TimeStamp>
+ <Track4:TimeStamp>6.936907</Track4:TimeStamp>
+ <Track4:TimeStamp>6.936907</Track4:TimeStamp>
+ <Track4:SampleTime>0.57 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>7.610215</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.943359375 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 51 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>7.610215</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.943359375 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 59 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>8.445307</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/240</Track4:ExposureTimes>
+ <Track4:TimeStamp>8.445307</Track4:TimeStamp>
+ <Track4:ColorTemperatures>4990</Track4:ColorTemperatures>
+ <Track4:TimeStamp>8.445307</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 23 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>8.445307</Track4:TimeStamp>
+ <Track4:ISOSpeeds>975</Track4:ISOSpeeds>
+ <Track4:TimeStamp>8.41194</Track4:TimeStamp>
+ <Track4:TimeStamp>8.445307</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>6.30984</Track4:TimeStamp>
+ <Track4:TimeStamp>7.597674</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:38.929</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.3</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 24.10&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 39.89&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>266.708 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.761</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.75</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>8.445307</Track4:TimeStamp>
+ <Track4:TimeStamp>8.445307</Track4:TimeStamp>
+ <Track4:TimeStamp>8.445307</Track4:TimeStamp>
+ <Track4:TimeStamp>8.445307</Track4:TimeStamp>
+ <Track4:TimeStamp>7.636907</Track4:TimeStamp>
+ <Track4:TimeStamp>7.636907</Track4:TimeStamp>
+ <Track4:TimeStamp>7.636907</Track4:TimeStamp>
+ <Track4:SampleTime>0.60 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>8.443044</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.966796875 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 52 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>8.443044</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.966796875 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 59 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>9.346207</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/251</Track4:ExposureTimes>
+ <Track4:TimeStamp>9.346207</Track4:TimeStamp>
+ <Track4:ColorTemperatures>4990</Track4:ColorTemperatures>
+ <Track4:TimeStamp>9.346207</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 23 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>9.346207</Track4:TimeStamp>
+ <Track4:ISOSpeeds>1003</Track4:ISOSpeeds>
+ <Track4:TimeStamp>9.31284</Track4:TimeStamp>
+ <Track4:TimeStamp>9.346207</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>6.91044</Track4:TimeStamp>
+ <Track4:TimeStamp>6.91044</Track4:TimeStamp>
+ <Track4:TimeStamp>8.425333</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:39.039</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.3</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 24.09&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 39.94&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>266.625 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.009</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.01</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>9.346207</Track4:TimeStamp>
+ <Track4:TimeStamp>9.346207</Track4:TimeStamp>
+ <Track4:TimeStamp>9.346207</Track4:TimeStamp>
+ <Track4:TimeStamp>9.346207</Track4:TimeStamp>
+ <Track4:TimeStamp>8.436907</Track4:TimeStamp>
+ <Track4:TimeStamp>8.436907</Track4:TimeStamp>
+ <Track4:TimeStamp>8.436907</Track4:TimeStamp>
+ <Track4:SampleTime>0.63 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>9.345691</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.98046875 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 50 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>9.345691</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.98046875 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 58 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>10.71424</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/240</Track4:ExposureTimes>
+ <Track4:TimeStamp>10.71424</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5020</Track4:ColorTemperatures>
+ <Track4:TimeStamp>10.71424</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 23 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>10.71424</Track4:TimeStamp>
+ <Track4:ISOSpeeds>930</Track4:ISOSpeeds>
+ <Track4:TimeStamp>10.71424</Track4:TimeStamp>
+ <Track4:TimeStamp>10.71424</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>7.51104</Track4:TimeStamp>
+ <Track4:TimeStamp>9.362056</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:39.094</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.3</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 24.08&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 40.00&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>266.786 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.805</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.79</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>10.71424</Track4:TimeStamp>
+ <Track4:TimeStamp>10.71424</Track4:TimeStamp>
+ <Track4:TimeStamp>10.71424</Track4:TimeStamp>
+ <Track4:TimeStamp>10.71424</Track4:TimeStamp>
+ <Track4:TimeStamp>9.336907</Track4:TimeStamp>
+ <Track4:TimeStamp>9.336907</Track4:TimeStamp>
+ <Track4:TimeStamp>9.336907</Track4:TimeStamp>
+ <Track4:SampleTime>0.67 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>10.711855</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.080078125 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 51 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>10.711855</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.080078125 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 57 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>11.648507</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/314</Track4:ExposureTimes>
+ <Track4:TimeStamp>11.648507</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5020</Track4:ColorTemperatures>
+ <Track4:TimeStamp>11.648507</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 19 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>11.648507</Track4:TimeStamp>
+ <Track4:ISOSpeeds>1177</Track4:ISOSpeeds>
+ <Track4:TimeStamp>11.61514</Track4:TimeStamp>
+ <Track4:TimeStamp>11.648507</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>8.41194</Track4:TimeStamp>
+ <Track4:TimeStamp>8.41194</Track4:TimeStamp>
+ <Track4:TimeStamp>10.746324</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:39.149</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.3</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 24.08&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 40.07&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>266.925 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.954</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.98</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>11.648507</Track4:TimeStamp>
+ <Track4:TimeStamp>11.648507</Track4:TimeStamp>
+ <Track4:TimeStamp>11.648507</Track4:TimeStamp>
+ <Track4:TimeStamp>11.648507</Track4:TimeStamp>
+ <Track4:TimeStamp>10.736907</Track4:TimeStamp>
+ <Track4:TimeStamp>10.736907</Track4:TimeStamp>
+ <Track4:TimeStamp>10.736907</Track4:TimeStamp>
+ <Track4:SampleTime>0.70 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>11.649411</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.05859375 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 50 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>11.649411</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.05859375 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 55 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>12.282474</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/281</Track4:ExposureTimes>
+ <Track4:TimeStamp>12.282474</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5060</Track4:ColorTemperatures>
+ <Track4:TimeStamp>12.282474</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 22 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>12.282474</Track4:TimeStamp>
+ <Track4:ISOSpeeds>1044</Track4:ISOSpeeds>
+ <Track4:TimeStamp>12.21574</Track4:TimeStamp>
+ <Track4:TimeStamp>12.282474</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>9.246107</Track4:TimeStamp>
+ <Track4:TimeStamp>11.629403</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:43.164</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.3</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 24.08&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 40.11&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>267.165 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.899</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.86</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>12.282474</Track4:TimeStamp>
+ <Track4:TimeStamp>12.282474</Track4:TimeStamp>
+ <Track4:TimeStamp>12.282474</Track4:TimeStamp>
+ <Track4:TimeStamp>12.282474</Track4:TimeStamp>
+ <Track4:TimeStamp>11.636907</Track4:TimeStamp>
+ <Track4:TimeStamp>11.636907</Track4:TimeStamp>
+ <Track4:TimeStamp>11.636907</Track4:TimeStamp>
+ <Track4:SampleTime>0.73 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>12.28276</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.041015625 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 51 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>12.28276</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.041015625 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 56 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>13.21674</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/300</Track4:ExposureTimes>
+ <Track4:TimeStamp>13.21674</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5060</Track4:ColorTemperatures>
+ <Track4:TimeStamp>13.21674</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 21 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>13.21674</Track4:TimeStamp>
+ <Track4:ISOSpeeds>1101</Track4:ISOSpeeds>
+ <Track4:TimeStamp>13.21674</Track4:TimeStamp>
+ <Track4:TimeStamp>13.21674</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>10.71424</Track4:TimeStamp>
+ <Track4:TimeStamp>10.71424</Track4:TimeStamp>
+ <Track4:TimeStamp>12.29141</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:43.274</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.3</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 24.07&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 40.15&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>267.197 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.967</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.96</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>13.21674</Track4:TimeStamp>
+ <Track4:TimeStamp>13.21674</Track4:TimeStamp>
+ <Track4:TimeStamp>13.21674</Track4:TimeStamp>
+ <Track4:TimeStamp>13.21674</Track4:TimeStamp>
+ <Track4:TimeStamp>12.236907</Track4:TimeStamp>
+ <Track4:TimeStamp>12.236907</Track4:TimeStamp>
+ <Track4:TimeStamp>12.236907</Track4:TimeStamp>
+ <Track4:SampleTime>0.77 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>13.215329</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.064453125 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 51 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>13.215329</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.064453125 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 57 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>14.084274</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/329</Track4:ExposureTimes>
+ <Track4:TimeStamp>14.084274</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5099</Track4:ColorTemperatures>
+ <Track4:TimeStamp>14.084274</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 23 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>14.084274</Track4:TimeStamp>
+ <Track4:ISOSpeeds>1190</Track4:ISOSpeeds>
+ <Track4:TimeStamp>14.01754</Track4:TimeStamp>
+ <Track4:TimeStamp>14.084274</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>11.648507</Track4:TimeStamp>
+ <Track4:TimeStamp>13.229417</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:43.329</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.3</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 24.05&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 40.20&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>267.505 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.892</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.93</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>14.084274</Track4:TimeStamp>
+ <Track4:TimeStamp>14.084274</Track4:TimeStamp>
+ <Track4:TimeStamp>14.084274</Track4:TimeStamp>
+ <Track4:TimeStamp>14.084274</Track4:TimeStamp>
+ <Track4:TimeStamp>13.236907</Track4:TimeStamp>
+ <Track4:TimeStamp>13.236907</Track4:TimeStamp>
+ <Track4:TimeStamp>13.236907</Track4:TimeStamp>
+ <Track4:SampleTime>0.80 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>14.083067</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.171875 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 50 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>14.083067</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.171875 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 57 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>14.851707</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/291</Track4:ExposureTimes>
+ <Track4:TimeStamp>14.851707</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5099</Track4:ColorTemperatures>
+ <Track4:TimeStamp>14.851707</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 21 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>14.851707</Track4:TimeStamp>
+ <Track4:ISOSpeeds>1044</Track4:ISOSpeeds>
+ <Track4:TimeStamp>14.81834</Track4:TimeStamp>
+ <Track4:TimeStamp>14.851707</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>12.21574</Track4:TimeStamp>
+ <Track4:TimeStamp>12.21574</Track4:TimeStamp>
+ <Track4:TimeStamp>14.116814</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:43.439</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.3</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 24.04&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 40.23&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>268.046 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.622</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.7</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>14.851707</Track4:TimeStamp>
+ <Track4:TimeStamp>14.851707</Track4:TimeStamp>
+ <Track4:TimeStamp>14.851707</Track4:TimeStamp>
+ <Track4:TimeStamp>14.851707</Track4:TimeStamp>
+ <Track4:TimeStamp>14.036907</Track4:TimeStamp>
+ <Track4:TimeStamp>14.036907</Track4:TimeStamp>
+ <Track4:TimeStamp>14.036907</Track4:TimeStamp>
+ <Track4:SampleTime>0.83 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>14.851065</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.138671875 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 49 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>14.851065</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.138671875 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 55 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>15.452307</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/339</Track4:ExposureTimes>
+ <Track4:TimeStamp>15.452307</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5060</Track4:ColorTemperatures>
+ <Track4:TimeStamp>15.452307</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 20 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>15.452307</Track4:TimeStamp>
+ <Track4:ISOSpeeds>1233</Track4:ISOSpeeds>
+ <Track4:TimeStamp>15.41894</Track4:TimeStamp>
+ <Track4:TimeStamp>15.452307</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>13.11664</Track4:TimeStamp>
+ <Track4:TimeStamp>14.834227</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:47.674</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.3</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 24.02&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 40.25&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>268.364 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.916</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.93</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>15.452307</Track4:TimeStamp>
+ <Track4:TimeStamp>15.452307</Track4:TimeStamp>
+ <Track4:TimeStamp>15.452307</Track4:TimeStamp>
+ <Track4:TimeStamp>15.452307</Track4:TimeStamp>
+ <Track4:TimeStamp>14.836907</Track4:TimeStamp>
+ <Track4:TimeStamp>14.836907</Track4:TimeStamp>
+ <Track4:TimeStamp>14.836907</Track4:TimeStamp>
+ <Track4:SampleTime>0.87 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>15.454492</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.166015625 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 50 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>15.454492</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.166015625 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 54 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>16.186374</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/246</Track4:ExposureTimes>
+ <Track4:TimeStamp>16.186374</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5060</Track4:ColorTemperatures>
+ <Track4:TimeStamp>16.186374</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 22 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>16.186374</Track4:TimeStamp>
+ <Track4:ISOSpeeds>922</Track4:ISOSpeeds>
+ <Track4:TimeStamp>16.11964</Track4:TimeStamp>
+ <Track4:TimeStamp>16.186374</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>14.01754</Track4:TimeStamp>
+ <Track4:TimeStamp>14.01754</Track4:TimeStamp>
+ <Track4:TimeStamp>15.441191</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:47.894</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.3</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 24.01&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 40.29&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>268.601 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.034</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.07</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>16.186374</Track4:TimeStamp>
+ <Track4:TimeStamp>16.186374</Track4:TimeStamp>
+ <Track4:TimeStamp>16.186374</Track4:TimeStamp>
+ <Track4:TimeStamp>16.186374</Track4:TimeStamp>
+ <Track4:TimeStamp>15.436907</Track4:TimeStamp>
+ <Track4:TimeStamp>15.436907</Track4:TimeStamp>
+ <Track4:TimeStamp>15.436907</Track4:TimeStamp>
+ <Track4:SampleTime>0.90 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>16.187581</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.15625 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 51 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>16.187581</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.15625 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 59 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>16.72024</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/240</Track4:ExposureTimes>
+ <Track4:TimeStamp>16.72024</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5060</Track4:ColorTemperatures>
+ <Track4:TimeStamp>16.72024</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 22 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>16.72024</Track4:TimeStamp>
+ <Track4:ISOSpeeds>922</Track4:ISOSpeeds>
+ <Track4:TimeStamp>16.72024</Track4:TimeStamp>
+ <Track4:TimeStamp>16.72024</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>14.851707</Track4:TimeStamp>
+ <Track4:TimeStamp>16.213214</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:48.004</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.3</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 23.99&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 40.33&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>268.658 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.003</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.03</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>16.72024</Track4:TimeStamp>
+ <Track4:TimeStamp>16.72024</Track4:TimeStamp>
+ <Track4:TimeStamp>16.72024</Track4:TimeStamp>
+ <Track4:TimeStamp>16.72024</Track4:TimeStamp>
+ <Track4:TimeStamp>16.136907</Track4:TimeStamp>
+ <Track4:TimeStamp>16.136907</Track4:TimeStamp>
+ <Track4:TimeStamp>16.136907</Track4:TimeStamp>
+ <Track4:SampleTime>0.93 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>16.72119</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.228515625 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 50 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>16.72119</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.228515625 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 55 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>17.22074</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/243</Track4:ExposureTimes>
+ <Track4:TimeStamp>17.22074</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5060</Track4:ColorTemperatures>
+ <Track4:TimeStamp>17.22074</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 22 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>17.22074</Track4:TimeStamp>
+ <Track4:ISOSpeeds>939</Track4:ISOSpeeds>
+ <Track4:TimeStamp>17.22074</Track4:TimeStamp>
+ <Track4:TimeStamp>17.22074</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>15.41894</Track4:TimeStamp>
+ <Track4:TimeStamp>15.41894</Track4:TimeStamp>
+ <Track4:TimeStamp>16.717878</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:48.059</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.3</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 23.98&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 40.35&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>268.732 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.878</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.87</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>17.22074</Track4:TimeStamp>
+ <Track4:TimeStamp>17.22074</Track4:TimeStamp>
+ <Track4:TimeStamp>17.22074</Track4:TimeStamp>
+ <Track4:TimeStamp>17.22074</Track4:TimeStamp>
+ <Track4:TimeStamp>16.736907</Track4:TimeStamp>
+ <Track4:TimeStamp>16.736907</Track4:TimeStamp>
+ <Track4:TimeStamp>16.736907</Track4:TimeStamp>
+ <Track4:SampleTime>0.97 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>17.21989</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.216796875 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 48 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>17.21989</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.216796875 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 58 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>18.62214</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/267</Track4:ExposureTimes>
+ <Track4:TimeStamp>18.62214</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5139</Track4:ColorTemperatures>
+ <Track4:TimeStamp>18.62214</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 21 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>18.62214</Track4:TimeStamp>
+ <Track4:ISOSpeeds>1044</Track4:ISOSpeeds>
+ <Track4:TimeStamp>18.62214</Track4:TimeStamp>
+ <Track4:TimeStamp>18.62214</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>16.186374</Track4:TimeStamp>
+ <Track4:TimeStamp>17.21574</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:51.799</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.3</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 23.97&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 40.40&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>268.89 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.896</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.92</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>18.62214</Track4:TimeStamp>
+ <Track4:TimeStamp>18.62214</Track4:TimeStamp>
+ <Track4:TimeStamp>18.62214</Track4:TimeStamp>
+ <Track4:TimeStamp>18.62214</Track4:TimeStamp>
+ <Track4:TimeStamp>17.236907</Track4:TimeStamp>
+ <Track4:TimeStamp>17.236907</Track4:TimeStamp>
+ <Track4:TimeStamp>17.236907</Track4:TimeStamp>
+ <Track4:SampleTime>1.00 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>18.621237</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.189453125 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 51 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>18.621237</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.189453125 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 58 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>19.956807</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/277</Track4:ExposureTimes>
+ <Track4:TimeStamp>19.956807</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5218</Track4:ColorTemperatures>
+ <Track4:TimeStamp>19.956807</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 21 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>19.956807</Track4:TimeStamp>
+ <Track4:ISOSpeeds>1077</Track4:ISOSpeeds>
+ <Track4:TimeStamp>19.92344</Track4:TimeStamp>
+ <Track4:TimeStamp>19.956807</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>16.72024</Track4:TimeStamp>
+ <Track4:TimeStamp>16.72024</Track4:TimeStamp>
+ <Track4:TimeStamp>18.597512</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:51.909</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.3</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 23.94&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 40.47&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>269.125 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.917</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.91</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>19.956807</Track4:TimeStamp>
+ <Track4:TimeStamp>19.956807</Track4:TimeStamp>
+ <Track4:TimeStamp>19.956807</Track4:TimeStamp>
+ <Track4:TimeStamp>19.956807</Track4:TimeStamp>
+ <Track4:TimeStamp>18.636907</Track4:TimeStamp>
+ <Track4:TimeStamp>18.636907</Track4:TimeStamp>
+ <Track4:TimeStamp>18.636907</Track4:TimeStamp>
+ <Track4:SampleTime>1.03 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>19.957753</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.232421875 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 51 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>19.957753</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.232421875 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 57 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>20.92444</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/264</Track4:ExposureTimes>
+ <Track4:TimeStamp>20.92444</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5297</Track4:ColorTemperatures>
+ <Track4:TimeStamp>20.92444</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 20 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>20.92444</Track4:TimeStamp>
+ <Track4:ISOSpeeds>1013</Track4:ISOSpeeds>
+ <Track4:TimeStamp>20.92444</Track4:TimeStamp>
+ <Track4:TimeStamp>20.92444</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>17.12064</Track4:TimeStamp>
+ <Track4:TimeStamp>19.979128</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:51.964</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.3</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 23.93&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 40.53&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>269.311 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.883</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.88</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>20.92444</Track4:TimeStamp>
+ <Track4:TimeStamp>20.92444</Track4:TimeStamp>
+ <Track4:TimeStamp>20.92444</Track4:TimeStamp>
+ <Track4:TimeStamp>20.92444</Track4:TimeStamp>
+ <Track4:TimeStamp>19.936907</Track4:TimeStamp>
+ <Track4:TimeStamp>19.936907</Track4:TimeStamp>
+ <Track4:TimeStamp>19.936907</Track4:TimeStamp>
+ <Track4:SampleTime>1.07 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>20.925231</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.259765625 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 51 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>20.925231</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.259765625 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 58 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>21.858707</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/251</Track4:ExposureTimes>
+ <Track4:TimeStamp>21.858707</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5376</Track4:ColorTemperatures>
+ <Track4:TimeStamp>21.858707</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 19 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>21.858707</Track4:TimeStamp>
+ <Track4:ISOSpeeds>948</Track4:ISOSpeeds>
+ <Track4:TimeStamp>21.82534</Track4:TimeStamp>
+ <Track4:TimeStamp>21.858707</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>18.62214</Track4:TimeStamp>
+ <Track4:TimeStamp>18.62214</Track4:TimeStamp>
+ <Track4:TimeStamp>19.92344</Track4:TimeStamp>
+ <Track4:TimeStamp>20.910946</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:52.074</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.3</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 23.91&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 40.57&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>269.497 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.952</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.95</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>21.858707</Track4:TimeStamp>
+ <Track4:TimeStamp>21.858707</Track4:TimeStamp>
+ <Track4:TimeStamp>21.858707</Track4:TimeStamp>
+ <Track4:TimeStamp>21.858707</Track4:TimeStamp>
+ <Track4:TimeStamp>20.936907</Track4:TimeStamp>
+ <Track4:TimeStamp>20.936907</Track4:TimeStamp>
+ <Track4:TimeStamp>20.936907</Track4:TimeStamp>
+ <Track4:SampleTime>1.10 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>21.8578</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.271484375 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 51 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>21.8578</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.271484375 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 58 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>22.659507</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/280</Track4:ExposureTimes>
+ <Track4:TimeStamp>22.659507</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5456</Track4:ColorTemperatures>
+ <Track4:TimeStamp>22.659507</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 18 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>22.659507</Track4:TimeStamp>
+ <Track4:ISOSpeeds>1034</Track4:ISOSpeeds>
+ <Track4:TimeStamp>22.62614</Track4:TimeStamp>
+ <Track4:TimeStamp>22.659507</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>21.848872</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:54.549</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.3</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 23.89&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 40.62&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>269.637 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.022</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>22.659507</Track4:TimeStamp>
+ <Track4:TimeStamp>22.659507</Track4:TimeStamp>
+ <Track4:TimeStamp>22.659507</Track4:TimeStamp>
+ <Track4:TimeStamp>22.659507</Track4:TimeStamp>
+ <Track4:TimeStamp>21.836907</Track4:TimeStamp>
+ <Track4:TimeStamp>21.836907</Track4:TimeStamp>
+ <Track4:TimeStamp>21.836907</Track4:TimeStamp>
+ <Track4:SampleTime>1.13 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>22.660707</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.2578125 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 52 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>22.660707</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.2578125 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 56 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>23.393574</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/240</Track4:ExposureTimes>
+ <Track4:TimeStamp>23.393574</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5495</Track4:ColorTemperatures>
+ <Track4:TimeStamp>23.393574</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 20 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>23.393574</Track4:TimeStamp>
+ <Track4:ISOSpeeds>875</Track4:ISOSpeeds>
+ <Track4:TimeStamp>23.32684</Track4:TimeStamp>
+ <Track4:TimeStamp>23.393574</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>21.82534</Track4:TimeStamp>
+ <Track4:TimeStamp>21.82534</Track4:TimeStamp>
+ <Track4:TimeStamp>21.791974</Track4:TimeStamp>
+ <Track4:TimeStamp>22.67647</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:54.604</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.3</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 23.87&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 40.67&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>269.775 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.152</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.16</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>23.393574</Track4:TimeStamp>
+ <Track4:TimeStamp>23.393574</Track4:TimeStamp>
+ <Track4:TimeStamp>23.393574</Track4:TimeStamp>
+ <Track4:TimeStamp>23.393574</Track4:TimeStamp>
+ <Track4:TimeStamp>22.636907</Track4:TimeStamp>
+ <Track4:TimeStamp>22.636907</Track4:TimeStamp>
+ <Track4:TimeStamp>22.636907</Track4:TimeStamp>
+ <Track4:SampleTime>1.17 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>23.393796</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.25 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 52 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>23.393796</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.25 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 57 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>23.92744</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/252</Track4:ExposureTimes>
+ <Track4:TimeStamp>23.92744</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5495</Track4:ColorTemperatures>
+ <Track4:TimeStamp>23.92744</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 20 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>23.92744</Track4:TimeStamp>
+ <Track4:ISOSpeeds>914</Track4:ISOSpeeds>
+ <Track4:TimeStamp>23.92744</Track4:TimeStamp>
+ <Track4:TimeStamp>23.92744</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>23.39351</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:54.604</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.3</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 23.86&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 40.70&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>269.931 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.007</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.07</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>23.92744</Track4:TimeStamp>
+ <Track4:TimeStamp>23.92744</Track4:TimeStamp>
+ <Track4:TimeStamp>23.92744</Track4:TimeStamp>
+ <Track4:TimeStamp>23.92744</Track4:TimeStamp>
+ <Track4:TimeStamp>23.436907</Track4:TimeStamp>
+ <Track4:TimeStamp>23.436907</Track4:TimeStamp>
+ <Track4:TimeStamp>23.436907</Track4:TimeStamp>
+ <Track4:SampleTime>1.20 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>23.927405</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.2734375 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 50 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>23.927405</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.2734375 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 56 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>24.32784</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/270</Track4:ExposureTimes>
+ <Track4:TimeStamp>24.32784</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5495</Track4:ColorTemperatures>
+ <Track4:TimeStamp>24.32784</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 20 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>24.32784</Track4:TimeStamp>
+ <Track4:ISOSpeeds>975</Track4:ISOSpeeds>
+ <Track4:TimeStamp>24.32784</Track4:TimeStamp>
+ <Track4:TimeStamp>24.32784</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>23.32684</Track4:TimeStamp>
+ <Track4:TimeStamp>23.32684</Track4:TimeStamp>
+ <Track4:TimeStamp>23.393574</Track4:TimeStamp>
+ <Track4:TimeStamp>23.945278</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:54.659</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.39</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 23.85&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 40.72&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>269.957 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.839</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.79</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>24.32784</Track4:TimeStamp>
+ <Track4:TimeStamp>24.32784</Track4:TimeStamp>
+ <Track4:TimeStamp>24.32784</Track4:TimeStamp>
+ <Track4:TimeStamp>24.32784</Track4:TimeStamp>
+ <Track4:TimeStamp>23.936907</Track4:TimeStamp>
+ <Track4:TimeStamp>23.936907</Track4:TimeStamp>
+ <Track4:TimeStamp>23.936907</Track4:TimeStamp>
+ <Track4:SampleTime>1.23 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>24.326365</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.251953125 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 50 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>24.326365</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.251953125 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 55 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>24.995174</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/286</Track4:ExposureTimes>
+ <Track4:TimeStamp>24.995174</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5535</Track4:ColorTemperatures>
+ <Track4:TimeStamp>24.995174</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 19 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>24.995174</Track4:TimeStamp>
+ <Track4:ISOSpeeds>1024</Track4:ISOSpeeds>
+ <Track4:TimeStamp>24.92844</Track4:TimeStamp>
+ <Track4:TimeStamp>24.995174</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>24.33133</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:54.659</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.39</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 23.84&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 40.75&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>270.037 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.925</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.94</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>24.995174</Track4:TimeStamp>
+ <Track4:TimeStamp>24.995174</Track4:TimeStamp>
+ <Track4:TimeStamp>24.995174</Track4:TimeStamp>
+ <Track4:TimeStamp>24.995174</Track4:TimeStamp>
+ <Track4:TimeStamp>24.336907</Track4:TimeStamp>
+ <Track4:TimeStamp>24.336907</Track4:TimeStamp>
+ <Track4:TimeStamp>24.336907</Track4:TimeStamp>
+ <Track4:SampleTime>1.27 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>24.994623</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.265625 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 35 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>24.994623</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.265625 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 55 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>25.42894</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/409</Track4:ExposureTimes>
+ <Track4:TimeStamp>25.42894</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5495</Track4:ColorTemperatures>
+ <Track4:TimeStamp>25.42894</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 20 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>25.42894</Track4:TimeStamp>
+ <Track4:ISOSpeeds>1462</Track4:ISOSpeeds>
+ <Track4:TimeStamp>25.42894</Track4:TimeStamp>
+ <Track4:TimeStamp>25.42894</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>24.32784</Track4:TimeStamp>
+ <Track4:TimeStamp>24.32784</Track4:TimeStamp>
+ <Track4:TimeStamp>24.32784</Track4:TimeStamp>
+ <Track4:TimeStamp>24.993096</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:54.714</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.3</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 23.82&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 40.78&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>270.163 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.174</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.19</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>25.42894</Track4:TimeStamp>
+ <Track4:TimeStamp>25.42894</Track4:TimeStamp>
+ <Track4:TimeStamp>25.42894</Track4:TimeStamp>
+ <Track4:TimeStamp>25.42894</Track4:TimeStamp>
+ <Track4:TimeStamp>25.036907</Track4:TimeStamp>
+ <Track4:TimeStamp>25.036907</Track4:TimeStamp>
+ <Track4:TimeStamp>25.036907</Track4:TimeStamp>
+ <Track4:SampleTime>1.30 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>25.428492</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.267578125 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 51 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>25.428492</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.267578125 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 55 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>26.363207</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/301</Track4:ExposureTimes>
+ <Track4:TimeStamp>26.363207</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5495</Track4:ColorTemperatures>
+ <Track4:TimeStamp>26.363207</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 23 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>26.363207</Track4:TimeStamp>
+ <Track4:ISOSpeeds>1089</Track4:ISOSpeeds>
+ <Track4:TimeStamp>26.32984</Track4:TimeStamp>
+ <Track4:TimeStamp>26.363207</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>25.43427</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:54.769</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.3</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 23.81&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 40.82&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>270.082 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.005</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.01</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>26.363207</Track4:TimeStamp>
+ <Track4:TimeStamp>26.363207</Track4:TimeStamp>
+ <Track4:TimeStamp>26.363207</Track4:TimeStamp>
+ <Track4:TimeStamp>26.363207</Track4:TimeStamp>
+ <Track4:TimeStamp>25.436907</Track4:TimeStamp>
+ <Track4:TimeStamp>25.436907</Track4:TimeStamp>
+ <Track4:TimeStamp>25.436907</Track4:TimeStamp>
+ <Track4:SampleTime>1.33 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>26.361061</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.248046875 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 50 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>26.361061</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.248046875 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 56 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>27.13064</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/349</Track4:ExposureTimes>
+ <Track4:TimeStamp>27.13064</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5535</Track4:ColorTemperatures>
+ <Track4:TimeStamp>27.13064</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 19 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>27.13064</Track4:TimeStamp>
+ <Track4:ISOSpeeds>1248</Track4:ISOSpeeds>
+ <Track4:TimeStamp>27.13064</Track4:TimeStamp>
+ <Track4:TimeStamp>27.13064</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>25.42894</Track4:TimeStamp>
+ <Track4:TimeStamp>25.42894</Track4:TimeStamp>
+ <Track4:TimeStamp>25.395574</Track4:TimeStamp>
+ <Track4:TimeStamp>26.371682</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:54.769</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.3</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 23.79&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 40.86&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>270.124 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.92</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.88</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>27.13064</Track4:TimeStamp>
+ <Track4:TimeStamp>27.13064</Track4:TimeStamp>
+ <Track4:TimeStamp>27.13064</Track4:TimeStamp>
+ <Track4:TimeStamp>27.13064</Track4:TimeStamp>
+ <Track4:TimeStamp>26.336907</Track4:TimeStamp>
+ <Track4:TimeStamp>26.336907</Track4:TimeStamp>
+ <Track4:TimeStamp>26.336907</Track4:TimeStamp>
+ <Track4:SampleTime>1.37 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>27.129059</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.255859375 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 51 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>27.129059</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.255859375 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 56 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>27.964807</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/306</Track4:ExposureTimes>
+ <Track4:TimeStamp>27.964807</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5535</Track4:ColorTemperatures>
+ <Track4:TimeStamp>27.964807</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 19 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>27.964807</Track4:TimeStamp>
+ <Track4:ISOSpeeds>1077</Track4:ISOSpeeds>
+ <Track4:TimeStamp>27.93144</Track4:TimeStamp>
+ <Track4:TimeStamp>27.964807</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>27.143588</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:54.824</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.3</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 23.78&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 40.91&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>270.095 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.058</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.1</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>27.964807</Track4:TimeStamp>
+ <Track4:TimeStamp>27.964807</Track4:TimeStamp>
+ <Track4:TimeStamp>27.964807</Track4:TimeStamp>
+ <Track4:TimeStamp>27.964807</Track4:TimeStamp>
+ <Track4:TimeStamp>27.136907</Track4:TimeStamp>
+ <Track4:TimeStamp>27.136907</Track4:TimeStamp>
+ <Track4:TimeStamp>27.136907</Track4:TimeStamp>
+ <Track4:SampleTime>1.40 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>27.966875</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.28125 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 51 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>27.966875</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.28125 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 59 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>28.865707</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/240</Track4:ExposureTimes>
+ <Track4:TimeStamp>28.865707</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5574</Track4:ColorTemperatures>
+ <Track4:TimeStamp>28.865707</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 23 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>28.865707</Track4:TimeStamp>
+ <Track4:ISOSpeeds>839</Track4:ISOSpeeds>
+ <Track4:TimeStamp>28.83234</Track4:TimeStamp>
+ <Track4:TimeStamp>28.865707</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>27.13064</Track4:TimeStamp>
+ <Track4:TimeStamp>27.13064</Track4:TimeStamp>
+ <Track4:TimeStamp>27.13064</Track4:TimeStamp>
+ <Track4:TimeStamp>27.970542</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:54.824</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.3</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 23.77&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 40.96&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>269.925 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.061</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.06</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>28.865707</Track4:TimeStamp>
+ <Track4:TimeStamp>28.865707</Track4:TimeStamp>
+ <Track4:TimeStamp>28.865707</Track4:TimeStamp>
+ <Track4:TimeStamp>28.865707</Track4:TimeStamp>
+ <Track4:TimeStamp>27.936907</Track4:TimeStamp>
+ <Track4:TimeStamp>27.936907</Track4:TimeStamp>
+ <Track4:TimeStamp>27.936907</Track4:TimeStamp>
+ <Track4:SampleTime>1.43 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>28.864535</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.2421875 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 53 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>28.864535</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.2421875 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 55 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>29.699874</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/260</Track4:ExposureTimes>
+ <Track4:TimeStamp>29.699874</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5614</Track4:ColorTemperatures>
+ <Track4:TimeStamp>29.699874</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 18 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>29.699874</Track4:TimeStamp>
+ <Track4:ISOSpeeds>898</Track4:ISOSpeeds>
+ <Track4:TimeStamp>29.63314</Track4:TimeStamp>
+ <Track4:TimeStamp>29.699874</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>28.85256</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:54.879</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.3</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 23.76&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 41.01&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>269.766 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.767</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.77</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>29.699874</Track4:TimeStamp>
+ <Track4:TimeStamp>29.699874</Track4:TimeStamp>
+ <Track4:TimeStamp>29.699874</Track4:TimeStamp>
+ <Track4:TimeStamp>29.699874</Track4:TimeStamp>
+ <Track4:SampleTime>1.47 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>29.702351</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.26953125 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 52 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>29.702351</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.26953125 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 59 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>30.600774</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/337</Track4:ExposureTimes>
+ <Track4:TimeStamp>30.600774</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5654</Track4:ColorTemperatures>
+ <Track4:TimeStamp>30.600774</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 23 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>30.600774</Track4:TimeStamp>
+ <Track4:ISOSpeeds>1150</Track4:ISOSpeeds>
+ <Track4:TimeStamp>30.53404</Track4:TimeStamp>
+ <Track4:TimeStamp>30.600774</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>28.83234</Track4:TimeStamp>
+ <Track4:TimeStamp>28.83234</Track4:TimeStamp>
+ <Track4:TimeStamp>28.865707</Track4:TimeStamp>
+ <Track4:TimeStamp>29.679408</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:54.934</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.3</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 23.75&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 41.07&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>269.767 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.098</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.1</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>30.600774</Track4:TimeStamp>
+ <Track4:TimeStamp>30.600774</Track4:TimeStamp>
+ <Track4:TimeStamp>30.600774</Track4:TimeStamp>
+ <Track4:TimeStamp>30.600774</Track4:TimeStamp>
+ <Track4:TimeStamp>28.536907</Track4:TimeStamp>
+ <Track4:TimeStamp>28.536907</Track4:TimeStamp>
+ <Track4:TimeStamp>28.536907</Track4:TimeStamp>
+ <Track4:SampleTime>1.50 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>30.600011</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.25 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 51 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>30.600011</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.25 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 58 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>31.401574</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/276</Track4:ExposureTimes>
+ <Track4:TimeStamp>31.401574</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5654</Track4:ColorTemperatures>
+ <Track4:TimeStamp>31.401574</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 23 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>31.401574</Track4:TimeStamp>
+ <Track4:ISOSpeeds>939</Track4:ISOSpeeds>
+ <Track4:TimeStamp>31.33484</Track4:TimeStamp>
+ <Track4:TimeStamp>31.401574</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>30.616222</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:54.934</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.3</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 23.74&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 41.12&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>269.66 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.1</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.09</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>31.401574</Track4:TimeStamp>
+ <Track4:TimeStamp>31.401574</Track4:TimeStamp>
+ <Track4:TimeStamp>31.401574</Track4:TimeStamp>
+ <Track4:TimeStamp>31.401574</Track4:TimeStamp>
+ <Track4:SampleTime>1.53 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>31.402918</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.275390625 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 52 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>31.402918</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.275390625 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 56 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>32.33584</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/263</Track4:ExposureTimes>
+ <Track4:TimeStamp>32.33584</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5654</Track4:ColorTemperatures>
+ <Track4:TimeStamp>32.33584</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 23 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>32.33584</Track4:TimeStamp>
+ <Track4:ISOSpeeds>890</Track4:ISOSpeeds>
+ <Track4:TimeStamp>32.33584</Track4:TimeStamp>
+ <Track4:TimeStamp>32.33584</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>30.53404</Track4:TimeStamp>
+ <Track4:TimeStamp>30.53404</Track4:TimeStamp>
+ <Track4:TimeStamp>30.600774</Track4:TimeStamp>
+ <Track4:TimeStamp>31.384522</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:54.989</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.3</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 23.73&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 41.18&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>269.613 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.129</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.12</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>32.33584</Track4:TimeStamp>
+ <Track4:TimeStamp>32.33584</Track4:TimeStamp>
+ <Track4:TimeStamp>32.33584</Track4:TimeStamp>
+ <Track4:TimeStamp>32.33584</Track4:TimeStamp>
+ <Track4:SampleTime>1.57 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>32.335487</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.291015625 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 52 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>32.335487</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.291015625 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 58 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>33.303474</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/240</Track4:ExposureTimes>
+ <Track4:TimeStamp>33.303474</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5654</Track4:ColorTemperatures>
+ <Track4:TimeStamp>33.303474</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 23 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>33.303474</Track4:TimeStamp>
+ <Track4:ISOSpeeds>812</Track4:ISOSpeeds>
+ <Track4:TimeStamp>33.23674</Track4:TimeStamp>
+ <Track4:TimeStamp>33.303474</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>32.319998</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:54.989</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.3</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 23.71&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 41.24&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>269.506 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.149</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.17</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>33.303474</Track4:TimeStamp>
+ <Track4:TimeStamp>33.303474</Track4:TimeStamp>
+ <Track4:TimeStamp>33.303474</Track4:TimeStamp>
+ <Track4:TimeStamp>33.303474</Track4:TimeStamp>
+ <Track4:TimeStamp>28.636907</Track4:TimeStamp>
+ <Track4:TimeStamp>28.636907</Track4:TimeStamp>
+ <Track4:TimeStamp>28.636907</Track4:TimeStamp>
+ <Track4:SampleTime>1.60 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>33.302965</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.28125 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 51 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>33.302965</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.28125 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 59 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>34.771607</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/240</Track4:ExposureTimes>
+ <Track4:TimeStamp>34.771607</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5654</Track4:ColorTemperatures>
+ <Track4:TimeStamp>34.771607</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 22 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>34.771607</Track4:TimeStamp>
+ <Track4:ISOSpeeds>806</Track4:ISOSpeeds>
+ <Track4:TimeStamp>34.73824</Track4:TimeStamp>
+ <Track4:TimeStamp>34.771607</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>32.33584</Track4:TimeStamp>
+ <Track4:TimeStamp>32.33584</Track4:TimeStamp>
+ <Track4:TimeStamp>32.33584</Track4:TimeStamp>
+ <Track4:TimeStamp>33.310284</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:55.044</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.3</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 23.70&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 41.32&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>269.141 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.076</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.09</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>34.771607</Track4:TimeStamp>
+ <Track4:TimeStamp>34.771607</Track4:TimeStamp>
+ <Track4:TimeStamp>34.771607</Track4:TimeStamp>
+ <Track4:TimeStamp>34.771607</Track4:TimeStamp>
+ <Track4:SampleTime>1.63 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>34.77413</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.28515625 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 50 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>34.77413</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.28515625 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 59 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>35.972807</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/242</Track4:ExposureTimes>
+ <Track4:TimeStamp>35.972807</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5654</Track4:ColorTemperatures>
+ <Track4:TimeStamp>35.972807</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 22 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>35.972807</Track4:TimeStamp>
+ <Track4:ISOSpeeds>812</Track4:ISOSpeeds>
+ <Track4:TimeStamp>35.93944</Track4:TimeStamp>
+ <Track4:TimeStamp>35.972807</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>34.795888</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:55.099</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.3</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 23.69&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 41.41&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>268.943 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.088</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.12</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>35.972807</Track4:TimeStamp>
+ <Track4:TimeStamp>35.972807</Track4:TimeStamp>
+ <Track4:TimeStamp>35.972807</Track4:TimeStamp>
+ <Track4:TimeStamp>35.972807</Track4:TimeStamp>
+ <Track4:SampleTime>1.67 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>35.97101</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.294921875 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 50 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>35.97101</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.294921875 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 59 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>37.073907</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/244</Track4:ExposureTimes>
+ <Track4:TimeStamp>37.073907</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5693</Track4:ColorTemperatures>
+ <Track4:TimeStamp>37.073907</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 22 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>37.073907</Track4:TimeStamp>
+ <Track4:ISOSpeeds>812</Track4:ISOSpeeds>
+ <Track4:TimeStamp>37.04054</Track4:TimeStamp>
+ <Track4:TimeStamp>37.073907</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>34.73824</Track4:TimeStamp>
+ <Track4:TimeStamp>34.73824</Track4:TimeStamp>
+ <Track4:TimeStamp>34.73824</Track4:TimeStamp>
+ <Track4:TimeStamp>35.9514</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:55.099</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.3</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 23.68&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 41.48&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>268.891 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.191</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.19</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>37.073907</Track4:TimeStamp>
+ <Track4:TimeStamp>37.073907</Track4:TimeStamp>
+ <Track4:TimeStamp>37.073907</Track4:TimeStamp>
+ <Track4:TimeStamp>37.073907</Track4:TimeStamp>
+ <Track4:TimeStamp>28.736907</Track4:TimeStamp>
+ <Track4:TimeStamp>28.736907</Track4:TimeStamp>
+ <Track4:TimeStamp>28.736907</Track4:TimeStamp>
+ <Track4:SampleTime>1.70 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>37.073137</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.318359375 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 52 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>37.073137</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.318359375 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 58 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>37.674507</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/316</Track4:ExposureTimes>
+ <Track4:TimeStamp>37.674507</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5733</Track4:ColorTemperatures>
+ <Track4:TimeStamp>37.674507</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 21 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>37.674507</Track4:TimeStamp>
+ <Track4:ISOSpeeds>1044</Track4:ISOSpeeds>
+ <Track4:TimeStamp>37.64114</Track4:TimeStamp>
+ <Track4:TimeStamp>37.674507</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>37.05182</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:55.154</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.31</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 23.67&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 41.55&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>268.767 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.273</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.32</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>37.674507</Track4:TimeStamp>
+ <Track4:TimeStamp>37.674507</Track4:TimeStamp>
+ <Track4:TimeStamp>37.674507</Track4:TimeStamp>
+ <Track4:TimeStamp>37.674507</Track4:TimeStamp>
+ <Track4:SampleTime>1.73 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>37.676564</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.30859375 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 50 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>37.676564</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.30859375 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 55 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>38.108274</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/260</Track4:ExposureTimes>
+ <Track4:TimeStamp>38.108274</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5733</Track4:ColorTemperatures>
+ <Track4:TimeStamp>38.108274</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 21 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>38.108274</Track4:TimeStamp>
+ <Track4:ISOSpeeds>846</Track4:ISOSpeeds>
+ <Track4:TimeStamp>38.04154</Track4:TimeStamp>
+ <Track4:TimeStamp>38.108274</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>37.04054</Track4:TimeStamp>
+ <Track4:TimeStamp>37.04054</Track4:TimeStamp>
+ <Track4:TimeStamp>37.007174</Track4:TimeStamp>
+ <Track4:TimeStamp>37.657048</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:55.154</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.31</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 23.67&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 41.58&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>268.637 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.207</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.22</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>38.108274</Track4:TimeStamp>
+ <Track4:TimeStamp>38.108274</Track4:TimeStamp>
+ <Track4:TimeStamp>38.108274</Track4:TimeStamp>
+ <Track4:TimeStamp>38.108274</Track4:TimeStamp>
+ <Track4:SampleTime>1.77 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>38.110433</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.28125 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 49 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>38.110433</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.28125 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 57 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>39.910074</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/240</Track4:ExposureTimes>
+ <Track4:TimeStamp>39.910074</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5733</Track4:ColorTemperatures>
+ <Track4:TimeStamp>39.910074</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 22 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>39.910074</Track4:TimeStamp>
+ <Track4:ISOSpeeds>769</Track4:ISOSpeeds>
+ <Track4:TimeStamp>39.84334</Track4:TimeStamp>
+ <Track4:TimeStamp>39.910074</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>38.097232</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:55.209</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.31</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 23.65&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 41.66&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>268.511 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.181</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.18</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>39.910074</Track4:TimeStamp>
+ <Track4:TimeStamp>39.910074</Track4:TimeStamp>
+ <Track4:TimeStamp>39.910074</Track4:TimeStamp>
+ <Track4:TimeStamp>39.910074</Track4:TimeStamp>
+ <Track4:TimeStamp>28.836907</Track4:TimeStamp>
+ <Track4:TimeStamp>28.836907</Track4:TimeStamp>
+ <Track4:TimeStamp>28.836907</Track4:TimeStamp>
+ <Track4:SampleTime>1.80 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>39.91074</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.24609375 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 50 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>39.91074</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.24609375 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 57 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>40.34384</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/240</Track4:ExposureTimes>
+ <Track4:TimeStamp>40.34384</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5773</Track4:ColorTemperatures>
+ <Track4:TimeStamp>40.34384</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 20 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>40.34384</Track4:TimeStamp>
+ <Track4:ISOSpeeds>764</Track4:ISOSpeeds>
+ <Track4:TimeStamp>40.34384</Track4:TimeStamp>
+ <Track4:TimeStamp>40.34384</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>38.04154</Track4:TimeStamp>
+ <Track4:TimeStamp>38.04154</Track4:TimeStamp>
+ <Track4:TimeStamp>38.074907</Track4:TimeStamp>
+ <Track4:TimeStamp>39.912856</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:55.264</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.31</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 23.63&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 41.74&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>268.108 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.156</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.24</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>40.34384</Track4:TimeStamp>
+ <Track4:TimeStamp>40.34384</Track4:TimeStamp>
+ <Track4:TimeStamp>40.34384</Track4:TimeStamp>
+ <Track4:TimeStamp>40.34384</Track4:TimeStamp>
+ <Track4:SampleTime>1.83 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>40.344609</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.28125 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 51 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>40.344609</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.28125 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 55 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>41.678507</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/425</Track4:ExposureTimes>
+ <Track4:TimeStamp>41.678507</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5733</Track4:ColorTemperatures>
+ <Track4:TimeStamp>41.678507</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 23 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>41.678507</Track4:TimeStamp>
+ <Track4:ISOSpeeds>1347</Track4:ISOSpeeds>
+ <Track4:TimeStamp>41.64514</Track4:TimeStamp>
+ <Track4:TimeStamp>41.678507</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>40.352968</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:55.264</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.31</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 23.61&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 41.78&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>267.896 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.834</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.89</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>41.678507</Track4:TimeStamp>
+ <Track4:TimeStamp>41.678507</Track4:TimeStamp>
+ <Track4:TimeStamp>41.678507</Track4:TimeStamp>
+ <Track4:TimeStamp>41.678507</Track4:TimeStamp>
+ <Track4:SampleTime>1.87 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>41.676138</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.298828125 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 52 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>41.676138</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.298828125 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 57 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>42.579407</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/280</Track4:ExposureTimes>
+ <Track4:TimeStamp>42.579407</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5654</Track4:ColorTemperatures>
+ <Track4:TimeStamp>42.579407</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 23 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>42.579407</Track4:TimeStamp>
+ <Track4:ISOSpeeds>890</Track4:ISOSpeeds>
+ <Track4:TimeStamp>42.54604</Track4:TimeStamp>
+ <Track4:TimeStamp>42.579407</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>40.34384</Track4:TimeStamp>
+ <Track4:TimeStamp>40.34384</Track4:TimeStamp>
+ <Track4:TimeStamp>40.34384</Track4:TimeStamp>
+ <Track4:TimeStamp>41.673312</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:55.319</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.3</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 23.60&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 41.82&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>268.163 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.572</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.59</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>42.579407</Track4:TimeStamp>
+ <Track4:TimeStamp>42.579407</Track4:TimeStamp>
+ <Track4:TimeStamp>42.579407</Track4:TimeStamp>
+ <Track4:TimeStamp>42.579407</Track4:TimeStamp>
+ <Track4:TimeStamp>28.936907</Track4:TimeStamp>
+ <Track4:TimeStamp>28.936907</Track4:TimeStamp>
+ <Track4:TimeStamp>28.936907</Track4:TimeStamp>
+ <Track4:SampleTime>1.90 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>42.578785</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.32421875 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 51 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>42.578785</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.32421875 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 59 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>44.04754</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/293</Track4:ExposureTimes>
+ <Track4:TimeStamp>44.04754</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5654</Track4:ColorTemperatures>
+ <Track4:TimeStamp>44.04754</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 23 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>44.04754</Track4:TimeStamp>
+ <Track4:ISOSpeeds>939</Track4:ISOSpeeds>
+ <Track4:TimeStamp>44.04754</Track4:TimeStamp>
+ <Track4:TimeStamp>44.04754</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>42.5536</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:55.319</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.3</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 23.58&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 41.87&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>268.362 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.876</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.87</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>44.04754</Track4:TimeStamp>
+ <Track4:TimeStamp>44.04754</Track4:TimeStamp>
+ <Track4:TimeStamp>44.04754</Track4:TimeStamp>
+ <Track4:TimeStamp>44.04754</Track4:TimeStamp>
+ <Track4:SampleTime>1.93 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>44.04995</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.296875 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 52 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>44.04995</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.296875 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 56 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>44.781607</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/240</Track4:ExposureTimes>
+ <Track4:TimeStamp>44.781607</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5614</Track4:ColorTemperatures>
+ <Track4:TimeStamp>44.781607</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 19 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>44.781607</Track4:TimeStamp>
+ <Track4:ISOSpeeds>775</Track4:ISOSpeeds>
+ <Track4:TimeStamp>44.74824</Track4:TimeStamp>
+ <Track4:TimeStamp>44.781607</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>42.54604</Track4:TimeStamp>
+ <Track4:TimeStamp>42.54604</Track4:TimeStamp>
+ <Track4:TimeStamp>42.479307</Track4:TimeStamp>
+ <Track4:TimeStamp>44.038432</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:55.374</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.3</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 23.55&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 41.92&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>268.559 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.665</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.69</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>44.781607</Track4:TimeStamp>
+ <Track4:TimeStamp>44.781607</Track4:TimeStamp>
+ <Track4:TimeStamp>44.781607</Track4:TimeStamp>
+ <Track4:TimeStamp>44.781607</Track4:TimeStamp>
+ <Track4:SampleTime>1.97 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>44.783039</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.318359375 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 50 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>44.783039</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.318359375 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 56 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>45.74924</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/480</Track4:ExposureTimes>
+ <Track4:TimeStamp>45.74924</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5535</Track4:ColorTemperatures>
+ <Track4:TimeStamp>45.74924</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 21 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>45.74924</Track4:TimeStamp>
+ <Track4:ISOSpeeds>1575</Track4:ISOSpeeds>
+ <Track4:TimeStamp>45.74924</Track4:TimeStamp>
+ <Track4:TimeStamp>45.74924</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>44.808276</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:55.429</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.3</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 23.54&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 41.96&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>268.827 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.71</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.73</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>45.74924</Track4:TimeStamp>
+ <Track4:TimeStamp>45.74924</Track4:TimeStamp>
+ <Track4:TimeStamp>45.74924</Track4:TimeStamp>
+ <Track4:TimeStamp>45.74924</Track4:TimeStamp>
+ <Track4:TimeStamp>29.036907</Track4:TimeStamp>
+ <Track4:TimeStamp>29.036907</Track4:TimeStamp>
+ <Track4:TimeStamp>29.036907</Track4:TimeStamp>
+ <Track4:SampleTime>2.00 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>45.750517</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.3359375 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 50 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>45.750517</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.3359375 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 55 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>46.183007</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/450</Track4:ExposureTimes>
+ <Track4:TimeStamp>46.183007</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5495</Track4:ColorTemperatures>
+ <Track4:TimeStamp>46.183007</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 22 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>46.183007</Track4:TimeStamp>
+ <Track4:ISOSpeeds>1484</Track4:ISOSpeeds>
+ <Track4:TimeStamp>46.14964</Track4:TimeStamp>
+ <Track4:TimeStamp>46.183007</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>45.742608</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:55.429</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.3</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 23.53&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 41.99&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>269.166 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.512</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.5</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>46.183007</Track4:TimeStamp>
+ <Track4:TimeStamp>46.183007</Track4:TimeStamp>
+ <Track4:TimeStamp>46.183007</Track4:TimeStamp>
+ <Track4:TimeStamp>46.183007</Track4:TimeStamp>
+ <Track4:SampleTime>2.03 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.03 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>46.184473</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.33203125 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 49 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>46.184473</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.33203125 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 52 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>46.183007</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/450</Track4:ExposureTimes>
+ <Track4:TimeStamp>46.183007</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5495</Track4:ColorTemperatures>
+ <Track4:TimeStamp>46.183007</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 22 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>46.183007</Track4:TimeStamp>
+ <Track4:ISOSpeeds>1484</Track4:ISOSpeeds>
+ <Track4:TimeStamp>46.183007</Track4:TimeStamp>
+ <Track4:InputUniformity>0</Track4:InputUniformity>
+ <Track4:TimeStamp>46.181888</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 16:01:55.484</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.31</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 23.53&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 42.00&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>269.052 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.734</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.61</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>46.183007</Track4:TimeStamp>
+ <Track4:TimeStamp>46.183007</Track4:TimeStamp>
+ <Track4:TimeStamp>46.183007</Track4:TimeStamp>
+ <Track4:TimeStamp>46.183007</Track4:TimeStamp>
+ <Composite:ImageSize>2704x2028</Composite:ImageSize>
+ <Composite:Megapixels>5.5</Composite:Megapixels>
+ <Composite:AvgBitrate>96.6 Mbps</Composite:AvgBitrate>
+ <Composite:GPSLatitude>53 deg 22&#39; 24.24&quot; N</Composite:GPSLatitude>
+ <Composite:GPSLongitude>1 deg 34&#39; 39.36&quot; W</Composite:GPSLongitude>
+ <Composite:Rotation>0</Composite:Rotation>
+ <Composite:GPSPosition>53 deg 22&#39; 24.24&quot; N, 1 deg 34&#39; 39.36&quot; W</Composite:GPSPosition>
+</rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+<rdf:Description rdf:about='GPAA8686.JPG'
+  xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 12.36'
+  xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
+  xmlns:System='http://ns.exiftool.org/File/System/1.0/'
+  xmlns:File='http://ns.exiftool.org/File/1.0/'
+  xmlns:IFD0='http://ns.exiftool.org/EXIF/IFD0/1.0/'
+  xmlns:ExifIFD='http://ns.exiftool.org/EXIF/ExifIFD/1.0/'
+  xmlns:InteropIFD='http://ns.exiftool.org/EXIF/InteropIFD/1.0/'
+  xmlns:GPS='http://ns.exiftool.org/EXIF/GPS/1.0/'
+  xmlns:IFD1='http://ns.exiftool.org/EXIF/IFD1/1.0/'
+  xmlns:MPF0='http://ns.exiftool.org/MPF/MPF0/1.0/'
+  xmlns:MPImage1='http://ns.exiftool.org/MPF/MPImage1/1.0/'
+  xmlns:MPImage2='http://ns.exiftool.org/MPF/MPImage2/1.0/'
+  xmlns:GoPro='http://ns.exiftool.org/APP6/GoPro/1.0/'
+  xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
+ <ExifTool:ExifToolVersion>12.36</ExifTool:ExifToolVersion>
+ <ExifTool:Warning>[minor] Unrecognized MakerNotes</ExifTool:Warning>
+ <System:FileName>GPAA8686.JPG</System:FileName>
+ <System:Directory>.</System:Directory>
+ <System:FileSize>2.3 MiB</System:FileSize>
+ <System:FileModifyDate>2021:12:19 21:01:54+00:00</System:FileModifyDate>
+ <System:FileAccessDate>2021:12:19 19:59:06+00:00</System:FileAccessDate>
+ <System:FileInodeChangeDate>2021:12:19 19:59:04+00:00</System:FileInodeChangeDate>
+ <System:FilePermissions>-rwxrwxrwx</System:FilePermissions>
+ <File:FileType>JPEG</File:FileType>
+ <File:FileTypeExtension>jpg</File:FileTypeExtension>
+ <File:MIMEType>image/jpeg</File:MIMEType>
+ <File:ExifByteOrder>Big-endian (Motorola, MM)</File:ExifByteOrder>
+ <File:ImageWidth>2704</File:ImageWidth>
+ <File:ImageHeight>2028</File:ImageHeight>
+ <File:EncodingProcess>Baseline DCT, Huffman coding</File:EncodingProcess>
+ <File:BitsPerSample>8</File:BitsPerSample>
+ <File:ColorComponents>3</File:ColorComponents>
+ <File:YCbCrSubSampling>YCbCr4:2:2 (2 1)</File:YCbCrSubSampling>
+ <File:FileType>JPEG</File:FileType>
+ <File:FileTypeExtension>jpg</File:FileTypeExtension>
+ <File:MIMEType>image/jpeg</File:MIMEType>
+ <File:ImageWidth>960</File:ImageWidth>
+ <File:ImageHeight>720</File:ImageHeight>
+ <File:EncodingProcess>Baseline DCT, Huffman coding</File:EncodingProcess>
+ <File:BitsPerSample>8</File:BitsPerSample>
+ <File:ColorComponents>3</File:ColorComponents>
+ <File:YCbCrSubSampling>YCbCr4:2:2 (2 1)</File:YCbCrSubSampling>
+ <IFD0:ImageDescription>DCIM\100GOPRO\GPAA8686.JPG</IFD0:ImageDescription>
+ <IFD0:Make>GoPro</IFD0:Make>
+ <IFD0:Model>GoPro Max</IFD0:Model>
+ <IFD0:Orientation>Horizontal (normal)</IFD0:Orientation>
+ <IFD0:XResolution>72</IFD0:XResolution>
+ <IFD0:YResolution>72</IFD0:YResolution>
+ <IFD0:ResolutionUnit>inches</IFD0:ResolutionUnit>
+ <IFD0:Software>H19.03.02.00.00</IFD0:Software>
+ <IFD0:ModifyDate>2021:12:19 21:01:54</IFD0:ModifyDate>
+ <IFD0:YCbCrPositioning>Centered</IFD0:YCbCrPositioning>
+ <ExifIFD:ExposureTime>1/8</ExifIFD:ExposureTime>
+ <ExifIFD:FNumber>2.8</ExifIFD:FNumber>
+ <ExifIFD:ExposureProgram>Program AE</ExifIFD:ExposureProgram>
+ <ExifIFD:ISO>1600</ExifIFD:ISO>
+ <ExifIFD:ExifVersion>0221</ExifIFD:ExifVersion>
+ <ExifIFD:DateTimeOriginal>2021:12:19 21:01:54</ExifIFD:DateTimeOriginal>
+ <ExifIFD:CreateDate>2021:12:19 21:01:54</ExifIFD:CreateDate>
+ <ExifIFD:ComponentsConfiguration>Y, Cb, Cr, -</ExifIFD:ComponentsConfiguration>
+ <ExifIFD:CompressedBitsPerPixel>0.003367003367</ExifIFD:CompressedBitsPerPixel>
+ <ExifIFD:ShutterSpeedValue>1/8</ExifIFD:ShutterSpeedValue>
+ <ExifIFD:ApertureValue>2.8</ExifIFD:ApertureValue>
+ <ExifIFD:ExposureCompensation>0</ExifIFD:ExposureCompensation>
+ <ExifIFD:MaxApertureValue>2.8</ExifIFD:MaxApertureValue>
+ <ExifIFD:SubjectDistance>0 m</ExifIFD:SubjectDistance>
+ <ExifIFD:MeteringMode>Average</ExifIFD:MeteringMode>
+ <ExifIFD:LightSource>Unknown</ExifIFD:LightSource>
+ <ExifIFD:Flash>No flash function</ExifIFD:Flash>
+ <ExifIFD:FocalLength>3.0 mm</ExifIFD:FocalLength>
+ <ExifIFD:FlashpixVersion rdf:datatype='http://www.w3.org/2001/XMLSchema#base64Binary'>
+CAkKCw==
+</ExifIFD:FlashpixVersion>
+ <ExifIFD:ColorSpace>Unknown (0)</ExifIFD:ColorSpace>
+ <ExifIFD:ExifImageWidth>2704</ExifIFD:ExifImageWidth>
+ <ExifIFD:ExifImageHeight>2028</ExifIFD:ExifImageHeight>
+ <ExifIFD:ExposureIndex>2147483595</ExifIFD:ExposureIndex>
+ <ExifIFD:SensingMethod>One-chip color area</ExifIFD:SensingMethod>
+ <ExifIFD:FileSource>Digital Camera</ExifIFD:FileSource>
+ <ExifIFD:SceneType>Directly photographed</ExifIFD:SceneType>
+ <ExifIFD:CustomRendered>Normal</ExifIFD:CustomRendered>
+ <ExifIFD:ExposureMode>Auto</ExifIFD:ExposureMode>
+ <ExifIFD:WhiteBalance>Auto</ExifIFD:WhiteBalance>
+ <ExifIFD:DigitalZoomRatio>1</ExifIFD:DigitalZoomRatio>
+ <ExifIFD:FocalLengthIn35mmFormat>15 mm</ExifIFD:FocalLengthIn35mmFormat>
+ <ExifIFD:SceneCaptureType>Landscape</ExifIFD:SceneCaptureType>
+ <ExifIFD:GainControl>None</ExifIFD:GainControl>
+ <ExifIFD:Contrast>Normal</ExifIFD:Contrast>
+ <ExifIFD:Saturation>Normal</ExifIFD:Saturation>
+ <ExifIFD:Sharpness>Hard</ExifIFD:Sharpness>
+ <ExifIFD:DeviceSettingDescription>(Binary data 4 bytes, use -b option to extract)</ExifIFD:DeviceSettingDescription>
+ <ExifIFD:SubjectDistanceRange>Unknown</ExifIFD:SubjectDistanceRange>
+ <ExifIFD:SerialNumber>C3351324612139</ExifIFD:SerialNumber>
+ <InteropIFD:InteropIndex>R98 - DCF basic file (sRGB)</InteropIFD:InteropIndex>
+ <InteropIFD:InteropVersion>0100</InteropIFD:InteropVersion>
+ <GPS:GPSLatitudeRef>North</GPS:GPSLatitudeRef>
+ <GPS:GPSLatitude>51 deg 16&#39; 20.47&quot;</GPS:GPSLatitude>
+ <GPS:GPSLongitudeRef>West</GPS:GPSLongitudeRef>
+ <GPS:GPSLongitude>0 deg 50&#39; 45.16&quot;</GPS:GPSLongitude>
+ <GPS:GPSAltitudeRef>Above Sea Level</GPS:GPSAltitudeRef>
+ <GPS:GPSAltitude>121.502 m</GPS:GPSAltitude>
+ <GPS:GPSTimeStamp>19:51:45</GPS:GPSTimeStamp>
+ <GPS:GPSDateStamp>2021:12:19</GPS:GPSDateStamp>
+ <IFD1:Compression>JPEG (old-style)</IFD1:Compression>
+ <IFD1:XResolution>72</IFD1:XResolution>
+ <IFD1:YResolution>72</IFD1:YResolution>
+ <IFD1:ResolutionUnit>inches</IFD1:ResolutionUnit>
+ <IFD1:ThumbnailOffset>44032</IFD1:ThumbnailOffset>
+ <IFD1:ThumbnailLength>15874</IFD1:ThumbnailLength>
+ <IFD1:ThumbnailImage>(Binary data 15874 bytes, use -b option to extract)</IFD1:ThumbnailImage>
+ <MPF0:MPFVersion>0100</MPF0:MPFVersion>
+ <MPF0:NumberOfImages>2</MPF0:NumberOfImages>
+ <MPF0:ImageUIDList>(Binary data 66 bytes, use -b option to extract)</MPF0:ImageUIDList>
+ <MPF0:TotalFrames>1</MPF0:TotalFrames>
+ <MPImage1:MPImageFlags>Representative image, Dependent parent image</MPImage1:MPImageFlags>
+ <MPImage1:MPImageFormat>JPEG</MPImage1:MPImageFormat>
+ <MPImage1:MPImageType>Baseline MP Primary Image</MPImage1:MPImageType>
+ <MPImage1:MPImageLength>2137808</MPImage1:MPImageLength>
+ <MPImage1:MPImageStart>0</MPImage1:MPImageStart>
+ <MPImage1:DependentImage1EntryNumber>2</MPImage1:DependentImage1EntryNumber>
+ <MPImage1:DependentImage2EntryNumber>0</MPImage1:DependentImage2EntryNumber>
+ <MPImage2:MPImageFlags>Dependent child image</MPImage2:MPImageFlags>
+ <MPImage2:MPImageFormat>JPEG</MPImage2:MPImageFormat>
+ <MPImage2:MPImageType>Large Thumbnail (VGA equivalent)</MPImage2:MPImageType>
+ <MPImage2:MPImageLength>254904</MPImage2:MPImageLength>
+ <MPImage2:MPImageStart>2137808</MPImage2:MPImageStart>
+ <MPImage2:DependentImage1EntryNumber>0</MPImage2:DependentImage1EntryNumber>
+ <MPImage2:DependentImage2EntryNumber>0</MPImage2:DependentImage2EntryNumber>
+ <MPImage2:PreviewImage>(Binary data 254904 bytes, use -b option to extract)</MPImage2:PreviewImage>
+ <GoPro:DeviceName>Global Settings</GoPro:DeviceName>
+ <GoPro:MetadataVersion>8.1.2</GoPro:MetadataVersion>
+ <GoPro:FirmwareVersion>H19.03.02.00.00</GoPro:FirmwareVersion>
+ <GoPro:CameraSerialNumber>C3351324612139</GoPro:CameraSerialNumber>
+ <GoPro:Model>GoPro Max</GoPro:Model>
+ <GoPro:MediaUniqueID>5d9b36433e903573bedb8fcffbd1a38100000000000000000000000000000000</GoPro:MediaUniqueID>
+ <GoPro:AutoRotation>Up</GoPro:AutoRotation>
+ <GoPro:DigitalZoom>No</GoPro:DigitalZoom>
+ <GoPro:ProTune>On</GoPro:ProTune>
+ <GoPro:WhiteBalance>AUTO</GoPro:WhiteBalance>
+ <GoPro:Sharpness>HIGH</GoPro:Sharpness>
+ <GoPro:ColorMode>GOPRO</GoPro:ColorMode>
+ <GoPro:MaximumShutterAngle>AUTO</GoPro:MaximumShutterAngle>
+ <GoPro:AutoISOMax>1600</GoPro:AutoISOMax>
+ <GoPro:AutoISOMin>100</GoPro:AutoISOMin>
+ <GoPro:ExposureCompensation>0.0</GoPro:ExposureCompensation>
+ <GoPro:Rate>2_1SEC</GoPro:Rate>
+ <GoPro:PhotoResolution>5.5MP_X</GoPro:PhotoResolution>
+ <GoPro:HDRSetting>OFF</GoPro:HDRSetting>
+ <GoPro:ElectronicImageStabilization>N/A</GoPro:ElectronicImageStabilization>
+ <GoPro:DeviceName>Geometry Calibrations</GoPro:DeviceName>
+ <GoPro:DeviceName>Back Lens</GoPro:DeviceName>
+ <GoPro:DeviceName>Front Lens</GoPro:DeviceName>
+ <Composite:Aperture>2.8</Composite:Aperture>
+ <Composite:ImageSize>2704x2028</Composite:ImageSize>
+ <Composite:Megapixels>5.5</Composite:Megapixels>
+ <Composite:ScaleFactor35efl>5.0</Composite:ScaleFactor35efl>
+ <Composite:ShutterSpeed>1/8</Composite:ShutterSpeed>
+ <Composite:GPSAltitude>121.5 m Above Sea Level</Composite:GPSAltitude>
+ <Composite:GPSDateTime>2021:12:19 19:51:45Z</Composite:GPSDateTime>
+ <Composite:GPSLatitude>51 deg 16&#39; 20.47&quot; N</Composite:GPSLatitude>
+ <Composite:GPSLongitude>0 deg 50&#39; 45.16&quot; W</Composite:GPSLongitude>
+ <Composite:CircleOfConfusion>0.006 mm</Composite:CircleOfConfusion>
+ <Composite:FOV>100.4 deg</Composite:FOV>
+ <Composite:FocalLength35efl>3.0 mm (35 mm equivalent: 15.0 mm)</Composite:FocalLength35efl>
+ <Composite:GPSPosition>51 deg 16&#39; 20.47&quot; N, 0 deg 50&#39; 45.16&quot; W</Composite:GPSPosition>
+ <Composite:HyperfocalDistance>0.53 m</Composite:HyperfocalDistance>
+ <Composite:LightValue>2.0</Composite:LightValue>
+</rdf:Description>
+</rdf:RDF>

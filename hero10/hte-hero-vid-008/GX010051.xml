@@ -1,0 +1,1919 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+<rdf:Description rdf:about='GX010051.MP4'
+  xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 12.36'
+  xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
+  xmlns:System='http://ns.exiftool.org/File/System/1.0/'
+  xmlns:File='http://ns.exiftool.org/File/1.0/'
+  xmlns:QuickTime='http://ns.exiftool.org/QuickTime/QuickTime/1.0/'
+  xmlns:UserData='http://ns.exiftool.org/QuickTime/UserData/1.0/'
+  xmlns:GoPro='http://ns.exiftool.org/QuickTime/GoPro/1.0/'
+  xmlns:Track1='http://ns.exiftool.org/QuickTime/Track1/1.0/'
+  xmlns:Track2='http://ns.exiftool.org/QuickTime/Track2/1.0/'
+  xmlns:Track3='http://ns.exiftool.org/QuickTime/Track3/1.0/'
+  xmlns:Track4='http://ns.exiftool.org/QuickTime/Track4/1.0/'
+  xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
+ <ExifTool:ExifToolVersion>12.36</ExifTool:ExifToolVersion>
+ <System:FileName>GX010051.MP4</System:FileName>
+ <System:Directory>.</System:Directory>
+ <System:FileSize>71 MiB</System:FileSize>
+ <System:FileModifyDate>2022:06:08 16:44:54+01:00</System:FileModifyDate>
+ <System:FileAccessDate>2022:01:12 20:37:58+00:00</System:FileAccessDate>
+ <System:FileInodeChangeDate>2022:01:12 19:40:19+00:00</System:FileInodeChangeDate>
+ <System:FilePermissions>-rwxrwxrwx</System:FilePermissions>
+ <File:FileType>MP4</File:FileType>
+ <File:FileTypeExtension>mp4</File:FileTypeExtension>
+ <File:MIMEType>video/mp4</File:MIMEType>
+ <QuickTime:MajorBrand>MP4 v1 [ISO 14496-1:ch13]</QuickTime:MajorBrand>
+ <QuickTime:MinorVersion>2013.10.18</QuickTime:MinorVersion>
+ <QuickTime:CompatibleBrands>
+  <rdf:Bag>
+   <rdf:li>mp41</rdf:li>
+  </rdf:Bag>
+ </QuickTime:CompatibleBrands>
+ <QuickTime:MediaDataSize>74868249</QuickTime:MediaDataSize>
+ <QuickTime:MediaDataOffset>36</QuickTime:MediaDataOffset>
+ <QuickTime:MovieHeaderVersion>0</QuickTime:MovieHeaderVersion>
+ <QuickTime:CreateDate>2022:06:08 15:44:40</QuickTime:CreateDate>
+ <QuickTime:ModifyDate>2022:06:08 15:44:40</QuickTime:ModifyDate>
+ <QuickTime:TimeScale>60000</QuickTime:TimeScale>
+ <QuickTime:Duration>13.31 s</QuickTime:Duration>
+ <QuickTime:PreferredRate>1</QuickTime:PreferredRate>
+ <QuickTime:PreferredVolume>100.00%</QuickTime:PreferredVolume>
+ <QuickTime:MatrixStructure>1 0 0 0 1 0 0 0 1</QuickTime:MatrixStructure>
+ <QuickTime:PreviewTime>0 s</QuickTime:PreviewTime>
+ <QuickTime:PreviewDuration>0 s</QuickTime:PreviewDuration>
+ <QuickTime:PosterTime>0 s</QuickTime:PosterTime>
+ <QuickTime:SelectionTime>0 s</QuickTime:SelectionTime>
+ <QuickTime:SelectionDuration>0 s</QuickTime:SelectionDuration>
+ <QuickTime:CurrentTime>0 s</QuickTime:CurrentTime>
+ <QuickTime:NextTrackID>5</QuickTime:NextTrackID>
+ <UserData:GPSCoordinates>53 deg 22&#39; 30.72&quot; N, 1 deg 34&#39; 56.64&quot; W</UserData:GPSCoordinates>
+ <UserData:FirmwareVersion>H21.01.01.10.00</UserData:FirmwareVersion>
+ <UserData:LensSerialNumber rdf:datatype='http://www.w3.org/2001/XMLSchema#base64Binary'>
+TEtPMTA5MTkwNDQwMjg4OAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAA
+</UserData:LensSerialNumber>
+ <UserData:SerialNumberHash>2e42b0cdffea08c4fccfb6454401d21f</UserData:SerialNumberHash>
+ <GoPro:DeviceName>Global Settings</GoPro:DeviceName>
+ <GoPro:MetadataVersion>8.1.4</GoPro:MetadataVersion>
+ <GoPro:FirmwareVersion>H21.01.01.10.00</GoPro:FirmwareVersion>
+ <GoPro:CameraSerialNumber>C3461325454327</GoPro:CameraSerialNumber>
+ <GoPro:Model>HERO10 Black</GoPro:Model>
+ <GoPro:MediaUniqueID>cdb0422ec408eaff45b6cffc1fd2014400000000000000000000000000000000</GoPro:MediaUniqueID>
+ <GoPro:AutoRotation>Up</GoPro:AutoRotation>
+ <GoPro:DigitalZoom>No</GoPro:DigitalZoom>
+ <GoPro:ProTune>On</GoPro:ProTune>
+ <GoPro:WhiteBalance>AUTO</GoPro:WhiteBalance>
+ <GoPro:Sharpness>MED</GoPro:Sharpness>
+ <GoPro:ColorMode>NATURAL</GoPro:ColorMode>
+ <GoPro:MaximumShutterAngle>AUTO</GoPro:MaximumShutterAngle>
+ <GoPro:AutoISOMax>1600</GoPro:AutoISOMax>
+ <GoPro:AutoISOMin>100</GoPro:AutoISOMin>
+ <GoPro:ExposureCompensation>0.0</GoPro:ExposureCompensation>
+ <GoPro:Rate></GoPro:Rate>
+ <GoPro:FieldOfView>Super View</GoPro:FieldOfView>
+ <GoPro:SensorReadoutTime>11.2070007324219</GoPro:SensorReadoutTime>
+ <GoPro:ElectronicImageStabilization>HS EIS</GoPro:ElectronicImageStabilization>
+ <GoPro:AudioSetting>AUTO</GoPro:AudioSetting>
+ <GoPro:DeviceName>Highlights</GoPro:DeviceName>
+ <Track1:TrackHeaderVersion>0</Track1:TrackHeaderVersion>
+ <Track1:TrackCreateDate>2022:06:08 15:44:40</Track1:TrackCreateDate>
+ <Track1:TrackModifyDate>2022:06:08 15:44:40</Track1:TrackModifyDate>
+ <Track1:TrackID>1</Track1:TrackID>
+ <Track1:TrackDuration>13.31 s</Track1:TrackDuration>
+ <Track1:TrackLayer>0</Track1:TrackLayer>
+ <Track1:TrackVolume>0.00%</Track1:TrackVolume>
+ <Track1:MatrixStructure>1 0 0 0 1 0 0 0 1</Track1:MatrixStructure>
+ <Track1:ImageWidth>2704</Track1:ImageWidth>
+ <Track1:ImageHeight>1520</Track1:ImageHeight>
+ <Track1:TimeCode>3</Track1:TimeCode>
+ <Track1:MediaHeaderVersion>0</Track1:MediaHeaderVersion>
+ <Track1:MediaCreateDate>2022:06:08 15:44:40</Track1:MediaCreateDate>
+ <Track1:MediaModifyDate>2022:06:08 15:44:40</Track1:MediaModifyDate>
+ <Track1:MediaTimeScale>60000</Track1:MediaTimeScale>
+ <Track1:MediaDuration>13.31 s</Track1:MediaDuration>
+ <Track1:HandlerClass>Media Handler</Track1:HandlerClass>
+ <Track1:HandlerType>Video Track</Track1:HandlerType>
+ <Track1:HandlerDescription>GoPro H.265</Track1:HandlerDescription>
+ <Track1:GraphicsMode>srcCopy</Track1:GraphicsMode>
+ <Track1:OpColor>0 0 0</Track1:OpColor>
+ <Track1:CompressorID>hvc1</Track1:CompressorID>
+ <Track1:SourceImageWidth>2704</Track1:SourceImageWidth>
+ <Track1:SourceImageHeight>1520</Track1:SourceImageHeight>
+ <Track1:XResolution>72</Track1:XResolution>
+ <Track1:YResolution>72</Track1:YResolution>
+ <Track1:CompressorName>GoPro H.265 encoder</Track1:CompressorName>
+ <Track1:BitDepth>24</Track1:BitDepth>
+ <Track1:VideoFrameRate>59.94</Track1:VideoFrameRate>
+ <Track2:TrackHeaderVersion>0</Track2:TrackHeaderVersion>
+ <Track2:TrackCreateDate>2022:06:08 15:44:40</Track2:TrackCreateDate>
+ <Track2:TrackModifyDate>2022:06:08 15:44:40</Track2:TrackModifyDate>
+ <Track2:TrackID>2</Track2:TrackID>
+ <Track2:TrackDuration>13.31 s</Track2:TrackDuration>
+ <Track2:TrackLayer>0</Track2:TrackLayer>
+ <Track2:TrackVolume>39.06%</Track2:TrackVolume>
+ <Track2:MatrixStructure>1 0 0 0 1 0 0 0 1</Track2:MatrixStructure>
+ <Track2:TimeCode>3</Track2:TimeCode>
+ <Track2:MediaHeaderVersion>0</Track2:MediaHeaderVersion>
+ <Track2:MediaCreateDate>2022:06:08 15:44:40</Track2:MediaCreateDate>
+ <Track2:MediaModifyDate>2022:06:08 15:44:40</Track2:MediaModifyDate>
+ <Track2:MediaTimeScale>48000</Track2:MediaTimeScale>
+ <Track2:MediaDuration>13.31 s</Track2:MediaDuration>
+ <Track2:HandlerClass>Media Handler</Track2:HandlerClass>
+ <Track2:HandlerType>Audio Track</Track2:HandlerType>
+ <Track2:HandlerDescription>GoPro AAC  </Track2:HandlerDescription>
+ <Track2:Balance>0</Track2:Balance>
+ <Track2:AudioFormat>mp4a</Track2:AudioFormat>
+ <Track2:AudioChannels>2</Track2:AudioChannels>
+ <Track2:AudioBitsPerSample>24</Track2:AudioBitsPerSample>
+ <Track2:AudioSampleRate>48000</Track2:AudioSampleRate>
+ <Track3:TrackHeaderVersion>0</Track3:TrackHeaderVersion>
+ <Track3:TrackCreateDate>2022:06:08 15:44:40</Track3:TrackCreateDate>
+ <Track3:TrackModifyDate>2022:06:08 15:44:40</Track3:TrackModifyDate>
+ <Track3:TrackID>3</Track3:TrackID>
+ <Track3:TrackDuration>13.31 s</Track3:TrackDuration>
+ <Track3:TrackLayer>0</Track3:TrackLayer>
+ <Track3:TrackVolume>0.00%</Track3:TrackVolume>
+ <Track3:MatrixStructure>1 0 0 0 1 0 0 0 1</Track3:MatrixStructure>
+ <Track3:MediaHeaderVersion>0</Track3:MediaHeaderVersion>
+ <Track3:MediaCreateDate>2022:06:08 15:44:40</Track3:MediaCreateDate>
+ <Track3:MediaModifyDate>2022:06:08 15:44:40</Track3:MediaModifyDate>
+ <Track3:MediaTimeScale>60000</Track3:MediaTimeScale>
+ <Track3:MediaDuration>13.31 s</Track3:MediaDuration>
+ <Track3:HandlerClass>Media Handler</Track3:HandlerClass>
+ <Track3:HandlerType>Time Code</Track3:HandlerType>
+ <Track3:HandlerDescription>GoPro TCD  </Track3:HandlerDescription>
+ <Track3:GenMediaVersion>0</Track3:GenMediaVersion>
+ <Track3:GenFlags>0 0 0</Track3:GenFlags>
+ <Track3:GenGraphicsMode>ditherCopy</Track3:GenGraphicsMode>
+ <Track3:GenOpColor>32768 32768 32768</Track3:GenOpColor>
+ <Track3:GenBalance>0</Track3:GenBalance>
+ <Track3:TextFont>Unknown (21)</Track3:TextFont>
+ <Track3:TextFace>Plain</Track3:TextFace>
+ <Track3:TextSize>10</Track3:TextSize>
+ <Track3:TextColor>0 0 0</Track3:TextColor>
+ <Track3:BackgroundColor>65535 65535 65535</Track3:BackgroundColor>
+ <Track3:FontName>Helvetica</Track3:FontName>
+ <Track3:OtherFormat>tmcd</Track3:OtherFormat>
+ <Track4:TrackHeaderVersion>0</Track4:TrackHeaderVersion>
+ <Track4:TrackCreateDate>2022:06:08 15:44:40</Track4:TrackCreateDate>
+ <Track4:TrackModifyDate>2022:06:08 15:44:40</Track4:TrackModifyDate>
+ <Track4:TrackID>4</Track4:TrackID>
+ <Track4:TrackDuration>13.31 s</Track4:TrackDuration>
+ <Track4:TrackLayer>0</Track4:TrackLayer>
+ <Track4:TrackVolume>0.00%</Track4:TrackVolume>
+ <Track4:MatrixStructure>1 0 0 0 1 0 0 0 1</Track4:MatrixStructure>
+ <Track4:MediaHeaderVersion>0</Track4:MediaHeaderVersion>
+ <Track4:MediaCreateDate>2022:06:08 15:44:40</Track4:MediaCreateDate>
+ <Track4:MediaModifyDate>2022:06:08 15:44:40</Track4:MediaModifyDate>
+ <Track4:MediaTimeScale>1000</Track4:MediaTimeScale>
+ <Track4:MediaDuration>13.31 s</Track4:MediaDuration>
+ <Track4:HandlerClass>Media Handler</Track4:HandlerClass>
+ <Track4:HandlerType>NRT Metadata</Track4:HandlerType>
+ <Track4:HandlerDescription>GoPro MET  </Track4:HandlerDescription>
+ <Track4:GenMediaVersion>0</Track4:GenMediaVersion>
+ <Track4:GenFlags>0 0 0</Track4:GenFlags>
+ <Track4:GenGraphicsMode>srcCopy</Track4:GenGraphicsMode>
+ <Track4:GenOpColor>0 0 0</Track4:GenOpColor>
+ <Track4:GenBalance>0</Track4:GenBalance>
+ <Track4:MetaFormat>gpmd</Track4:MetaFormat>
+ <Track4:SampleTime>0 s</Track4:SampleTime>
+ <Track4:SampleDuration>1.00 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>0.020682</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>30.03125 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 10410 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>0.020682</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>30.03125 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 11346 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>0.020193</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/241 1/241 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240</Track4:ExposureTimes>
+ <Track4:TimeStamp>0.020193</Track4:TimeStamp>
+ <Track4:ColorTemperatures>6010 6010 6010 6050 6050 6050 6050 6050 6050 6050</Track4:ColorTemperatures>
+ <Track4:TimeStamp>0.020193</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 224 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>0.020193</Track4:TimeStamp>
+ <Track4:ISOSpeeds>994 994 994 984 984 984 975 975 975 966 966 966 957 957 957 948 948 939 939 930 930 930 922 922 922 922 914 914 914 906</Track4:ISOSpeeds>
+ <Track4:TimeStamp>0.05356</Track4:TimeStamp>
+ <Track4:TimeStamp>0.020193</Track4:TimeStamp>
+ <Track4:InputUniformity>0 0 0 0 0 0 0 0 0 0</Track4:InputUniformity>
+ <Track4:TimeStamp>0.05356</Track4:TimeStamp>
+ <Track4:TimeStamp>0.05356</Track4:TimeStamp>
+ <Track4:TimeStamp>0.020193</Track4:TimeStamp>
+ <Track4:FaceDetected>4 4 0 16795 11511 4362 8967 54 66</Track4:FaceDetected>
+ <Track4:TimeStamp>0.022858</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 15:43:53.470</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.86</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.72&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.79&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>204.384 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.825</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.75</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.72&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.78&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>204.372 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.027</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.87</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.72&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.78&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>204.326 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.029</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.06</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.72&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.77&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>204.327 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.073</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.07</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.72&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.77&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>204.337 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.046</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.11</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.72&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.77&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>204.326 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.079</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.08</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.72&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.76&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>204.323 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.126</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.11</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.72&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.76&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>204.319 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.053</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.16</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.72&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.76&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>204.306 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.981</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.09</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.72&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.76&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>204.282 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.902</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.02</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.72&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.76&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>204.25 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.898</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.94</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.72&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.75&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>204.233 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.897</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.94</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.72&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.75&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>204.218 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.885</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.94</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.71&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.75&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>204.195 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.835</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.93</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.71&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.75&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>204.175 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.852</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.88</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.71&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.75&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>204.151 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.791</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.9</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.71&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.74&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>204.129 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.743</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.84</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.72&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.74&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>204.121 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.66</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.8</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>0.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>0.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>0.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>0.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>0.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>0.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>0.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>0.020193</Track4:TimeStamp>
+ <Track4:SampleTime>1.00 s</Track4:SampleTime>
+ <Track4:SampleDuration>1.00 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>1.022999</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>30.439453125 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 10254 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>1.022999</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>30.439453125 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 11176 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>1.021193</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/248 1/273 1/267 1/254 1/241 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/258</Track4:ExposureTimes>
+ <Track4:TimeStamp>1.021193</Track4:TimeStamp>
+ <Track4:ColorTemperatures>6050 6089 6089 6089 6089 6089 6089 6050 6050 6050</Track4:ColorTemperatures>
+ <Track4:TimeStamp>1.021193</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 219 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>1.021193</Track4:TimeStamp>
+ <Track4:ISOSpeeds>906 906 906 906 898 898 890 890 882 882 875 875 898 994 975 922 882 882 882 882 882 882 882 890 890 890 890 898 898 975</Track4:ISOSpeeds>
+ <Track4:TimeStamp>1.05456</Track4:TimeStamp>
+ <Track4:TimeStamp>1.021193</Track4:TimeStamp>
+ <Track4:InputUniformity>0 0 0 0 0 0 0 0 0 0</Track4:InputUniformity>
+ <Track4:TimeStamp>0.95446</Track4:TimeStamp>
+ <Track4:TimeStamp>0.95446</Track4:TimeStamp>
+ <Track4:TimeStamp>1.021193</Track4:TimeStamp>
+ <Track4:TimeStamp>1.013321</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 15:43:55.725</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.86</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.72&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.74&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>204.112 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.645</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.72</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.72&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.74&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>204.099 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.665</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.7</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.72&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.74&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>204.08 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.675</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.72</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.72&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.73&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>204.059 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.698</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.73</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.72&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.73&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>204.034 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.707</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.75</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.72&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.73&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>204.011 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.682</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.76</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.72&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.73&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.996 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.696</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.74</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.72&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.73&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.993 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.735</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.75</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.72&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.72&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.988 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.754</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.79</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.72&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.72&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.988 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.769</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.81</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.72&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.72&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.98 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.795</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.82</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.72&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.71&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.966 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.877</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.84</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.72&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.71&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.937 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.886</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.92</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.72&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.71&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.93 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.881</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.93</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.72&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.70&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.938 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.895</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.93</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.71&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.70&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.925 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.919</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.94</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.71&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.70&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.926 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.897</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.96</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.71&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.70&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.927 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.819</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.94</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>1.021193</Track4:TimeStamp>
+ <Track4:TimeStamp>1.021193</Track4:TimeStamp>
+ <Track4:TimeStamp>1.021193</Track4:TimeStamp>
+ <Track4:TimeStamp>1.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>1.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>1.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>1.021193</Track4:TimeStamp>
+ <Track4:TimeStamp>1.021193</Track4:TimeStamp>
+ <Track4:SampleTime>2.00 s</Track4:SampleTime>
+ <Track4:SampleDuration>1.00 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>2.020312</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>30.73828125 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 10353 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>2.020312</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>30.73828125 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 11332 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>2.022193</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/247 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/273 1/331 1/325 1/321</Track4:ExposureTimes>
+ <Track4:TimeStamp>2.022193</Track4:TimeStamp>
+ <Track4:ColorTemperatures>6010 6010 6010 6010 6010 6010 6050 6050 6050 6050</Track4:ColorTemperatures>
+ <Track4:TimeStamp>2.022193</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 233 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>2.022193</Track4:TimeStamp>
+ <Track4:ISOSpeeds>930 906 914 914 914 914 922 922 922 922 930 930 930 930 930 930 930 930 930 930 930 930 930 930 930 930 1055 1280 1248 1233</Track4:ISOSpeeds>
+ <Track4:TimeStamp>2.05556</Track4:TimeStamp>
+ <Track4:TimeStamp>2.022193</Track4:TimeStamp>
+ <Track4:InputUniformity>0 0 0 0 0 0 0 0 0 0</Track4:InputUniformity>
+ <Track4:TimeStamp>1.95546</Track4:TimeStamp>
+ <Track4:TimeStamp>1.95546</Track4:TimeStamp>
+ <Track4:TimeStamp>2.022193</Track4:TimeStamp>
+ <Track4:TimeStamp>2.001784</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 15:43:56.715</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.86</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.71&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.70&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.943 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.737</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.86</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.71&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.70&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.967 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.69</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.78</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.70&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.70&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.96 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.73</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.73</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.70&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.69&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.956 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.811</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.77</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.70&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.69&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.949 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.856</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.85</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.70&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.69&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.947 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.891</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.89</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.70&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.68&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.937 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.881</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.92</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.70&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.68&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.923 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.92</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.91</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.70&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.68&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.924 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.875</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.95</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.70&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.68&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.961 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.84</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.91</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.70&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.68&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.964 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.811</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.87</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.70&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.67&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.966 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.784</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.84</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.70&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.67&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.961 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.789</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.81</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.70&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.67&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.95 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.776</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.82</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.70&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.67&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.925 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.798</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.81</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.70&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.66&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.899 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.838</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.83</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.69&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.66&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.86 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.901</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.87</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.69&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.66&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.823 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.955</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.93</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.69&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.65&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.779 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.961</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.99</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>2.022193</Track4:TimeStamp>
+ <Track4:TimeStamp>2.022193</Track4:TimeStamp>
+ <Track4:TimeStamp>2.022193</Track4:TimeStamp>
+ <Track4:TimeStamp>2.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>2.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>2.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>2.022193</Track4:TimeStamp>
+ <Track4:TimeStamp>2.022193</Track4:TimeStamp>
+ <Track4:SampleTime>3.00 s</Track4:SampleTime>
+ <Track4:SampleDuration>1.00 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>3.022669</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.033203125 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 10288 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>3.022669</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.033203125 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 11182 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>3.023193</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/315 1/307 1/319 1/314 1/307 1/316 1/308 1/300 1/294 1/283 1/270 1/260 1/249 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240</Track4:ExposureTimes>
+ <Track4:TimeStamp>3.023193</Track4:TimeStamp>
+ <Track4:ColorTemperatures>6050 6050 6050 6089 6089 6089 6089 6089 6089 6089</Track4:ColorTemperatures>
+ <Track4:TimeStamp>3.023193</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 219 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>3.023193</Track4:TimeStamp>
+ <Track4:ISOSpeeds>1204 1177 1219 1190 1163 1204 1163 1137 1101 1055 1003 966 914 875 875 867 867 867 867 867 867 867 867 867 860 860 860 867 867 867</Track4:ISOSpeeds>
+ <Track4:TimeStamp>3.05656</Track4:TimeStamp>
+ <Track4:TimeStamp>3.023193</Track4:TimeStamp>
+ <Track4:InputUniformity>0 0 0 0 0 0 0 0 0 0</Track4:InputUniformity>
+ <Track4:TimeStamp>2.95646</Track4:TimeStamp>
+ <Track4:TimeStamp>2.95646</Track4:TimeStamp>
+ <Track4:TimeStamp>3.023193</Track4:TimeStamp>
+ <Track4:TimeStamp>3.046675</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 15:43:57.705</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.86</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.69&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.65&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.784 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.021</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.70&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.64&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.783 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.063</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.05</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.70&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.64&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.81 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.199</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.09</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.70&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.63&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.814 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.255</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.22</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.70&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.63&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.816 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.153</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.28</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.70&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.63&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.811 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.115</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.18</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.70&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.62&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.73 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.191</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.14</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.70&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.62&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.703 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.039</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.22</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.70&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.62&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.674 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.129</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.07</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.70&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.62&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.628 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.178</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.16</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.70&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.61&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.642 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.139</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.21</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.70&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.61&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.635 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.203</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.17</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.70&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.60&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.628 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.288</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.24</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.71&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.60&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.577 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.227</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.32</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.71&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.60&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.604 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.144</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.26</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.71&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.60&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.631 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.01</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.18</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.70&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.59&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.568 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.989</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.04</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.70&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.59&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.52 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.017</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.03</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>3.023193</Track4:TimeStamp>
+ <Track4:TimeStamp>3.023193</Track4:TimeStamp>
+ <Track4:TimeStamp>3.023193</Track4:TimeStamp>
+ <Track4:TimeStamp>3.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>3.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>3.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>3.023193</Track4:TimeStamp>
+ <Track4:TimeStamp>3.023193</Track4:TimeStamp>
+ <Track4:SampleTime>4.00 s</Track4:SampleTime>
+ <Track4:SampleDuration>1.00 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>4.024952</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.298828125 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 10380 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>4.024952</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.298828125 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 11236 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>4.024193</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/240 1/240 1/240 1/240 1/258 1/275 1/299 1/314 1/309 1/297 1/283 1/277 1/265 1/253 1/242 1/240 1/240 1/240 1/240 1/264 1/276 1/268 1/260 1/256 1/246 1/240 1/261 1/251 1/241 1/240</Track4:ExposureTimes>
+ <Track4:TimeStamp>4.024193</Track4:TimeStamp>
+ <Track4:ColorTemperatures>6050 6050 6050 6089 6089 6089 6089 6089 6050 6050</Track4:ColorTemperatures>
+ <Track4:TimeStamp>4.024193</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 227 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>4.024193</Track4:TimeStamp>
+ <Track4:ISOSpeeds>867 867 867 867 939 1003 1089 1137 1125 1077 1034 1003 957 914 875 860 860 860 853 939 984 948 922 906 867 846 922 882 853 846</Track4:ISOSpeeds>
+ <Track4:TimeStamp>4.05756</Track4:TimeStamp>
+ <Track4:TimeStamp>4.024193</Track4:TimeStamp>
+ <Track4:InputUniformity>0 0 0 0 0 0 0 0 0 0</Track4:InputUniformity>
+ <Track4:TimeStamp>3.95746</Track4:TimeStamp>
+ <Track4:TimeStamp>3.95746</Track4:TimeStamp>
+ <Track4:TimeStamp>4.024193</Track4:TimeStamp>
+ <Track4:TimeStamp>4.037143</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 15:43:58.695</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.86</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.70&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.59&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.445 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.091</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.06</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.70&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.58&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.446 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.094</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.14</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.70&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.58&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.458 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.951</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.14</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.69&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.58&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.487 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.889</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.69&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.57&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.524 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.928</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.94</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.69&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.57&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.549 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.001</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.97</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.69&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.57&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.629 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.974</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.04</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.69&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.57&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.677 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.959</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.68&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.56&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.676 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.987</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.99</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.68&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.56&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.644 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.043</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.01</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.68&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.55&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.611 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.146</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.07</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.68&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.55&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.573 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.269</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.17</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.67&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.54&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.544 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.452</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.29</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.67&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.54&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.573 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.489</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.47</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.67&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.53&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.609 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.47</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.51</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.66&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.53&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.628 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.465</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.49</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.67&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.53&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.608 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.41</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.48</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.67&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.52&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.604 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.357</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.43</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>4.024193</Track4:TimeStamp>
+ <Track4:TimeStamp>4.024193</Track4:TimeStamp>
+ <Track4:TimeStamp>4.024193</Track4:TimeStamp>
+ <Track4:TimeStamp>4.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>4.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>4.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>4.024193</Track4:TimeStamp>
+ <Track4:TimeStamp>4.024193</Track4:TimeStamp>
+ <Track4:SampleTime>5.00 s</Track4:SampleTime>
+ <Track4:SampleDuration>1.00 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>5.027348</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.541015625 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 10199 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>5.027348</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.541015625 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 11201 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>5.025193</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/288 1/316 1/390 1/424 1/413 1/404 1/395 1/384 1/372 1/361 1/349 1/338 1/327 1/311 1/300 1/308 1/297 1/288 1/431 1/466 1/455 1/449</Track4:ExposureTimes>
+ <Track4:TimeStamp>5.025193</Track4:TimeStamp>
+ <Track4:ColorTemperatures>6050 6050 6050 6010 6010 6010 6010 6010 6010 5971</Track4:ColorTemperatures>
+ <Track4:TimeStamp>5.025193</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 215 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>5.025193</Track4:TimeStamp>
+ <Track4:ISOSpeeds>846 846 846 846 846 839 839 839 1003 1101 1347 1462 1422 1383 1347 1312 1264 1219 1177 1137 1101 1044 1003 1024 984 957 1422 1528 1505 1484</Track4:ISOSpeeds>
+ <Track4:TimeStamp>5.05856</Track4:TimeStamp>
+ <Track4:TimeStamp>5.025193</Track4:TimeStamp>
+ <Track4:InputUniformity>0 0 0 0 0 0 0 0 0 0</Track4:InputUniformity>
+ <Track4:TimeStamp>4.95846</Track4:TimeStamp>
+ <Track4:TimeStamp>4.95846</Track4:TimeStamp>
+ <Track4:TimeStamp>5.025193</Track4:TimeStamp>
+ <Track4:TimeStamp>5.026945</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 15:43:59.685</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.86</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.66&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.52&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.605 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.334</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.38</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.66&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.52&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.595 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.325</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.35</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.66&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.51&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.479 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.435</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.34</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.67&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.50&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.409 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.5</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.46</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.67&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.50&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.356 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.459</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.52</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.67&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.50&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.346 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.494</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.49</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.67&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.49&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.404 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.473</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.52</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.67&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.49&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.421 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.458</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.5</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.67&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.48&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.435 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.431</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.48</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.67&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.48&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.433 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.408</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.45</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.66&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.48&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.431 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.354</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.43</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.66&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.47&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.419 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.355</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.38</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.66&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.47&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.384 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.39</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.38</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.66&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.46&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.303 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.496</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.41</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.66&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.46&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.248 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.52</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.52</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.66&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.46&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.217 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.44</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.55</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.66&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.45&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.195 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.395</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.47</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.66&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.45&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.207 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.32</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.43</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>5.025193</Track4:TimeStamp>
+ <Track4:TimeStamp>5.025193</Track4:TimeStamp>
+ <Track4:TimeStamp>5.025193</Track4:TimeStamp>
+ <Track4:TimeStamp>5.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>5.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>5.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>5.025193</Track4:TimeStamp>
+ <Track4:TimeStamp>5.025193</Track4:TimeStamp>
+ <Track4:SampleTime>6.01 s</Track4:SampleTime>
+ <Track4:SampleDuration>1.00 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>6.024698</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.759765625 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 10380 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>6.024698</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.759765625 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 11256 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>6.026193</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/436 1/423 1/413 1/402 1/389 1/381 1/371 1/361 1/353 1/339 1/324 1/310 1/297 1/285 1/280 1/272 1/263 1/254 1/244 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240</Track4:ExposureTimes>
+ <Track4:TimeStamp>6.026193</Track4:TimeStamp>
+ <Track4:ColorTemperatures>5971 5931 5931 5931 5931 5971 5971 5971 5971 5971</Track4:ColorTemperatures>
+ <Track4:TimeStamp>6.026193</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 215 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>6.026193</Track4:TimeStamp>
+ <Track4:ISOSpeeds>1422 1383 1329 1296 1248 1219 1177 1137 1113 1066 1013 966 930 890 867 846 812 781 747 736 731 726 726 721 721 721 716 716 716 711</Track4:ISOSpeeds>
+ <Track4:TimeStamp>6.05956</Track4:TimeStamp>
+ <Track4:TimeStamp>6.026193</Track4:TimeStamp>
+ <Track4:InputUniformity>0 0 0 0 0 0 0 0 0 0</Track4:InputUniformity>
+ <Track4:TimeStamp>5.95946</Track4:TimeStamp>
+ <Track4:TimeStamp>5.95946</Track4:TimeStamp>
+ <Track4:TimeStamp>6.026193</Track4:TimeStamp>
+ <Track4:TimeStamp>6.018716</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 15:44:00.730</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.86</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.67&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.45&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.284 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.168</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.35</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.67&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.45&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.26 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.111</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.2</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.67&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.44&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.197 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.035</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.14</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.67&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.44&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.132 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.981</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.07</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.66&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.44&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.076 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.012</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.02</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.66&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.44&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.004 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.056</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.06</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.66&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.43&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.953 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.031</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.1</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.66&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.43&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.875 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.979</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.08</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.66&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.43&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.846 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.021</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.04</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.66&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.43&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.795 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.071</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.08</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.66&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.42&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.777 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.987</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.13</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.65&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.42&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.788 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.9</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.05</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.65&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.42&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.853 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.016</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.97</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.65&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.41&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.805 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.054</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.07</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.65&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.41&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.841 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.013</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.11</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.65&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.41&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.878 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.094</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.07</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.65&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.40&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.924 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.172</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.14</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.64&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.40&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.983 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.277</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.21</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>6.026193</Track4:TimeStamp>
+ <Track4:TimeStamp>6.026193</Track4:TimeStamp>
+ <Track4:TimeStamp>6.026193</Track4:TimeStamp>
+ <Track4:TimeStamp>6.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>6.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>6.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>6.026193</Track4:TimeStamp>
+ <Track4:TimeStamp>6.026193</Track4:TimeStamp>
+ <Track4:SampleTime>7.01 s</Track4:SampleTime>
+ <Track4:SampleDuration>1.00 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>7.027098</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.916015625 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 10535 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>7.027098</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>31.916015625 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 11384 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>7.027193</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/357 1/341 1/330 1/325 1/314 1/301 1/294 1/284 1/272 1/262 1/250 1/240 1/240</Track4:ExposureTimes>
+ <Track4:TimeStamp>7.027193</Track4:TimeStamp>
+ <Track4:ColorTemperatures>6010 6010 6010 6010 6050 6050 6050 6050 6050 6089</Track4:ColorTemperatures>
+ <Track4:TimeStamp>7.027193</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 233 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>7.027193</Track4:TimeStamp>
+ <Track4:ISOSpeeds>711 706 706 706 701 701 701 696 696 696 696 696 696 696 696 696 691 1024 984 948 930 890 853 832 806 769 742 706 678 673</Track4:ISOSpeeds>
+ <Track4:TimeStamp>7.06056</Track4:TimeStamp>
+ <Track4:TimeStamp>7.027193</Track4:TimeStamp>
+ <Track4:InputUniformity>0 0 0 0 0 0 0 0 0 0</Track4:InputUniformity>
+ <Track4:TimeStamp>6.96046</Track4:TimeStamp>
+ <Track4:TimeStamp>6.96046</Track4:TimeStamp>
+ <Track4:TimeStamp>7.027193</Track4:TimeStamp>
+ <Track4:TimeStamp>7.009033</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 15:44:01.720</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.86</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.64&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.39&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.954 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.277</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.31</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.64&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.39&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.929 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.246</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.31</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.64&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.39&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.846 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.164</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.28</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.64&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.39&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.825 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.105</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.21</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.64&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.38&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.712 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.048</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.15</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.65&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.38&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.636 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.046</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.1</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.65&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.38&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.586 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.006</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.11</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.64&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.37&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.623 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.21</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.07</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.64&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.37&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.59 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.296</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.26</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.64&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.36&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.618 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.318</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.35</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.64&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.36&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.602 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.321</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.37</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.64&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.35&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.604 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.348</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.37</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.64&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.35&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.63 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.391</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.39</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.63&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.34&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.659 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.395</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.43</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.63&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.34&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.69 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.368</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.44</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.63&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.34&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.717 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.219</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.41</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.63&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.34&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.733 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.205</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.26</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.63&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.33&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.722 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.2</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.24</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.63&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.33&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.702 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.349</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.24</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>7.027193</Track4:TimeStamp>
+ <Track4:TimeStamp>7.027193</Track4:TimeStamp>
+ <Track4:TimeStamp>7.027193</Track4:TimeStamp>
+ <Track4:TimeStamp>7.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>7.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>7.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>7.027193</Track4:TimeStamp>
+ <Track4:TimeStamp>7.027193</Track4:TimeStamp>
+ <Track4:SampleTime>8.01 s</Track4:SampleTime>
+ <Track4:SampleDuration>1.00 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>8.029473</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.072265625 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 10435 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>8.029473</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.072265625 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 11168 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>8.028193</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/279 1/332 1/417 1/443 1/433 1/418 1/405 1/387 1/369 1/353</Track4:ExposureTimes>
+ <Track4:TimeStamp>8.028193</Track4:TimeStamp>
+ <Track4:ColorTemperatures>6089 6129 6129 6129 6169 6169 6208 6208 6208 6208</Track4:ColorTemperatures>
+ <Track4:TimeStamp>8.028193</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 227 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>8.028193</Track4:TimeStamp>
+ <Track4:ISOSpeeds>673 669 669 669 664 664 664 660 660 660 656 656 652 652 648 644 644 639 639 636 736 875 1101 1163 1125 1089 1055 1003 957 922</Track4:ISOSpeeds>
+ <Track4:TimeStamp>8.06156</Track4:TimeStamp>
+ <Track4:TimeStamp>8.028193</Track4:TimeStamp>
+ <Track4:InputUniformity>0 0 0 0 0 0 0 0 0 0</Track4:InputUniformity>
+ <Track4:TimeStamp>7.96146</Track4:TimeStamp>
+ <Track4:TimeStamp>7.96146</Track4:TimeStamp>
+ <Track4:TimeStamp>8.028193</Track4:TimeStamp>
+ <Track4:TimeStamp>8.053064</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 15:44:02.710</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.86</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.63&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.32&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.705 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.388</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.39</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.63&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.32&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.742 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.38</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.42</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.63&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.31&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.684 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.382</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.41</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.63&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.31&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.729 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.43</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.42</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.63&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.31&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.724 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.347</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.46</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.63&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.30&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.684 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.29</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.38</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.63&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.30&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.743 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.331</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.33</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.63&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.29&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.835 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.279</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.36</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.63&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.29&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.835 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.35</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.31</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.63&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.28&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.751 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.418</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.38</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.63&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.28&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.7 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.512</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.45</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.63&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.27&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.653 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.459</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.54</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.63&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.27&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.674 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.368</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.49</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.63&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.27&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.712 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.315</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.4</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.63&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.27&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.741 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.14</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.35</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.63&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.26&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.763 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.161</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.17</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.63&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.26&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.797 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.234</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.19</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.63&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.26&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.828 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.128</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.26</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>8.028193</Track4:TimeStamp>
+ <Track4:TimeStamp>8.028193</Track4:TimeStamp>
+ <Track4:TimeStamp>8.028193</Track4:TimeStamp>
+ <Track4:TimeStamp>8.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>8.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>8.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>8.028193</Track4:TimeStamp>
+ <Track4:TimeStamp>8.028193</Track4:TimeStamp>
+ <Track4:SampleTime>9.01 s</Track4:SampleTime>
+ <Track4:SampleDuration>1.00 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>9.026849</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.267578125 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 10547 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>9.026849</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.267578125 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 11340 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>9.029193</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/336 1/319 1/312 1/298 1/289 1/280 1/271 1/267 1/331 1/339 1/330 1/317 1/304 1/294 1/279 1/266 1/257 1/245 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/247 1/283 1/277 1/273 1/264</Track4:ExposureTimes>
+ <Track4:TimeStamp>9.029193</Track4:TimeStamp>
+ <Track4:ColorTemperatures>6208 6248 6248 6287 6287 6287 6327 6367 6367 6367</Track4:ColorTemperatures>
+ <Track4:TimeStamp>9.029193</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 225 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>9.029193</Track4:TimeStamp>
+ <Track4:ISOSpeeds>875 832 806 769 747 721 701 687 853 867 846 812 775 752 711 678 652 620 605 605 602 602 598 598 598 613 701 687 678 656</Track4:ISOSpeeds>
+ <Track4:TimeStamp>9.06256</Track4:TimeStamp>
+ <Track4:TimeStamp>9.029193</Track4:TimeStamp>
+ <Track4:InputUniformity>0 0 0 0 0 0 0 0 0 0</Track4:InputUniformity>
+ <Track4:TimeStamp>8.96246</Track4:TimeStamp>
+ <Track4:TimeStamp>8.96246</Track4:TimeStamp>
+ <Track4:TimeStamp>9.029193</Track4:TimeStamp>
+ <Track4:TimeStamp>9.040625</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 15:44:03.700</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.86</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.63&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.25&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.844 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.133</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.16</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.62&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.25&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.867 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.166</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.16</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.62&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.25&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.87 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.152</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.19</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.62&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.24&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.862 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.225</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.18</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.62&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.24&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.927 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.105</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.25</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.62&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.23&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.985 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.144</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.13</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.62&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.23&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.061 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.121</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.16</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.62&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.23&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.115 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.081</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.14</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.62&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.23&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.174 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.047</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.1</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.62&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.22&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.257 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.078</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.06</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.62&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.22&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.21 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.104</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.09</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.62&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.21&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.2 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.14</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.12</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.62&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.21&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.139 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.359</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.15</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.62&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.20&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.094 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.2</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.37</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.62&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.20&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.03 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.111</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.22</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.62&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.20&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.997 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.059</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.13</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.62&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.20&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.977 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.023</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.08</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.62&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.20&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.885 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.051</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.04</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>9.029193</Track4:TimeStamp>
+ <Track4:TimeStamp>9.029193</Track4:TimeStamp>
+ <Track4:TimeStamp>9.029193</Track4:TimeStamp>
+ <Track4:TimeStamp>9.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>9.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>9.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>9.029193</Track4:TimeStamp>
+ <Track4:TimeStamp>9.029193</Track4:TimeStamp>
+ <Track4:SampleTime>10.01 s</Track4:SampleTime>
+ <Track4:SampleDuration>1.00 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>10.029225</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.423828125 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 10510 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>10.029225</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.423828125 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 11341 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>10.030193</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/252 1/241 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/271 1/300 1/295 1/284 1/273 1/267 1/254 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/254 1/258</Track4:ExposureTimes>
+ <Track4:TimeStamp>10.030193</Track4:TimeStamp>
+ <Track4:ColorTemperatures>6406 6406 6446 6446 6406 6406 6406 6406 6406 6406</Track4:ColorTemperatures>
+ <Track4:TimeStamp>10.030193</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 219 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>10.030193</Track4:TimeStamp>
+ <Track4:ISOSpeeds>624 595 595 591 591 591 591 591 591 588 588 664 736 726 701 673 660 628 595 595 595 595 598 598 598 602 605 605 644 656</Track4:ISOSpeeds>
+ <Track4:TimeStamp>10.06356</Track4:TimeStamp>
+ <Track4:TimeStamp>10.030193</Track4:TimeStamp>
+ <Track4:InputUniformity>0 0 0 0 0 0 0 0 0 0</Track4:InputUniformity>
+ <Track4:TimeStamp>9.96346</Track4:TimeStamp>
+ <Track4:TimeStamp>9.96346</Track4:TimeStamp>
+ <Track4:TimeStamp>10.030193</Track4:TimeStamp>
+ <Track4:TimeStamp>10.033241</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 15:44:04.690</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.86</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.62&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.19&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.868 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.12</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.08</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.62&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.19&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.899 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.128</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.14</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.62&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.18&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.977 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.07</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.15</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.62&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.18&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.03 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.053</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.09</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.61&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.18&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.061 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.071</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.07</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.61&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.17&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.102 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.103</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.09</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.61&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.17&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.151 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.112</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.12</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.61&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.16&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.157 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.144</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.13</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.61&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.16&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.221 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.191</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.16</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.61&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.15&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.27 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.249</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.2</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.60&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.15&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.303 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.312</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.26</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.60&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.15&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.384 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.243</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.32</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.60&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.14&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.496 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.185</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.25</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.60&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.14&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.529 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.227</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.19</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.60&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.13&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.548 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.369</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.23</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.60&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.12&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.513 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.524</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.37</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.60&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.12&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.563 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.605</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.53</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.60&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.11&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.548 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.54</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.61</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>10.030193</Track4:TimeStamp>
+ <Track4:TimeStamp>10.030193</Track4:TimeStamp>
+ <Track4:TimeStamp>10.030193</Track4:TimeStamp>
+ <Track4:TimeStamp>10.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>10.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>10.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>10.030193</Track4:TimeStamp>
+ <Track4:TimeStamp>10.030193</Track4:TimeStamp>
+ <Track4:SampleTime>11.01 s</Track4:SampleTime>
+ <Track4:SampleDuration>1.00 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>11.031631</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.55859375 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 10549 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>11.031631</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.55859375 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 11330 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>11.031193</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/287 1/292 1/280 1/267 1/259 1/248 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/240 1/403 1/385 1/367 1/353 1/336 1/320 1/308 1/294 1/279 1/267 1/254 1/243 1/241 1/240</Track4:ExposureTimes>
+ <Track4:TimeStamp>11.031193</Track4:TimeStamp>
+ <Track4:ColorTemperatures>6406 6406 6406 6446 6446 6485 6446 6446 6446 6446</Track4:ColorTemperatures>
+ <Track4:TimeStamp>11.031193</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 226 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>11.031193</Track4:TimeStamp>
+ <Track4:ISOSpeeds>731 747 716 682 660 636 613 613 613 613 613 613 609 609 609 609 1024 975 930 898 853 812 781 747 706 678 644 616 609 609</Track4:ISOSpeeds>
+ <Track4:TimeStamp>11.06456</Track4:TimeStamp>
+ <Track4:TimeStamp>11.031193</Track4:TimeStamp>
+ <Track4:InputUniformity>0 0 0 0 0 0 0 0 0 0</Track4:InputUniformity>
+ <Track4:TimeStamp>10.96446</Track4:TimeStamp>
+ <Track4:TimeStamp>10.96446</Track4:TimeStamp>
+ <Track4:TimeStamp>11.031193</Track4:TimeStamp>
+ <Track4:TimeStamp>11.023936</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 15:44:05.735</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.86</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.60&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.11&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.549 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.35</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.54</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.60&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.11&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.513 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.29</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.35</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.60&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.11&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.491 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.213</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.29</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.60&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.11&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.524 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.17</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.22</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.60&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.10&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.522 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.133</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.17</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.60&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.10&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.432 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.025</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.14</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.60&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.10&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.235 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.896</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.03</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.60&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.10&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.146 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.924</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.91</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.60&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.10&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.066 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.961</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.94</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.60&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.09&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.027 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.984</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.98</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.60&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.09&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.98 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.003</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.01</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.60&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.09&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.863 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.96</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.03</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.60&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.09&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.825 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.908</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.99</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.60&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.09&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.711 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.913</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.94</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.60&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.08&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.771 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.927</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.95</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.60&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.08&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.814 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.986</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.96</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.60&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.07&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.812 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.997</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.02</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.60&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.07&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.735 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.95</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.03</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>11.031193</Track4:TimeStamp>
+ <Track4:TimeStamp>11.031193</Track4:TimeStamp>
+ <Track4:TimeStamp>11.031193</Track4:TimeStamp>
+ <Track4:TimeStamp>11.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>11.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>11.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>11.031193</Track4:TimeStamp>
+ <Track4:TimeStamp>11.031193</Track4:TimeStamp>
+ <Track4:SampleTime>12.01 s</Track4:SampleTime>
+ <Track4:SampleDuration>1.00 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>12.034022</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.72265625 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 10425 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>12.034022</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.72265625 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 11244 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>12.032193</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/240 1/324 1/364 1/349 1/346 1/331 1/318 1/308 1/295 1/282 1/272 1/260 1/249 1/247 1/258 1/251 1/245 1/240 1/240 1/309 1/318 1/307 1/296 1/280 1/266 1/255 1/243 1/240 1/240 1/240</Track4:ExposureTimes>
+ <Track4:TimeStamp>12.032193</Track4:TimeStamp>
+ <Track4:ColorTemperatures>6446 6485 6446 6446 6446 6446 6446 6446 6446 6446</Track4:ColorTemperatures>
+ <Track4:TimeStamp>12.032193</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 236 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>12.032193</Track4:TimeStamp>
+ <Track4:ISOSpeeds>609 825 922 882 875 839 806 781 742 711 687 652 628 620 648 628 613 602 602 775 800 775 747 706 669 644 616 605 609 609</Track4:ISOSpeeds>
+ <Track4:TimeStamp>12.06556</Track4:TimeStamp>
+ <Track4:TimeStamp>12.032193</Track4:TimeStamp>
+ <Track4:InputUniformity>0 0 0 0 0 0 0 0 0 0</Track4:InputUniformity>
+ <Track4:TimeStamp>11.96546</Track4:TimeStamp>
+ <Track4:TimeStamp>11.96546</Track4:TimeStamp>
+ <Track4:TimeStamp>12.032193</Track4:TimeStamp>
+ <Track4:TimeStamp>12.01278</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 15:44:06.725</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.86</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.60&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.07&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.733 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>0.938</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.99</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.60&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.06&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.833 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.075</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>0.97</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.60&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.06&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.849 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.164</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.1</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.59&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.05&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.912 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.218</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.19</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.59&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.05&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.884 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.077</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.24</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.59&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.05&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.872 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.072</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.1</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.59&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.04&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.882 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.155</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.1</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.59&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.04&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.897 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.2</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.18</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.59&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.03&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.913 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.242</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.22</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.59&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.03&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.951 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.391</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.26</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.59&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.02&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.958 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.537</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.41</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.59&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.01&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>202.989 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.628</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.55</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.58&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 56.00&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.121 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.789</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.64</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.58&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 55.99&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.291 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.99</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.8</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.59&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 55.98&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.393 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>2.121</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>2</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.59&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 55.96&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.753 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>2.792</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>2.13</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.59&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 55.95&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.9 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>2.752</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>2.79</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.58&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 55.94&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.829 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>2.55</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>2.75</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.58&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 55.94&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.761 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>2.375</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>2.55</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>12.032193</Track4:TimeStamp>
+ <Track4:TimeStamp>12.032193</Track4:TimeStamp>
+ <Track4:TimeStamp>12.032193</Track4:TimeStamp>
+ <Track4:TimeStamp>12.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>12.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>12.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>12.032193</Track4:TimeStamp>
+ <Track4:TimeStamp>12.032193</Track4:TimeStamp>
+ <Track4:SampleTime>13.01 s</Track4:SampleTime>
+ <Track4:SampleDuration>0.30 s</Track4:SampleDuration>
+ <Track4:DeviceName>HERO10 Black</Track4:DeviceName>
+ <Track4:TimeStamp>13.031429</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.779296875 C</Track4:CameraTemperature>
+ <Track4:Accelerometer>(Binary data 3269 bytes, use -b option to extract)</Track4:Accelerometer>
+ <Track4:TimeStamp>13.031429</Track4:TimeStamp>
+ <Track4:InputOrientation>ZXY</Track4:InputOrientation>
+ <Track4:CameraTemperature>32.779296875 C</Track4:CameraTemperature>
+ <Track4:Gyroscope>(Binary data 3553 bytes, use -b option to extract)</Track4:Gyroscope>
+ <Track4:TimeStamp>13.03562</Track4:TimeStamp>
+ <Track4:ExposureTimes>1/240 1/240 1/240 1/240 1/240 1/267 1/256 1/253 1/246 1/243</Track4:ExposureTimes>
+ <Track4:TimeStamp>13.033193</Track4:TimeStamp>
+ <Track4:ColorTemperatures>6446 6446 6446</Track4:ColorTemperatures>
+ <Track4:TimeStamp>13.033193</Track4:TimeStamp>
+ <Track4:WhiteBalanceRGB>(Binary data 68 bytes, use -b option to extract)</Track4:WhiteBalanceRGB>
+ <Track4:TimeStamp>13.03562</Track4:TimeStamp>
+ <Track4:ISOSpeeds>609 609 609 613 613 678 656 648 628 620</Track4:ISOSpeeds>
+ <Track4:TimeStamp>13.06656</Track4:TimeStamp>
+ <Track4:TimeStamp>13.033193</Track4:TimeStamp>
+ <Track4:InputUniformity>0 0 0</Track4:InputUniformity>
+ <Track4:TimeStamp>12.96646</Track4:TimeStamp>
+ <Track4:TimeStamp>12.96646</Track4:TimeStamp>
+ <Track4:TimeStamp>13.033193</Track4:TimeStamp>
+ <Track4:TimeStamp>13.057534</Track4:TimeStamp>
+ <Track4:GPSMeasureMode>3-Dimensional Measurement</Track4:GPSMeasureMode>
+ <Track4:GPSDateTime>2022:01:12 15:44:07.715</Track4:GPSDateTime>
+ <Track4:GPSHPositioningError>1.86</Track4:GPSHPositioningError>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.58&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 55.94&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.681 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>2.301</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>2.38</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.59&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 55.93&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.554 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>2.198</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>2.3</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.59&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 55.93&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.525 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>2.089</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>2.2</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.59&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 55.93&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.484 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.829</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>2.09</Track4:GPSSpeed3D>
+ <Track4:GPSLatitude>53 deg 22&#39; 30.59&quot; N</Track4:GPSLatitude>
+ <Track4:GPSLongitude>1 deg 34&#39; 55.93&quot; W</Track4:GPSLongitude>
+ <Track4:GPSAltitude>203.53 m</Track4:GPSAltitude>
+ <Track4:GPSSpeed>1.724</Track4:GPSSpeed>
+ <Track4:GPSSpeed3D>1.83</Track4:GPSSpeed3D>
+ <Track4:TimeStamp>13.034688</Track4:TimeStamp>
+ <Track4:TimeStamp>13.034688</Track4:TimeStamp>
+ <Track4:TimeStamp>13.034688</Track4:TimeStamp>
+ <Track4:TimeStamp>13.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>13.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>13.020193</Track4:TimeStamp>
+ <Track4:TimeStamp>13.034688</Track4:TimeStamp>
+ <Track4:TimeStamp>13.034688</Track4:TimeStamp>
+ <Composite:ImageSize>2704x1520</Composite:ImageSize>
+ <Composite:Megapixels>4.1</Composite:Megapixels>
+ <Composite:AvgBitrate>45 Mbps</Composite:AvgBitrate>
+ <Composite:GPSLatitude>53 deg 22&#39; 30.72&quot; N</Composite:GPSLatitude>
+ <Composite:GPSLongitude>1 deg 34&#39; 56.64&quot; W</Composite:GPSLongitude>
+ <Composite:Rotation>0</Composite:Rotation>
+ <Composite:GPSPosition>53 deg 22&#39; 30.72&quot; N, 1 deg 34&#39; 56.64&quot; W</Composite:GPSPosition>
+</rdf:Description>
+</rdf:RDF>

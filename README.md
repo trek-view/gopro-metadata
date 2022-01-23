@@ -43,8 +43,8 @@ Other useful tools for understanding / using GPMF:
 ## Relevant Trek View Blog Post / Documents
 
 
-* [An Introduction to the GoPro Metadata Format (GPMF) standard](https://www.trekview.org//blog/2020/metadata-exif-xmp-360-video-files-gopro-gpmd)
-* [An Introduction to the Camera Motion Metadata (CAMM) standard](https://www.trekview.org//blog/2021/metadata-exif-xmp-360-video-files-camm-camera-motion-metadata-spec/)
+* [An Introduction to the GoPro Metadata Format (GPMF) standard (video telemetry)](https://www.trekview.org//blog/2020/metadata-exif-xmp-360-video-files-gopro-gpmd)
+* [An Introduction to the Camera Motion Metadata (CAMM) standard (video telemetry)](https://www.trekview.org//blog/2021/metadata-exif-xmp-360-video-files-camm-camera-motion-metadata-spec/)
 * [GPMF Metadata Notes](https://guides.trekview.org/explorer/developer-docs/sequences/process/gopro-video-telemetry).
 * [What are XMP Namespaces?](https://www.trekview.org/blog/2021/introduction-to-xmp-namespaces/)
 * [A deeper look into a 360 photo and the metadata it holds](https://www.trekview.org/blog/2020/metadata-exif-xmp-360-photo-files/)

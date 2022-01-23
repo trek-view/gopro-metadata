@@ -1,0 +1,2722 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+<rdf:Description rdf:about='GH018709.MP4'
+  xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 12.36'
+  xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
+  xmlns:System='http://ns.exiftool.org/File/System/1.0/'
+  xmlns:File='http://ns.exiftool.org/File/1.0/'
+  xmlns:QuickTime='http://ns.exiftool.org/QuickTime/QuickTime/1.0/'
+  xmlns:UserData='http://ns.exiftool.org/QuickTime/UserData/1.0/'
+  xmlns:GoPro='http://ns.exiftool.org/QuickTime/GoPro/1.0/'
+  xmlns:Track1='http://ns.exiftool.org/QuickTime/Track1/1.0/'
+  xmlns:Track2='http://ns.exiftool.org/QuickTime/Track2/1.0/'
+  xmlns:Track3='http://ns.exiftool.org/QuickTime/Track3/1.0/'
+  xmlns:Track4='http://ns.exiftool.org/QuickTime/Track4/1.0/'
+  xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
+ <ExifTool:ExifToolVersion>12.36</ExifTool:ExifToolVersion>
+ <System:FileName>GH018709.MP4</System:FileName>
+ <System:Directory>.</System:Directory>
+ <System:FileSize>13 MiB</System:FileSize>
+ <System:FileModifyDate>2021:12:19 21:04:52+00:00</System:FileModifyDate>
+ <System:FileAccessDate>2021:12:19 20:03:10+00:00</System:FileAccessDate>
+ <System:FileInodeChangeDate>2021:12:19 19:59:06+00:00</System:FileInodeChangeDate>
+ <System:FilePermissions>-rwxrwxrwx</System:FilePermissions>
+ <File:FileType>MP4</File:FileType>
+ <File:FileTypeExtension>mp4</File:FileTypeExtension>
+ <File:MIMEType>video/mp4</File:MIMEType>
+ <QuickTime:MajorBrand>MP4 v1 [ISO 14496-1:ch13]</QuickTime:MajorBrand>
+ <QuickTime:MinorVersion>2013.10.18</QuickTime:MinorVersion>
+ <QuickTime:CompatibleBrands>
+  <rdf:Bag>
+   <rdf:li>mp41</rdf:li>
+  </rdf:Bag>
+ </QuickTime:CompatibleBrands>
+ <QuickTime:MediaDataSize>14099188</QuickTime:MediaDataSize>
+ <QuickTime:MediaDataOffset>28</QuickTime:MediaDataOffset>
+ <QuickTime:MovieHeaderVersion>0</QuickTime:MovieHeaderVersion>
+ <QuickTime:CreateDate>2021:12:19 21:04:24</QuickTime:CreateDate>
+ <QuickTime:ModifyDate>2021:12:19 21:04:24</QuickTime:ModifyDate>
+ <QuickTime:TimeScale>90000</QuickTime:TimeScale>
+ <QuickTime:Duration>1.84 s</QuickTime:Duration>
+ <QuickTime:PreferredRate>1</QuickTime:PreferredRate>
+ <QuickTime:PreferredVolume>100.00%</QuickTime:PreferredVolume>
+ <QuickTime:MatrixStructure>1 0 0 0 1 0 0 0 1</QuickTime:MatrixStructure>
+ <QuickTime:PreviewTime>0 s</QuickTime:PreviewTime>
+ <QuickTime:PreviewDuration>0 s</QuickTime:PreviewDuration>
+ <QuickTime:PosterTime>0 s</QuickTime:PosterTime>
+ <QuickTime:SelectionTime>0 s</QuickTime:SelectionTime>
+ <QuickTime:SelectionDuration>0 s</QuickTime:SelectionDuration>
+ <QuickTime:CurrentTime>0 s</QuickTime:CurrentTime>
+ <QuickTime:NextTrackID>5</QuickTime:NextTrackID>
+ <UserData:GPSCoordinates>51 deg 16&#39; 20.64&quot; N, 0 deg 50&#39; 44.88&quot; W</UserData:GPSCoordinates>
+ <UserData:FirmwareVersion>H19.03.02.00.00</UserData:FirmwareVersion>
+ <UserData:LensSerialNumber rdf:datatype='http://www.w3.org/2001/XMLSchema#base64Binary'>
+QzMzNjEzQjI1NTIzODgxAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAA
+</UserData:LensSerialNumber>
+ <UserData:SerialNumberHash>43369b5d7335903ecf8fdbbe81a3d1fb</UserData:SerialNumberHash>
+ <GoPro:DeviceName>Global Settings</GoPro:DeviceName>
+ <GoPro:MetadataVersion>8.1.2</GoPro:MetadataVersion>
+ <GoPro:FirmwareVersion>H19.03.02.00.00</GoPro:FirmwareVersion>
+ <GoPro:CameraSerialNumber>C3351324612139</GoPro:CameraSerialNumber>
+ <GoPro:Model>GoPro Max</GoPro:Model>
+ <GoPro:MediaUniqueID>5d9b36433e903573bedb8fcffbd1a38100000000000000000000000000000000</GoPro:MediaUniqueID>
+ <GoPro:AutoRotation>Up</GoPro:AutoRotation>
+ <GoPro:DigitalZoom>No</GoPro:DigitalZoom>
+ <GoPro:ProTune>On</GoPro:ProTune>
+ <GoPro:WhiteBalance>AUTO</GoPro:WhiteBalance>
+ <GoPro:Sharpness>HIGH</GoPro:Sharpness>
+ <GoPro:ColorMode>GOPRO</GoPro:ColorMode>
+ <GoPro:MaximumShutterAngle>AUTO</GoPro:MaximumShutterAngle>
+ <GoPro:AutoISOMax>1600</GoPro:AutoISOMax>
+ <GoPro:AutoISOMin>100</GoPro:AutoISOMin>
+ <GoPro:ExposureCompensation>0.0</GoPro:ExposureCompensation>
+ <GoPro:Rate>AUTO</GoPro:Rate>
+ <GoPro:FieldOfView>Linear</GoPro:FieldOfView>
+ <GoPro:SensorReadoutTime>20.6007671356201</GoPro:SensorReadoutTime>
+ <GoPro:ElectronicImageStabilization>HS EIS</GoPro:ElectronicImageStabilization>
+ <GoPro:AudioSetting>STEREO</GoPro:AudioSetting>
+ <GoPro:DeviceName>Geometry Calibrations</GoPro:DeviceName>
+ <GoPro:DeviceName>Back Lens</GoPro:DeviceName>
+ <GoPro:DeviceName>Front Lens</GoPro:DeviceName>
+ <GoPro:DeviceName>Highlights</GoPro:DeviceName>
+ <Track1:TrackHeaderVersion>0</Track1:TrackHeaderVersion>
+ <Track1:TrackCreateDate>2021:12:19 21:04:24</Track1:TrackCreateDate>
+ <Track1:TrackModifyDate>2021:12:19 21:04:24</Track1:TrackModifyDate>
+ <Track1:TrackID>1</Track1:TrackID>
+ <Track1:TrackDuration>1.84 s</Track1:TrackDuration>
+ <Track1:TrackLayer>0</Track1:TrackLayer>
+ <Track1:TrackVolume>0.00%</Track1:TrackVolume>
+ <Track1:MatrixStructure>1 0 0 0 1 0 0 0 1</Track1:MatrixStructure>
+ <Track1:ImageWidth>1920</Track1:ImageWidth>
+ <Track1:ImageHeight>1080</Track1:ImageHeight>
+ <Track1:TimeCode>2</Track1:TimeCode>
+ <Track1:MediaHeaderVersion>0</Track1:MediaHeaderVersion>
+ <Track1:MediaCreateDate>2021:12:19 21:04:24</Track1:MediaCreateDate>
+ <Track1:MediaModifyDate>2021:12:19 21:04:24</Track1:MediaModifyDate>
+ <Track1:MediaTimeScale>90000</Track1:MediaTimeScale>
+ <Track1:MediaDuration>1.84 s</Track1:MediaDuration>
+ <Track1:HandlerClass>Media Handler</Track1:HandlerClass>
+ <Track1:HandlerType>Video Track</Track1:HandlerType>
+ <Track1:HandlerDescription>GoPro AVC  </Track1:HandlerDescription>
+ <Track1:GraphicsMode>srcCopy</Track1:GraphicsMode>
+ <Track1:OpColor>0 0 0</Track1:OpColor>
+ <Track1:CompressorID>avc1</Track1:CompressorID>
+ <Track1:SourceImageWidth>1920</Track1:SourceImageWidth>
+ <Track1:SourceImageHeight>1080</Track1:SourceImageHeight>
+ <Track1:XResolution>72</Track1:XResolution>
+ <Track1:YResolution>72</Track1:YResolution>
+ <Track1:CompressorName>GoPro AVC encoder</Track1:CompressorName>
+ <Track1:BitDepth>24</Track1:BitDepth>
+ <Track1:ColorRepresentation>nclx 1 1 1</Track1:ColorRepresentation>
+ <Track1:VideoFrameRate>29.97</Track1:VideoFrameRate>
+ <Track2:TrackHeaderVersion>0</Track2:TrackHeaderVersion>
+ <Track2:TrackCreateDate>2021:12:19 21:04:24</Track2:TrackCreateDate>
+ <Track2:TrackModifyDate>2021:12:19 21:04:24</Track2:TrackModifyDate>
+ <Track2:TrackID>2</Track2:TrackID>
+ <Track2:TrackDuration>1.84 s</Track2:TrackDuration>
+ <Track2:TrackLayer>0</Track2:TrackLayer>
+ <Track2:TrackVolume>0.00%</Track2:TrackVolume>
+ <Track2:MatrixStructure>1 0 0 0 1 0 0 0 1</Track2:MatrixStructure>
+ <Track2:ImageWidth>1920</Track2:ImageWidth>
+ <Track2:ImageHeight>16</Track2:ImageHeight>
+ <Track2:MediaHeaderVersion>0</Track2:MediaHeaderVersion>
+ <Track2:MediaCreateDate>2021:12:19 21:04:24</Track2:MediaCreateDate>
+ <Track2:MediaModifyDate>2021:12:19 21:04:24</Track2:MediaModifyDate>
+ <Track2:MediaTimeScale>90000</Track2:MediaTimeScale>
+ <Track2:MediaDuration>1.84 s</Track2:MediaDuration>
+ <Track2:HandlerClass>Media Handler</Track2:HandlerClass>
+ <Track2:HandlerType>Time Code</Track2:HandlerType>
+ <Track2:HandlerDescription>GoPro TCD  </Track2:HandlerDescription>
+ <Track2:GenMediaVersion>0</Track2:GenMediaVersion>
+ <Track2:GenFlags>0 0 0</Track2:GenFlags>
+ <Track2:GenGraphicsMode>ditherCopy</Track2:GenGraphicsMode>
+ <Track2:GenOpColor>32768 32768 32768</Track2:GenOpColor>
+ <Track2:GenBalance>0</Track2:GenBalance>
+ <Track2:TextFont>Unknown (21)</Track2:TextFont>
+ <Track2:TextFace>Plain</Track2:TextFace>
+ <Track2:TextSize>10</Track2:TextSize>
+ <Track2:TextColor>0 0 0</Track2:TextColor>
+ <Track2:BackgroundColor>65535 65535 65535</Track2:BackgroundColor>
+ <Track2:FontName>Helvetica</Track2:FontName>
+ <Track2:OtherFormat>tmcd</Track2:OtherFormat>
+ <Track3:TrackHeaderVersion>0</Track3:TrackHeaderVersion>
+ <Track3:TrackCreateDate>2021:12:19 21:04:24</Track3:TrackCreateDate>
+ <Track3:TrackModifyDate>2021:12:19 21:04:24</Track3:TrackModifyDate>
+ <Track3:TrackID>3</Track3:TrackID>
+ <Track3:TrackDuration>18.68 s</Track3:TrackDuration>
+ <Track3:TrackLayer>0</Track3:TrackLayer>
+ <Track3:TrackVolume>0.00%</Track3:TrackVolume>
+ <Track3:MatrixStructure>1 0 0 0 1 0 0 0 1</Track3:MatrixStructure>
+ <Track3:MediaHeaderVersion>0</Track3:MediaHeaderVersion>
+ <Track3:MediaCreateDate>2021:12:19 21:04:24</Track3:MediaCreateDate>
+ <Track3:MediaModifyDate>2021:12:19 21:04:24</Track3:MediaModifyDate>
+ <Track3:MediaTimeScale>10000</Track3:MediaTimeScale>
+ <Track3:MediaDuration>1.87 s</Track3:MediaDuration>
+ <Track3:HandlerClass>Media Handler</Track3:HandlerClass>
+ <Track3:HandlerType>NRT Metadata</Track3:HandlerType>
+ <Track3:HandlerDescription>GoPro MET  </Track3:HandlerDescription>
+ <Track3:GenMediaVersion>0</Track3:GenMediaVersion>
+ <Track3:GenFlags>0 0 0</Track3:GenFlags>
+ <Track3:GenGraphicsMode>srcCopy</Track3:GenGraphicsMode>
+ <Track3:GenOpColor>0 0 0</Track3:GenOpColor>
+ <Track3:GenBalance>0</Track3:GenBalance>
+ <Track3:MetaFormat>gpmd</Track3:MetaFormat>
+ <Track3:SampleTime>0 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>0.020409</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.4296875 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 54 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>0.020409</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.4296875 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 41 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>0.023409</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-12 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>0.084371</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>0.084371</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3618</Track3:ColorTemperatures>
+ <Track3:TimeStamp>0.084371</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 21 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>0.084371</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>0.107118</Track3:TimeStamp>
+ <Track3:TimeStamp>0.084371</Track3:TimeStamp>
+ <Track3:InputUniformity>0.47216796875</Track3:InputUniformity>
+ <Track3:TimeStamp>0.107118</Track3:TimeStamp>
+ <Track3:TimeStamp>0.107118</Track3:TimeStamp>
+ <Track3:TimeStamp>0.00136</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:15.485</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.69</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.62&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.02&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.871 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.025</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.03</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>0.384671</Track3:TimeStamp>
+ <Track3:TimeStamp>0.384671</Track3:TimeStamp>
+ <Track3:TimeStamp>22.740081</Track3:TimeStamp>
+ <Track3:TimeStamp>0.384671</Track3:TimeStamp>
+ <Track3:SampleTime>0.03 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>0.384241</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.5 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>0.384241</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.5 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 41 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>0.382266</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-12 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>0.384665</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>0.384671</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3653</Track3:ColorTemperatures>
+ <Track3:TimeStamp>0.384671</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 19 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>0.384665</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>0.418944</Track3:TimeStamp>
+ <Track3:TimeStamp>0.384671</Track3:TimeStamp>
+ <Track3:InputUniformity>0.4580078125</Track3:InputUniformity>
+ <Track3:TimeStamp>0.418944</Track3:TimeStamp>
+ <Track3:TimeStamp>0.418944</Track3:TimeStamp>
+ <Track3:TimeStamp>0.387304</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:22.745</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.95</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.62&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.02&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.859 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.018</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.01</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>0.718338</Track3:TimeStamp>
+ <Track3:TimeStamp>0.718338</Track3:TimeStamp>
+ <Track3:TimeStamp>0.418004</Track3:TimeStamp>
+ <Track3:TimeStamp>0.718338</Track3:TimeStamp>
+ <Track3:SampleTime>0.07 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>0.718169</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.453125 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>0.718169</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.453125 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 23 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>0.70125</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-12 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>0.718325</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>0.684971</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3677</Track3:ColorTemperatures>
+ <Track3:TimeStamp>0.684971</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 28 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>0.718325</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>0.729089</Track3:TimeStamp>
+ <Track3:TimeStamp>0.684971</Track3:TimeStamp>
+ <Track3:InputUniformity>0.505208313465118</Track3:InputUniformity>
+ <Track3:TimeStamp>0.729089</Track3:TimeStamp>
+ <Track3:TimeStamp>0.729089</Track3:TimeStamp>
+ <Track3:TimeStamp>0.717843</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:22.745</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.95</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.62&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.02&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.856 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.011</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.01</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>1.052005</Track3:TimeStamp>
+ <Track3:TimeStamp>1.052005</Track3:TimeStamp>
+ <Track3:TimeStamp>0.751671</Track3:TimeStamp>
+ <Track3:TimeStamp>1.052005</Track3:TimeStamp>
+ <Track3:SampleTime>0.10 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>1.052097</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.560546875 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>1.052097</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.560546875 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 41 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>1.060107</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-12 -1 61</Track3:Magnetometer>
+ <Track3:TimeStamp>1.051985</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>1.085371</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3694</Track3:ColorTemperatures>
+ <Track3:TimeStamp>1.085371</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 24 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>1.051985</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>1.022032</Track3:TimeStamp>
+ <Track3:TimeStamp>1.085371</Track3:TimeStamp>
+ <Track3:InputUniformity>0.486328125</Track3:InputUniformity>
+ <Track3:TimeStamp>1.022032</Track3:TimeStamp>
+ <Track3:TimeStamp>1.022032</Track3:TimeStamp>
+ <Track3:TimeStamp>1.057542</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:22.855</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.95</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.62&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.02&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.841 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.01</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.01</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>1.385671</Track3:TimeStamp>
+ <Track3:TimeStamp>1.385671</Track3:TimeStamp>
+ <Track3:TimeStamp>1.085338</Track3:TimeStamp>
+ <Track3:TimeStamp>1.385671</Track3:TimeStamp>
+ <Track3:SampleTime>0.13 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>1.386025</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.515625 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>1.386025</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.515625 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 41 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>1.379091</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-12 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>1.385645</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>1.385671</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3746</Track3:ColorTemperatures>
+ <Track3:TimeStamp>1.385671</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 21 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>1.385645</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>1.429223</Track3:TimeStamp>
+ <Track3:TimeStamp>1.385671</Track3:TimeStamp>
+ <Track3:InputUniformity>0.4580078125</Track3:InputUniformity>
+ <Track3:TimeStamp>1.429223</Track3:TimeStamp>
+ <Track3:TimeStamp>1.429223</Track3:TimeStamp>
+ <Track3:TimeStamp>1.386659</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:24.670</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.95</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.62&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.02&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.833 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.013</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.01</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>1.719338</Track3:TimeStamp>
+ <Track3:TimeStamp>1.719338</Track3:TimeStamp>
+ <Track3:TimeStamp>1.419004</Track3:TimeStamp>
+ <Track3:TimeStamp>1.719338</Track3:TimeStamp>
+ <Track3:SampleTime>0.17 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>1.719953</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.541015625 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>1.719953</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.541015625 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 23 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>1.737948</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-11 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>1.719315</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>1.685971</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3738</Track3:ColorTemperatures>
+ <Track3:TimeStamp>1.685971</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 35 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>1.719315</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>1.732285</Track3:TimeStamp>
+ <Track3:TimeStamp>1.685971</Track3:TimeStamp>
+ <Track3:InputUniformity>0.4580078125</Track3:InputUniformity>
+ <Track3:TimeStamp>1.732285</Track3:TimeStamp>
+ <Track3:TimeStamp>1.732285</Track3:TimeStamp>
+ <Track3:TimeStamp>1.717215</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:24.835</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.95</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.62&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.03&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.819 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.019</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.01</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>2.086371</Track3:TimeStamp>
+ <Track3:TimeStamp>2.086371</Track3:TimeStamp>
+ <Track3:TimeStamp>1.752671</Track3:TimeStamp>
+ <Track3:TimeStamp>2.086371</Track3:TimeStamp>
+ <Track3:SampleTime>0.20 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>2.088769</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.556640625 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>2.088769</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.556640625 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 41 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>2.096805</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-12 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>2.086352</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>2.086371</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3664</Track3:ColorTemperatures>
+ <Track3:TimeStamp>2.086371</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 29 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>2.086352</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>2.038888</Track3:TimeStamp>
+ <Track3:TimeStamp>2.086371</Track3:TimeStamp>
+ <Track3:InputUniformity>0.495768219232559</Track3:InputUniformity>
+ <Track3:TimeStamp>2.038888</Track3:TimeStamp>
+ <Track3:TimeStamp>2.038888</Track3:TimeStamp>
+ <Track3:TimeStamp>2.102691</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:24.945</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.95</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.62&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.03&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.81 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.019</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.01</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>2.486771</Track3:TimeStamp>
+ <Track3:TimeStamp>2.486771</Track3:TimeStamp>
+ <Track3:TimeStamp>2.119704</Track3:TimeStamp>
+ <Track3:TimeStamp>2.486771</Track3:TimeStamp>
+ <Track3:SampleTime>0.23 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>2.487489</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.552734375 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>2.487489</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.552734375 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 41 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>2.495535</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-11 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>2.486756</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>2.486771</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3645</Track3:ColorTemperatures>
+ <Track3:TimeStamp>2.486771</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 35 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>2.486756</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>2.452312</Track3:TimeStamp>
+ <Track3:TimeStamp>2.486771</Track3:TimeStamp>
+ <Track3:InputUniformity>0.495768219232559</Track3:InputUniformity>
+ <Track3:TimeStamp>2.452312</Track3:TimeStamp>
+ <Track3:TimeStamp>2.452312</Track3:TimeStamp>
+ <Track3:TimeStamp>2.480522</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:25.000</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.95</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.62&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.03&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.799 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.017</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.02</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>2.887171</Track3:TimeStamp>
+ <Track3:TimeStamp>2.887171</Track3:TimeStamp>
+ <Track3:TimeStamp>2.520104</Track3:TimeStamp>
+ <Track3:TimeStamp>2.887171</Track3:TimeStamp>
+ <Track3:SampleTime>0.27 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>2.886209</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.580078125 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>2.886209</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.580078125 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 23 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>2.894265</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-12 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>2.887148</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>2.887171</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3611</Track3:ColorTemperatures>
+ <Track3:TimeStamp>2.887171</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 29 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>2.887148</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>2.868128</Track3:TimeStamp>
+ <Track3:TimeStamp>2.887171</Track3:TimeStamp>
+ <Track3:InputUniformity>0.505208313465118</Track3:InputUniformity>
+ <Track3:TimeStamp>2.868128</Track3:TimeStamp>
+ <Track3:TimeStamp>2.868128</Track3:TimeStamp>
+ <Track3:TimeStamp>2.865729</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:26.705</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.95</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.62&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.03&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.786 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.019</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.02</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>3.320938</Track3:TimeStamp>
+ <Track3:TimeStamp>3.320938</Track3:TimeStamp>
+ <Track3:TimeStamp>2.920504</Track3:TimeStamp>
+ <Track3:TimeStamp>3.320938</Track3:TimeStamp>
+ <Track3:SampleTime>0.30 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>3.319817</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.568359375 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>3.319817</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.568359375 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 41 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>3.332868</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-12 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>3.320906</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>3.287571</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3615</Track3:ColorTemperatures>
+ <Track3:TimeStamp>3.287571</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 27 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>3.320906</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>3.282081</Track3:TimeStamp>
+ <Track3:TimeStamp>3.287571</Track3:TimeStamp>
+ <Track3:InputUniformity>0.4580078125</Track3:InputUniformity>
+ <Track3:TimeStamp>3.282081</Track3:TimeStamp>
+ <Track3:TimeStamp>3.282081</Track3:TimeStamp>
+ <Track3:TimeStamp>3.308889</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:26.815</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.95</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.62&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.03&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.763 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.02</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.02</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>3.754705</Track3:TimeStamp>
+ <Track3:TimeStamp>3.754705</Track3:TimeStamp>
+ <Track3:TimeStamp>3.354271</Track3:TimeStamp>
+ <Track3:TimeStamp>3.754705</Track3:TimeStamp>
+ <Track3:SampleTime>0.33 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>3.753425</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.55078125 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>3.753425</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.55078125 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 41 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>3.771471</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-12 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>3.754664</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>3.788071</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3611</Track3:ColorTemperatures>
+ <Track3:TimeStamp>3.788071</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 35 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>3.754664</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>3.79725</Track3:TimeStamp>
+ <Track3:TimeStamp>3.788071</Track3:TimeStamp>
+ <Track3:InputUniformity>0.4580078125</Track3:InputUniformity>
+ <Track3:TimeStamp>3.79725</Track3:TimeStamp>
+ <Track3:TimeStamp>3.79725</Track3:TimeStamp>
+ <Track3:TimeStamp>3.749835</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:26.925</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.95</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.62&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.03&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.759 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.02</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.02</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>4.221838</Track3:TimeStamp>
+ <Track3:TimeStamp>4.221838</Track3:TimeStamp>
+ <Track3:TimeStamp>3.788038</Track3:TimeStamp>
+ <Track3:TimeStamp>4.221838</Track3:TimeStamp>
+ <Track3:SampleTime>0.37 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>4.221921</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.61328125 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>4.221921</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.61328125 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 41 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>4.210074</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-12 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>4.221788</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>4.188471</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3641</Track3:ColorTemperatures>
+ <Track3:TimeStamp>4.188471</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 24 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>4.221788</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>4.228717</Track3:TimeStamp>
+ <Track3:TimeStamp>4.188471</Track3:TimeStamp>
+ <Track3:InputUniformity>0.4580078125</Track3:InputUniformity>
+ <Track3:TimeStamp>4.228717</Track3:TimeStamp>
+ <Track3:TimeStamp>4.228717</Track3:TimeStamp>
+ <Track3:TimeStamp>4.245171</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:26.980</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.95</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.62&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.03&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.754 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.018</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.02</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>4.688971</Track3:TimeStamp>
+ <Track3:TimeStamp>4.688971</Track3:TimeStamp>
+ <Track3:TimeStamp>4.255171</Track3:TimeStamp>
+ <Track3:TimeStamp>4.688971</Track3:TimeStamp>
+ <Track3:SampleTime>0.40 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>4.690417</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.607421875 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>4.690417</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.607421875 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 41 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>4.68855</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-11 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>4.688926</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>4.688971</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3607</Track3:ColorTemperatures>
+ <Track3:TimeStamp>4.688971</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 21 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>4.688926</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>4.737481</Track3:TimeStamp>
+ <Track3:TimeStamp>4.688971</Track3:TimeStamp>
+ <Track3:InputUniformity>0.486328125</Track3:InputUniformity>
+ <Track3:TimeStamp>4.737481</Track3:TimeStamp>
+ <Track3:TimeStamp>4.737481</Track3:TimeStamp>
+ <Track3:TimeStamp>4.685779</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:28.685</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.7</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.62&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.03&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.73 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.017</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.01</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>5.156105</Track3:TimeStamp>
+ <Track3:TimeStamp>5.156105</Track3:TimeStamp>
+ <Track3:TimeStamp>4.722304</Track3:TimeStamp>
+ <Track3:TimeStamp>5.156105</Track3:TimeStamp>
+ <Track3:SampleTime>0.43 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>5.153929</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.59375 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>5.153929</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.59375 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 41 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>5.167026</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-11 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>5.156064</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>5.189471</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3618</Track3:ColorTemperatures>
+ <Track3:TimeStamp>5.189471</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 29 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>5.156064</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>5.143992</Track3:TimeStamp>
+ <Track3:TimeStamp>5.189471</Track3:TimeStamp>
+ <Track3:InputUniformity>0.4580078125</Track3:InputUniformity>
+ <Track3:TimeStamp>5.143992</Track3:TimeStamp>
+ <Track3:TimeStamp>5.143992</Track3:TimeStamp>
+ <Track3:TimeStamp>5.179442</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:28.850</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.95</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.62&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.03&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.698 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.017</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.01</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>5.623238</Track3:TimeStamp>
+ <Track3:TimeStamp>5.623238</Track3:TimeStamp>
+ <Track3:TimeStamp>5.189438</Track3:TimeStamp>
+ <Track3:TimeStamp>5.623238</Track3:TimeStamp>
+ <Track3:SampleTime>0.47 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>5.622425</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.61328125 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>5.622425</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.61328125 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 41 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>5.605629</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-11 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>5.623202</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>5.589871</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3618</Track3:ColorTemperatures>
+ <Track3:TimeStamp>5.589871</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 24 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>5.623202</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>5.661476</Track3:TimeStamp>
+ <Track3:TimeStamp>5.589871</Track3:TimeStamp>
+ <Track3:InputUniformity>0.4580078125</Track3:InputUniformity>
+ <Track3:TimeStamp>5.661476</Track3:TimeStamp>
+ <Track3:TimeStamp>5.661476</Track3:TimeStamp>
+ <Track3:TimeStamp>5.617694</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:28.905</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.95</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.62&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.03&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.664 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.016</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.01</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>6.123738</Track3:TimeStamp>
+ <Track3:TimeStamp>6.123738</Track3:TimeStamp>
+ <Track3:TimeStamp>5.656571</Track3:TimeStamp>
+ <Track3:TimeStamp>6.123738</Track3:TimeStamp>
+ <Track3:SampleTime>0.50 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>6.125809</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.65625 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>6.125809</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.65625 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 41 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>6.123978</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-12 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>6.123707</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>6.090371</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3595</Track3:ColorTemperatures>
+ <Track3:TimeStamp>6.090371</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 24 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>6.123707</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>6.084208</Track3:TimeStamp>
+ <Track3:TimeStamp>6.090371</Track3:TimeStamp>
+ <Track3:InputUniformity>0.47216796875</Track3:InputUniformity>
+ <Track3:TimeStamp>6.084208</Track3:TimeStamp>
+ <Track3:TimeStamp>6.084208</Track3:TimeStamp>
+ <Track3:TimeStamp>6.113692</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:28.960</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.95</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.63&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.03&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.631 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.016</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.02</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>6.624238</Track3:TimeStamp>
+ <Track3:TimeStamp>6.624238</Track3:TimeStamp>
+ <Track3:TimeStamp>6.157071</Track3:TimeStamp>
+ <Track3:TimeStamp>6.624238</Track3:TimeStamp>
+ <Track3:SampleTime>0.53 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>6.624209</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.646484375 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>6.624209</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.646484375 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 23 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>6.64234</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-12 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>6.624197</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>6.590871</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3624</Track3:ColorTemperatures>
+ <Track3:TimeStamp>6.590871</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 25 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>6.624197</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>6.592187</Track3:TimeStamp>
+ <Track3:TimeStamp>6.590871</Track3:TimeStamp>
+ <Track3:InputUniformity>0.486328125</Track3:InputUniformity>
+ <Track3:TimeStamp>6.592187</Track3:TimeStamp>
+ <Track3:TimeStamp>6.592187</Track3:TimeStamp>
+ <Track3:TimeStamp>6.608613</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:30.665</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.58</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.63&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.03&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.609 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.014</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.01</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>7.124738</Track3:TimeStamp>
+ <Track3:TimeStamp>7.124738</Track3:TimeStamp>
+ <Track3:TimeStamp>6.657571</Track3:TimeStamp>
+ <Track3:TimeStamp>7.124738</Track3:TimeStamp>
+ <Track3:SampleTime>0.57 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>7.122609</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.64453125 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>7.122609</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.64453125 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 23 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>7.120828</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-11 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>7.124687</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>7.091371</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3612</Track3:ColorTemperatures>
+ <Track3:TimeStamp>7.091371</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 26 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>7.124687</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>7.115224</Track3:TimeStamp>
+ <Track3:TimeStamp>7.091371</Track3:TimeStamp>
+ <Track3:InputUniformity>0.4580078125</Track3:InputUniformity>
+ <Track3:TimeStamp>7.115224</Track3:TimeStamp>
+ <Track3:TimeStamp>7.115224</Track3:TimeStamp>
+ <Track3:TimeStamp>7.102938</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:30.830</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.68</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.63&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.03&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.592 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.012</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.01</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>7.625238</Track3:TimeStamp>
+ <Track3:TimeStamp>7.625238</Track3:TimeStamp>
+ <Track3:TimeStamp>7.158071</Track3:TimeStamp>
+ <Track3:TimeStamp>7.625238</Track3:TimeStamp>
+ <Track3:SampleTime>0.60 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>7.625993</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.666015625 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>7.625993</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.666015625 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 23 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>7.63919</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-12 -1 61</Track3:Magnetometer>
+ <Track3:TimeStamp>7.625192</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>7.591871</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3630</Track3:ColorTemperatures>
+ <Track3:TimeStamp>7.591871</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 24 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>7.625192</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>7.625745</Track3:TimeStamp>
+ <Track3:TimeStamp>7.591871</Track3:TimeStamp>
+ <Track3:InputUniformity>0.4580078125</Track3:InputUniformity>
+ <Track3:TimeStamp>7.625745</Track3:TimeStamp>
+ <Track3:TimeStamp>7.625745</Track3:TimeStamp>
+ <Track3:TimeStamp>7.648537</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:30.885</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.68</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.63&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.02&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.582 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.013</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.01</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>8.125738</Track3:TimeStamp>
+ <Track3:TimeStamp>8.125738</Track3:TimeStamp>
+ <Track3:TimeStamp>7.658571</Track3:TimeStamp>
+ <Track3:TimeStamp>8.125738</Track3:TimeStamp>
+ <Track3:SampleTime>0.63 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>8.124393</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.671875 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>8.124393</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.671875 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 23 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>8.117678</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-12 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>8.125697</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>8.092371</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3618</Track3:ColorTemperatures>
+ <Track3:TimeStamp>8.092371</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 18 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>8.125697</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>8.102234</Track3:TimeStamp>
+ <Track3:TimeStamp>8.092371</Track3:TimeStamp>
+ <Track3:InputUniformity>0.486328125</Track3:InputUniformity>
+ <Track3:TimeStamp>8.102234</Track3:TimeStamp>
+ <Track3:TimeStamp>8.102234</Track3:TimeStamp>
+ <Track3:TimeStamp>8.138904</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:31.000</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.68</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.63&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.02&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.561 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.014</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.01</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>8.626238</Track3:TimeStamp>
+ <Track3:TimeStamp>8.626238</Track3:TimeStamp>
+ <Track3:TimeStamp>8.159071</Track3:TimeStamp>
+ <Track3:TimeStamp>8.626238</Track3:TimeStamp>
+ <Track3:SampleTime>0.67 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>8.627777</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.666015625 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>8.627777</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.666015625 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 41 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>8.636027</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-12 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>8.626202</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>8.592871</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3616</Track3:ColorTemperatures>
+ <Track3:TimeStamp>8.592871</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 27 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>8.626202</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>8.608822</Track3:TimeStamp>
+ <Track3:TimeStamp>8.592871</Track3:TimeStamp>
+ <Track3:InputUniformity>0.465087890625</Track3:InputUniformity>
+ <Track3:TimeStamp>8.608822</Track3:TimeStamp>
+ <Track3:TimeStamp>8.608822</Track3:TimeStamp>
+ <Track3:TimeStamp>8.631877</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:32.700</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.68</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.63&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.02&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.541 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.018</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.02</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>9.126738</Track3:TimeStamp>
+ <Track3:TimeStamp>9.126738</Track3:TimeStamp>
+ <Track3:TimeStamp>8.659571</Track3:TimeStamp>
+ <Track3:TimeStamp>9.126738</Track3:TimeStamp>
+ <Track3:SampleTime>0.70 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>9.126177</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.67578125 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>9.126177</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.67578125 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 41 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>9.114503</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-12 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>9.126707</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>9.093371</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3598</Track3:ColorTemperatures>
+ <Track3:TimeStamp>9.093371</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 24 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>9.126707</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>9.120615</Track3:TimeStamp>
+ <Track3:TimeStamp>9.093371</Track3:TimeStamp>
+ <Track3:InputUniformity>0.4580078125</Track3:InputUniformity>
+ <Track3:TimeStamp>9.120615</Track3:TimeStamp>
+ <Track3:TimeStamp>9.120615</Track3:TimeStamp>
+ <Track3:TimeStamp>9.127509</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:32.865</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.68</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.63&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.02&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.527 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.021</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.02</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>9.627238</Track3:TimeStamp>
+ <Track3:TimeStamp>9.627238</Track3:TimeStamp>
+ <Track3:TimeStamp>9.160071</Track3:TimeStamp>
+ <Track3:TimeStamp>9.627238</Track3:TimeStamp>
+ <Track3:SampleTime>0.73 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>9.629561</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.705078125 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>9.629561</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.705078125 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 23 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>9.632852</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-12 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>9.627212</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>9.593871</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3682</Track3:ColorTemperatures>
+ <Track3:TimeStamp>9.593871</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 22 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>9.627212</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>9.613064</Track3:TimeStamp>
+ <Track3:TimeStamp>9.593871</Track3:TimeStamp>
+ <Track3:InputUniformity>0.4580078125</Track3:InputUniformity>
+ <Track3:TimeStamp>9.613064</Track3:TimeStamp>
+ <Track3:TimeStamp>9.613064</Track3:TimeStamp>
+ <Track3:TimeStamp>9.622649</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:32.920</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.68</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.63&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.02&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.522 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.013</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.01</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>10.127738</Track3:TimeStamp>
+ <Track3:TimeStamp>10.127738</Track3:TimeStamp>
+ <Track3:TimeStamp>9.660571</Track3:TimeStamp>
+ <Track3:TimeStamp>10.127738</Track3:TimeStamp>
+ <Track3:SampleTime>0.77 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>10.127961</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.693359375 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>10.127961</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.693359375 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 23 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>10.11134</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-11 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>10.127717</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>10.094371</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3720</Track3:ColorTemperatures>
+ <Track3:TimeStamp>10.094371</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 25 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>10.127717</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>10.083268</Track3:TimeStamp>
+ <Track3:TimeStamp>10.094371</Track3:TimeStamp>
+ <Track3:InputUniformity>0.4580078125</Track3:InputUniformity>
+ <Track3:TimeStamp>10.083268</Track3:TimeStamp>
+ <Track3:TimeStamp>10.083268</Track3:TimeStamp>
+ <Track3:TimeStamp>10.120287</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:32.975</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.68</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.63&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.02&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.502 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.014</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.01</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>10.628238</Track3:TimeStamp>
+ <Track3:TimeStamp>10.628238</Track3:TimeStamp>
+ <Track3:TimeStamp>10.161071</Track3:TimeStamp>
+ <Track3:TimeStamp>10.628238</Track3:TimeStamp>
+ <Track3:SampleTime>0.80 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>10.626361</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.712890625 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>10.626361</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.712890625 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 41 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>10.629702</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-12 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>10.628207</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>10.594871</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3806</Track3:ColorTemperatures>
+ <Track3:TimeStamp>10.594871</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 27 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>10.628207</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>10.600885</Track3:TimeStamp>
+ <Track3:TimeStamp>10.594871</Track3:TimeStamp>
+ <Track3:InputUniformity>0.479248046875</Track3:InputUniformity>
+ <Track3:TimeStamp>10.600885</Track3:TimeStamp>
+ <Track3:TimeStamp>10.600885</Track3:TimeStamp>
+ <Track3:TimeStamp>10.615964</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:34.680</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.95</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.63&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.02&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.486 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.019</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.02</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>11.128738</Track3:TimeStamp>
+ <Track3:TimeStamp>11.128738</Track3:TimeStamp>
+ <Track3:TimeStamp>10.661571</Track3:TimeStamp>
+ <Track3:TimeStamp>11.128738</Track3:TimeStamp>
+ <Track3:SampleTime>0.83 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>11.129745</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.740234375 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>11.129745</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.740234375 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 41 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>11.148064</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-12 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>11.128697</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>11.095371</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3832</Track3:ColorTemperatures>
+ <Track3:TimeStamp>11.095371</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 22 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>11.128697</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>11.104478</Track3:TimeStamp>
+ <Track3:TimeStamp>11.095371</Track3:TimeStamp>
+ <Track3:InputUniformity>0.4580078125</Track3:InputUniformity>
+ <Track3:TimeStamp>11.104478</Track3:TimeStamp>
+ <Track3:TimeStamp>11.104478</Track3:TimeStamp>
+ <Track3:TimeStamp>11.110104</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:34.845</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.95</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.64&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.02&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.468 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.018</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.01</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>11.629238</Track3:TimeStamp>
+ <Track3:TimeStamp>11.629238</Track3:TimeStamp>
+ <Track3:TimeStamp>11.162071</Track3:TimeStamp>
+ <Track3:TimeStamp>11.629238</Track3:TimeStamp>
+ <Track3:SampleTime>0.87 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>11.628145</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.67578125 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>11.628145</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.67578125 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 41 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>11.626552</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-11 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>11.629202</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>11.595871</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3909</Track3:ColorTemperatures>
+ <Track3:TimeStamp>11.595871</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 26 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>11.629202</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>11.611016</Track3:TimeStamp>
+ <Track3:TimeStamp>11.595871</Track3:TimeStamp>
+ <Track3:InputUniformity>0.4580078125</Track3:InputUniformity>
+ <Track3:TimeStamp>11.611016</Track3:TimeStamp>
+ <Track3:TimeStamp>11.611016</Track3:TimeStamp>
+ <Track3:TimeStamp>11.603822</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:34.900</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.95</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.64&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.02&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.443 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.015</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.01</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>12.129738</Track3:TimeStamp>
+ <Track3:TimeStamp>12.129738</Track3:TimeStamp>
+ <Track3:TimeStamp>11.662571</Track3:TimeStamp>
+ <Track3:TimeStamp>12.129738</Track3:TimeStamp>
+ <Track3:SampleTime>0.90 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>12.131529</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.740234375 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>12.131529</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.740234375 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 41 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>12.144914</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-11 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>12.129707</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>12.096371</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3909</Track3:ColorTemperatures>
+ <Track3:TimeStamp>12.096371</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 26 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>12.129707</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>12.146612</Track3:TimeStamp>
+ <Track3:TimeStamp>12.096371</Track3:TimeStamp>
+ <Track3:InputUniformity>0.47216796875</Track3:InputUniformity>
+ <Track3:TimeStamp>12.146612</Track3:TimeStamp>
+ <Track3:TimeStamp>12.146612</Track3:TimeStamp>
+ <Track3:TimeStamp>12.15006</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:34.955</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.95</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.64&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.02&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.425 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.018</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.01</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>12.630238</Track3:TimeStamp>
+ <Track3:TimeStamp>12.630238</Track3:TimeStamp>
+ <Track3:TimeStamp>12.163071</Track3:TimeStamp>
+ <Track3:TimeStamp>12.630238</Track3:TimeStamp>
+ <Track3:SampleTime>0.93 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>12.630029</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.728515625 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>12.630029</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.728515625 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 41 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>12.62339</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-11 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>12.630212</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>12.596871</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3994</Track3:ColorTemperatures>
+ <Track3:TimeStamp>12.596871</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 25 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>12.630212</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>12.659245</Track3:TimeStamp>
+ <Track3:TimeStamp>12.596871</Track3:TimeStamp>
+ <Track3:InputUniformity>0.507568359375</Track3:InputUniformity>
+ <Track3:TimeStamp>12.659245</Track3:TimeStamp>
+ <Track3:TimeStamp>12.659245</Track3:TimeStamp>
+ <Track3:TimeStamp>12.637683</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:36.660</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.95</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.64&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.02&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.419 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.014</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.01</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>13.130738</Track3:TimeStamp>
+ <Track3:TimeStamp>13.130738</Track3:TimeStamp>
+ <Track3:TimeStamp>12.663571</Track3:TimeStamp>
+ <Track3:TimeStamp>13.130738</Track3:TimeStamp>
+ <Track3:SampleTime>0.97 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>13.128529</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.744140625 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>13.128529</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.744140625 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 41 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>13.141739</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-11 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>13.130702</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>13.097371</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3962</Track3:ColorTemperatures>
+ <Track3:TimeStamp>13.097371</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 26 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>13.130702</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>13.170626</Track3:TimeStamp>
+ <Track3:TimeStamp>13.097371</Track3:TimeStamp>
+ <Track3:InputUniformity>0.4580078125</Track3:InputUniformity>
+ <Track3:TimeStamp>13.170626</Track3:TimeStamp>
+ <Track3:TimeStamp>13.170626</Track3:TimeStamp>
+ <Track3:TimeStamp>13.132361</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:36.880</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.68</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.64&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.02&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.432 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.015</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.01</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>13.631238</Track3:TimeStamp>
+ <Track3:TimeStamp>13.631238</Track3:TimeStamp>
+ <Track3:TimeStamp>13.164071</Track3:TimeStamp>
+ <Track3:TimeStamp>13.631238</Track3:TimeStamp>
+ <Track3:SampleTime>1.00 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>13.631913</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.7421875 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>13.631913</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.7421875 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 23 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>13.620215</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-11 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>13.631192</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>13.597871</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3986</Track3:ColorTemperatures>
+ <Track3:TimeStamp>13.597871</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 20 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>13.631192</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>13.680466</Track3:TimeStamp>
+ <Track3:TimeStamp>13.597871</Track3:TimeStamp>
+ <Track3:InputUniformity>0.4580078125</Track3:InputUniformity>
+ <Track3:TimeStamp>13.680466</Track3:TimeStamp>
+ <Track3:TimeStamp>13.680466</Track3:TimeStamp>
+ <Track3:TimeStamp>13.626896</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:36.935</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.68</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.64&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.02&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.443 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.015</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.01</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>14.131738</Track3:TimeStamp>
+ <Track3:TimeStamp>14.131738</Track3:TimeStamp>
+ <Track3:TimeStamp>13.664571</Track3:TimeStamp>
+ <Track3:TimeStamp>14.131738</Track3:TimeStamp>
+ <Track3:SampleTime>1.03 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>14.130313</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.75390625 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>14.130313</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.75390625 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 23 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>14.138577</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-12 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>14.131697</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>14.098371</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3943</Track3:ColorTemperatures>
+ <Track3:TimeStamp>14.098371</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 24 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>14.131697</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>14.19421</Track3:TimeStamp>
+ <Track3:TimeStamp>14.098371</Track3:TimeStamp>
+ <Track3:InputUniformity>0.47216796875</Track3:InputUniformity>
+ <Track3:TimeStamp>14.19421</Track3:TimeStamp>
+ <Track3:TimeStamp>14.19421</Track3:TimeStamp>
+ <Track3:TimeStamp>14.122832</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:36.990</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.68</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.65&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.02&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.459 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.016</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.01</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>14.632238</Track3:TimeStamp>
+ <Track3:TimeStamp>14.632238</Track3:TimeStamp>
+ <Track3:TimeStamp>14.165071</Track3:TimeStamp>
+ <Track3:TimeStamp>14.632238</Track3:TimeStamp>
+ <Track3:SampleTime>1.07 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>14.633697</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.75 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>14.633697</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.75 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 23 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>14.617065</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-11 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>14.632202</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>14.598871</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3875</Track3:ColorTemperatures>
+ <Track3:TimeStamp>14.598871</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 27 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>14.632202</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>14.606342</Track3:TimeStamp>
+ <Track3:TimeStamp>14.598871</Track3:TimeStamp>
+ <Track3:InputUniformity>0.486328125</Track3:InputUniformity>
+ <Track3:TimeStamp>14.606342</Track3:TimeStamp>
+ <Track3:TimeStamp>14.606342</Track3:TimeStamp>
+ <Track3:TimeStamp>14.618715</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:38.695</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.68</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.65&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.02&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.49 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.015</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.01</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>15.132738</Track3:TimeStamp>
+ <Track3:TimeStamp>15.132738</Track3:TimeStamp>
+ <Track3:TimeStamp>14.665571</Track3:TimeStamp>
+ <Track3:TimeStamp>15.132738</Track3:TimeStamp>
+ <Track3:SampleTime>1.10 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>15.132097</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.7421875 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>15.132097</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.7421875 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 41 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>15.135427</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-11 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>15.132707</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>15.099371</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3823</Track3:ColorTemperatures>
+ <Track3:TimeStamp>15.099371</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 26 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>15.132707</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>15.122043</Track3:TimeStamp>
+ <Track3:TimeStamp>15.099371</Track3:TimeStamp>
+ <Track3:InputUniformity>0.4580078125</Track3:InputUniformity>
+ <Track3:TimeStamp>15.122043</Track3:TimeStamp>
+ <Track3:TimeStamp>15.122043</Track3:TimeStamp>
+ <Track3:TimeStamp>15.11593</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:38.860</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.68</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.65&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.02&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.545 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.026</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.03</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>15.633238</Track3:TimeStamp>
+ <Track3:TimeStamp>15.633238</Track3:TimeStamp>
+ <Track3:TimeStamp>15.166071</Track3:TimeStamp>
+ <Track3:TimeStamp>15.633238</Track3:TimeStamp>
+ <Track3:SampleTime>1.13 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>15.635481</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.755859375 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>15.635481</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.755859375 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 23 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>15.613915</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-12 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>15.633212</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>15.599871</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3763</Track3:ColorTemperatures>
+ <Track3:TimeStamp>15.599871</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 25 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>15.633212</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>15.638484</Track3:TimeStamp>
+ <Track3:TimeStamp>15.599871</Track3:TimeStamp>
+ <Track3:InputUniformity>0.4580078125</Track3:InputUniformity>
+ <Track3:TimeStamp>15.638484</Track3:TimeStamp>
+ <Track3:TimeStamp>15.638484</Track3:TimeStamp>
+ <Track3:TimeStamp>15.612426</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:38.915</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.68</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.65&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.02&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.597 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.022</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.02</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>16.133738</Track3:TimeStamp>
+ <Track3:TimeStamp>16.133738</Track3:TimeStamp>
+ <Track3:TimeStamp>15.666571</Track3:TimeStamp>
+ <Track3:TimeStamp>16.133738</Track3:TimeStamp>
+ <Track3:SampleTime>1.17 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>16.133881</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.791015625 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>16.133881</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.791015625 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 41 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>16.132277</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-12 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>16.133717</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>16.100371</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3774</Track3:ColorTemperatures>
+ <Track3:TimeStamp>16.100371</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 26 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>16.133717</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>16.174448</Track3:TimeStamp>
+ <Track3:TimeStamp>16.100371</Track3:TimeStamp>
+ <Track3:InputUniformity>0.4580078125</Track3:InputUniformity>
+ <Track3:TimeStamp>16.174448</Track3:TimeStamp>
+ <Track3:TimeStamp>16.174448</Track3:TimeStamp>
+ <Track3:TimeStamp>16.109287</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:38.970</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.68</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.65&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.02&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.652 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.022</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.02</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>16.634238</Track3:TimeStamp>
+ <Track3:TimeStamp>16.634238</Track3:TimeStamp>
+ <Track3:TimeStamp>16.167071</Track3:TimeStamp>
+ <Track3:TimeStamp>16.634238</Track3:TimeStamp>
+ <Track3:SampleTime>1.20 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>16.632281</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.771484375 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>16.632281</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.771484375 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 23 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>16.650626</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-11 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>16.634207</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>16.600871</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3731</Track3:ColorTemperatures>
+ <Track3:TimeStamp>16.600871</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 26 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>16.634207</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>16.593188</Track3:TimeStamp>
+ <Track3:TimeStamp>16.600871</Track3:TimeStamp>
+ <Track3:InputUniformity>0.4580078125</Track3:InputUniformity>
+ <Track3:TimeStamp>16.593188</Track3:TimeStamp>
+ <Track3:TimeStamp>16.593188</Track3:TimeStamp>
+ <Track3:TimeStamp>16.659648</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:40.675</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.68</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.65&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.02&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.712 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.016</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.01</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>17.134738</Track3:TimeStamp>
+ <Track3:TimeStamp>17.134738</Track3:TimeStamp>
+ <Track3:TimeStamp>16.667571</Track3:TimeStamp>
+ <Track3:TimeStamp>17.134738</Track3:TimeStamp>
+ <Track3:SampleTime>1.23 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>17.135665</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.775390625 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>17.135665</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.775390625 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 23 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>17.129102</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-11 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>17.134697</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>17.101371</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3763</Track3:ColorTemperatures>
+ <Track3:TimeStamp>17.101371</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 24 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>17.134697</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>17.11274</Track3:TimeStamp>
+ <Track3:TimeStamp>17.101371</Track3:TimeStamp>
+ <Track3:InputUniformity>0.4580078125</Track3:InputUniformity>
+ <Track3:TimeStamp>17.11274</Track3:TimeStamp>
+ <Track3:TimeStamp>17.11274</Track3:TimeStamp>
+ <Track3:TimeStamp>17.156016</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:40.840</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.68</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.65&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.02&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.754 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.025</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.02</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>17.635238</Track3:TimeStamp>
+ <Track3:TimeStamp>17.635238</Track3:TimeStamp>
+ <Track3:TimeStamp>17.168071</Track3:TimeStamp>
+ <Track3:TimeStamp>17.635238</Track3:TimeStamp>
+ <Track3:SampleTime>1.27 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>17.634065</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.77734375 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>17.634065</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.77734375 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 41 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>17.647451</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-11 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>17.635187</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>17.601871</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3762</Track3:ColorTemperatures>
+ <Track3:TimeStamp>17.601871</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 24 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>17.635187</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>17.629572</Track3:TimeStamp>
+ <Track3:TimeStamp>17.601871</Track3:TimeStamp>
+ <Track3:InputUniformity>0.4580078125</Track3:InputUniformity>
+ <Track3:TimeStamp>17.629572</Track3:TimeStamp>
+ <Track3:TimeStamp>17.629572</Track3:TimeStamp>
+ <Track3:TimeStamp>17.652372</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:40.950</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.68</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.65&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.02&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.789 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.018</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.02</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>18.135738</Track3:TimeStamp>
+ <Track3:TimeStamp>18.135738</Track3:TimeStamp>
+ <Track3:TimeStamp>17.668571</Track3:TimeStamp>
+ <Track3:TimeStamp>18.135738</Track3:TimeStamp>
+ <Track3:SampleTime>1.30 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>18.13755</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.78125 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>18.13755</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.78125 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 41 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>18.125939</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-12 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>18.135692</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>18.102371</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3771</Track3:ColorTemperatures>
+ <Track3:TimeStamp>18.102371</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 27 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>18.135692</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>18.149852</Track3:TimeStamp>
+ <Track3:TimeStamp>18.102371</Track3:TimeStamp>
+ <Track3:InputUniformity>0.465087890625</Track3:InputUniformity>
+ <Track3:TimeStamp>18.149852</Track3:TimeStamp>
+ <Track3:TimeStamp>18.149852</Track3:TimeStamp>
+ <Track3:TimeStamp>18.146574</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:41.005</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.68</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.65&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.02&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.842 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.02</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.02</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>18.636238</Track3:TimeStamp>
+ <Track3:TimeStamp>18.636238</Track3:TimeStamp>
+ <Track3:TimeStamp>18.169071</Track3:TimeStamp>
+ <Track3:TimeStamp>18.636238</Track3:TimeStamp>
+ <Track3:SampleTime>1.33 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>18.63595</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.8046875 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>18.63595</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.8046875 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 23 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>18.644301</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-11 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>18.636197</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>18.602871</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3746</Track3:ColorTemperatures>
+ <Track3:TimeStamp>18.602871</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 17 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>18.636197</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>18.659432</Track3:TimeStamp>
+ <Track3:TimeStamp>18.602871</Track3:TimeStamp>
+ <Track3:InputUniformity>0.465087890625</Track3:InputUniformity>
+ <Track3:TimeStamp>18.659432</Track3:TimeStamp>
+ <Track3:TimeStamp>18.659432</Track3:TimeStamp>
+ <Track3:TimeStamp>18.642224</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:42.000</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.68</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.65&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.02&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.886 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.014</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.01</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>19.136738</Track3:TimeStamp>
+ <Track3:TimeStamp>19.136738</Track3:TimeStamp>
+ <Track3:TimeStamp>18.669571</Track3:TimeStamp>
+ <Track3:TimeStamp>19.136738</Track3:TimeStamp>
+ <Track3:SampleTime>1.37 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>19.13435</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.798828125 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 54 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>19.13435</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.798828125 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 41 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>19.122789</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-12 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>19.136702</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>19.103371</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3760</Track3:ColorTemperatures>
+ <Track3:TimeStamp>19.103371</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 25 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>19.136702</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>19.169058</Track3:TimeStamp>
+ <Track3:TimeStamp>19.103371</Track3:TimeStamp>
+ <Track3:InputUniformity>0.4580078125</Track3:InputUniformity>
+ <Track3:TimeStamp>19.169058</Track3:TimeStamp>
+ <Track3:TimeStamp>19.169058</Track3:TimeStamp>
+ <Track3:TimeStamp>19.13865</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:42.000</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.68</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.65&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.02&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.911 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.021</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.02</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>19.637238</Track3:TimeStamp>
+ <Track3:TimeStamp>19.637238</Track3:TimeStamp>
+ <Track3:TimeStamp>19.170071</Track3:TimeStamp>
+ <Track3:TimeStamp>19.637238</Track3:TimeStamp>
+ <Track3:SampleTime>1.40 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>19.637734</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.79296875 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>19.637734</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.79296875 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 23 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>19.641151</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-12 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>19.637207</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>19.603871</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3751</Track3:ColorTemperatures>
+ <Track3:TimeStamp>19.603871</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 20 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>19.637207</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>19.677666</Track3:TimeStamp>
+ <Track3:TimeStamp>19.603871</Track3:TimeStamp>
+ <Track3:InputUniformity>0.4580078125</Track3:InputUniformity>
+ <Track3:TimeStamp>19.677666</Track3:TimeStamp>
+ <Track3:TimeStamp>19.677666</Track3:TimeStamp>
+ <Track3:TimeStamp>19.635302</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:42.050</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.68</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.65&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.02&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.923 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.017</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.01</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>20.137738</Track3:TimeStamp>
+ <Track3:TimeStamp>20.137738</Track3:TimeStamp>
+ <Track3:TimeStamp>19.670571</Track3:TimeStamp>
+ <Track3:TimeStamp>20.137738</Track3:TimeStamp>
+ <Track3:SampleTime>1.43 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>20.136134</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.8203125 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>20.136134</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.8203125 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 23 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>20.119639</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-11 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>20.137712</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>20.104371</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3734</Track3:ColorTemperatures>
+ <Track3:TimeStamp>20.104371</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 24 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>20.137712</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>20.187384</Track3:TimeStamp>
+ <Track3:TimeStamp>20.104371</Track3:TimeStamp>
+ <Track3:InputUniformity>0.4580078125</Track3:InputUniformity>
+ <Track3:TimeStamp>20.187384</Track3:TimeStamp>
+ <Track3:TimeStamp>20.187384</Track3:TimeStamp>
+ <Track3:TimeStamp>20.131428</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:42.050</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.68</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.65&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.02&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.932 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.025</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.03</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>20.638238</Track3:TimeStamp>
+ <Track3:TimeStamp>20.638238</Track3:TimeStamp>
+ <Track3:TimeStamp>20.171071</Track3:TimeStamp>
+ <Track3:TimeStamp>20.638238</Track3:TimeStamp>
+ <Track3:SampleTime>1.47 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>20.639518</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.791015625 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>20.639518</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.791015625 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 41 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>20.638001</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-12 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>20.638217</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>20.604871</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3725</Track3:ColorTemperatures>
+ <Track3:TimeStamp>20.604871</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 24 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>20.638217</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>20.595156</Track3:TimeStamp>
+ <Track3:TimeStamp>20.604871</Track3:TimeStamp>
+ <Track3:InputUniformity>0.479248046875</Track3:InputUniformity>
+ <Track3:TimeStamp>20.595156</Track3:TimeStamp>
+ <Track3:TimeStamp>20.595156</Track3:TimeStamp>
+ <Track3:TimeStamp>20.623548</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:42.160</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.68</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.65&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.02&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.959 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.015</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.01</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>21.138738</Track3:TimeStamp>
+ <Track3:TimeStamp>21.138738</Track3:TimeStamp>
+ <Track3:TimeStamp>20.671571</Track3:TimeStamp>
+ <Track3:TimeStamp>21.138738</Track3:TimeStamp>
+ <Track3:SampleTime>1.50 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>21.137918</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.787109375 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>21.137918</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.787109375 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 41 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>21.156363</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-11 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>21.138722</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>21.105371</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3725</Track3:ColorTemperatures>
+ <Track3:TimeStamp>21.105371</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 27 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>21.138722</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>21.11846</Track3:TimeStamp>
+ <Track3:TimeStamp>21.105371</Track3:TimeStamp>
+ <Track3:InputUniformity>0.4580078125</Track3:InputUniformity>
+ <Track3:TimeStamp>21.11846</Track3:TimeStamp>
+ <Track3:TimeStamp>21.11846</Track3:TimeStamp>
+ <Track3:TimeStamp>21.116624</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:42.160</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.68</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.65&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.02&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>71.993 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.025</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.02</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>21.639238</Track3:TimeStamp>
+ <Track3:TimeStamp>21.639238</Track3:TimeStamp>
+ <Track3:TimeStamp>21.172071</Track3:TimeStamp>
+ <Track3:TimeStamp>21.639238</Track3:TimeStamp>
+ <Track3:SampleTime>1.53 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>21.641403</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.765625 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>21.641403</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.765625 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 41 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>21.634851</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-12 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>21.639227</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>21.605871</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3791</Track3:ColorTemperatures>
+ <Track3:TimeStamp>21.605871</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 21 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>21.639227</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>21.633106</Track3:TimeStamp>
+ <Track3:TimeStamp>21.605871</Track3:TimeStamp>
+ <Track3:InputUniformity>0.4580078125</Track3:InputUniformity>
+ <Track3:TimeStamp>21.633106</Track3:TimeStamp>
+ <Track3:TimeStamp>21.633106</Track3:TimeStamp>
+ <Track3:TimeStamp>21.66563</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:42.215</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.68</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.66&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.02&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>72.035 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.032</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.03</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>22.139738</Track3:TimeStamp>
+ <Track3:TimeStamp>22.139738</Track3:TimeStamp>
+ <Track3:TimeStamp>21.672571</Track3:TimeStamp>
+ <Track3:TimeStamp>22.139738</Track3:TimeStamp>
+ <Track3:SampleTime>1.57 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>22.139903</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.791015625 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>22.139903</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.791015625 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 41 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>22.153213</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-11 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>22.139736</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>22.106371</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3788</Track3:ColorTemperatures>
+ <Track3:TimeStamp>22.106371</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 27 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>22.139736</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>22.145572</Track3:TimeStamp>
+ <Track3:TimeStamp>22.106371</Track3:TimeStamp>
+ <Track3:InputUniformity>0.479248046875</Track3:InputUniformity>
+ <Track3:TimeStamp>22.145572</Track3:TimeStamp>
+ <Track3:TimeStamp>22.145572</Track3:TimeStamp>
+ <Track3:TimeStamp>22.164566</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:42.215</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.68</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.66&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.02&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>72.079 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.014</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.01</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>22.640238</Track3:TimeStamp>
+ <Track3:TimeStamp>22.640238</Track3:TimeStamp>
+ <Track3:TimeStamp>22.173071</Track3:TimeStamp>
+ <Track3:TimeStamp>22.640238</Track3:TimeStamp>
+ <Track3:SampleTime>1.60 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>22.638403</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.81640625 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>22.638403</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.81640625 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 41 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>22.631689</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-12 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>22.640229</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>22.606871</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3823</Track3:ColorTemperatures>
+ <Track3:TimeStamp>22.606871</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 26 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>22.640229</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>22.659516</Track3:TimeStamp>
+ <Track3:TimeStamp>22.606871</Track3:TimeStamp>
+ <Track3:InputUniformity>0.4580078125</Track3:InputUniformity>
+ <Track3:TimeStamp>22.659516</Track3:TimeStamp>
+ <Track3:TimeStamp>22.659516</Track3:TimeStamp>
+ <Track3:TimeStamp>22.612216</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:42.270</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.68</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.66&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.02&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>72.108 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.014</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.01</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>23.140738</Track3:TimeStamp>
+ <Track3:TimeStamp>23.140738</Track3:TimeStamp>
+ <Track3:TimeStamp>22.673571</Track3:TimeStamp>
+ <Track3:TimeStamp>23.140738</Track3:TimeStamp>
+ <Track3:SampleTime>1.63 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>23.141888</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.794921875 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>23.141888</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.794921875 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 41 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>23.150058</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-12 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>23.140734</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>23.107371</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3855</Track3:ColorTemperatures>
+ <Track3:TimeStamp>23.107371</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 23 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>23.140734</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>23.161064</Track3:TimeStamp>
+ <Track3:TimeStamp>23.107371</Track3:TimeStamp>
+ <Track3:InputUniformity>0.4580078125</Track3:InputUniformity>
+ <Track3:TimeStamp>23.161064</Track3:TimeStamp>
+ <Track3:TimeStamp>23.161064</Track3:TimeStamp>
+ <Track3:TimeStamp>23.107234</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:42.270</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.68</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.66&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.02&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>72.158 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.016</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.01</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>23.641238</Track3:TimeStamp>
+ <Track3:TimeStamp>23.641238</Track3:TimeStamp>
+ <Track3:TimeStamp>23.174071</Track3:TimeStamp>
+ <Track3:TimeStamp>23.641238</Track3:TimeStamp>
+ <Track3:SampleTime>1.67 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>23.640388</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.767578125 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>23.640388</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.767578125 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 41 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>23.628534</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-12 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>23.641234</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>23.607871</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3869</Track3:ColorTemperatures>
+ <Track3:TimeStamp>23.607871</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 27 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>23.641234</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>23.661432</Track3:TimeStamp>
+ <Track3:TimeStamp>23.607871</Track3:TimeStamp>
+ <Track3:InputUniformity>0.4580078125</Track3:InputUniformity>
+ <Track3:TimeStamp>23.661432</Track3:TimeStamp>
+ <Track3:TimeStamp>23.661432</Track3:TimeStamp>
+ <Track3:TimeStamp>23.65345</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:42.325</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.68</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.66&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.03&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>72.205 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.021</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.02</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>24.141738</Track3:TimeStamp>
+ <Track3:TimeStamp>24.141738</Track3:TimeStamp>
+ <Track3:TimeStamp>23.674571</Track3:TimeStamp>
+ <Track3:TimeStamp>24.141738</Track3:TimeStamp>
+ <Track3:SampleTime>1.70 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>24.143889</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.810546875 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>24.143889</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.810546875 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 41 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>24.1469</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-12 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>24.141734</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>24.108371</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3912</Track3:ColorTemperatures>
+ <Track3:TimeStamp>24.108371</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 26 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>24.141734</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>24.162698</Track3:TimeStamp>
+ <Track3:TimeStamp>24.108371</Track3:TimeStamp>
+ <Track3:InputUniformity>0.4580078125</Track3:InputUniformity>
+ <Track3:TimeStamp>24.162698</Track3:TimeStamp>
+ <Track3:TimeStamp>24.162698</Track3:TimeStamp>
+ <Track3:TimeStamp>24.148164</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:42.325</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.68</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.66&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.03&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>72.262 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.015</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.01</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>24.642238</Track3:TimeStamp>
+ <Track3:TimeStamp>24.642238</Track3:TimeStamp>
+ <Track3:TimeStamp>24.175071</Track3:TimeStamp>
+ <Track3:TimeStamp>24.642238</Track3:TimeStamp>
+ <Track3:SampleTime>1.74 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>24.642289</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.79296875 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>24.642289</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.79296875 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 23 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>24.625387</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-12 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>24.642236</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>24.608871</Track3:TimeStamp>
+ <Track3:ColorTemperatures>3977</Track3:ColorTemperatures>
+ <Track3:TimeStamp>24.608871</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 23 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>24.642236</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>24.659178</Track3:TimeStamp>
+ <Track3:TimeStamp>24.608871</Track3:TimeStamp>
+ <Track3:InputUniformity>0.4580078125</Track3:InputUniformity>
+ <Track3:TimeStamp>24.659178</Track3:TimeStamp>
+ <Track3:TimeStamp>24.659178</Track3:TimeStamp>
+ <Track3:TimeStamp>24.64592</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:42.380</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.68</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.66&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.03&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>72.306 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.015</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.01</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>25.142738</Track3:TimeStamp>
+ <Track3:TimeStamp>25.142738</Track3:TimeStamp>
+ <Track3:TimeStamp>24.675571</Track3:TimeStamp>
+ <Track3:TimeStamp>25.142738</Track3:TimeStamp>
+ <Track3:SampleTime>1.77 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>25.14073</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.80078125 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>25.14073</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.80078125 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 41 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>25.143747</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-12 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>25.142729</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>25.109371</Track3:TimeStamp>
+ <Track3:ColorTemperatures>4067</Track3:ColorTemperatures>
+ <Track3:TimeStamp>25.109371</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 25 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>25.142729</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>25.156014</Track3:TimeStamp>
+ <Track3:TimeStamp>25.109371</Track3:TimeStamp>
+ <Track3:InputUniformity>0.4580078125</Track3:InputUniformity>
+ <Track3:TimeStamp>25.156014</Track3:TimeStamp>
+ <Track3:TimeStamp>25.156014</Track3:TimeStamp>
+ <Track3:TimeStamp>25.140484</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:42.380</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.68</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.66&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.03&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>72.331 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.047</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.04</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>25.643238</Track3:TimeStamp>
+ <Track3:TimeStamp>25.643238</Track3:TimeStamp>
+ <Track3:TimeStamp>25.176071</Track3:TimeStamp>
+ <Track3:TimeStamp>25.643238</Track3:TimeStamp>
+ <Track3:SampleTime>1.80 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>25.644141</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.83203125 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 55 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>25.644141</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.83203125 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 23 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>25.662109</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-12 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>25.643233</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>25.609871</Track3:TimeStamp>
+ <Track3:ColorTemperatures>4129</Track3:ColorTemperatures>
+ <Track3:TimeStamp>25.609871</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 25 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>25.643233</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>25.662202</Track3:TimeStamp>
+ <Track3:TimeStamp>25.609871</Track3:TimeStamp>
+ <Track3:InputUniformity>0.4580078125</Track3:InputUniformity>
+ <Track3:TimeStamp>25.662202</Track3:TimeStamp>
+ <Track3:TimeStamp>25.662202</Track3:TimeStamp>
+ <Track3:TimeStamp>25.63943</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:42.490</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.68</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.66&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.03&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>72.345 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.026</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.02</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>26.143738</Track3:TimeStamp>
+ <Track3:TimeStamp>26.143738</Track3:TimeStamp>
+ <Track3:TimeStamp>25.676571</Track3:TimeStamp>
+ <Track3:TimeStamp>26.143738</Track3:TimeStamp>
+ <Track3:SampleTime>1.84 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.03 s</Track3:SampleDuration>
+ <Track3:DeviceName>GoPro Max</Track3:DeviceName>
+ <Track3:TimeStamp>26.142577</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.83203125 C</Track3:CameraTemperature>
+ <Track3:Accelerometer>(Binary data 53 bytes, use -b option to extract)</Track3:Accelerometer>
+ <Track3:TimeStamp>26.142577</Track3:TimeStamp>
+ <Track3:AccelerometerMatrix>0 -1 0 1 0 0 0 0 1</Track3:AccelerometerMatrix>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:CameraTemperature>29.83203125 C</Track3:CameraTemperature>
+ <Track3:Gyroscope>(Binary data 60 bytes, use -b option to extract)</Track3:Gyroscope>
+ <Track3:TimeStamp>26.14059</Track3:TimeStamp>
+ <Track3:InputOrientation>XzY</Track3:InputOrientation>
+ <Track3:OutputOrientation>ZXY</Track3:OutputOrientation>
+ <Track3:Magnetometer>-12 0 61</Track3:Magnetometer>
+ <Track3:TimeStamp>26.143736</Track3:TimeStamp>
+ <Track3:ExposureTimes>1/31</Track3:ExposureTimes>
+ <Track3:TimeStamp>26.110371</Track3:TimeStamp>
+ <Track3:ColorTemperatures>4084</Track3:ColorTemperatures>
+ <Track3:TimeStamp>26.110371</Track3:TimeStamp>
+ <Track3:WhiteBalanceRGB>(Binary data 22 bytes, use -b option to extract)</Track3:WhiteBalanceRGB>
+ <Track3:TimeStamp>26.143736</Track3:TimeStamp>
+ <Track3:ISOSpeeds>1594</Track3:ISOSpeeds>
+ <Track3:TimeStamp>26.18759</Track3:TimeStamp>
+ <Track3:TimeStamp>26.110371</Track3:TimeStamp>
+ <Track3:InputUniformity>0.486328125</Track3:InputUniformity>
+ <Track3:TimeStamp>26.18759</Track3:TimeStamp>
+ <Track3:TimeStamp>26.18759</Track3:TimeStamp>
+ <Track3:TimeStamp>26.140262</Track3:TimeStamp>
+ <Track3:GPSMeasureMode>3-Dimensional Measurement</Track3:GPSMeasureMode>
+ <Track3:GPSDateTime>2021:12:19 19:54:42.490</Track3:GPSDateTime>
+ <Track3:GPSHPositioningError>1.68</Track3:GPSHPositioningError>
+ <Track3:GPSLatitude>51 deg 16&#39; 20.66&quot; N</Track3:GPSLatitude>
+ <Track3:GPSLongitude>0 deg 50&#39; 45.03&quot; W</Track3:GPSLongitude>
+ <Track3:GPSAltitude>72.341 m</Track3:GPSAltitude>
+ <Track3:GPSSpeed>0.037</Track3:GPSSpeed>
+ <Track3:GPSSpeed3D>0.05</Track3:GPSSpeed3D>
+ <Track3:TimeStamp>26.177071</Track3:TimeStamp>
+ <Track3:TimeStamp>26.177071</Track3:TimeStamp>
+ <Track3:TimeStamp>26.177071</Track3:TimeStamp>
+ <Track3:TimeStamp>26.177071</Track3:TimeStamp>
+ <Track4:TrackHeaderVersion>0</Track4:TrackHeaderVersion>
+ <Track4:TrackCreateDate>2021:12:19 21:04:24</Track4:TrackCreateDate>
+ <Track4:TrackModifyDate>2021:12:19 21:04:24</Track4:TrackModifyDate>
+ <Track4:TrackID>4</Track4:TrackID>
+ <Track4:TrackDuration>1.84 s</Track4:TrackDuration>
+ <Track4:TrackLayer>0</Track4:TrackLayer>
+ <Track4:TrackVolume>0.00%</Track4:TrackVolume>
+ <Track4:MatrixStructure>1 0 0 0 1 0 0 0 1</Track4:MatrixStructure>
+ <Track4:MediaHeaderVersion>0</Track4:MediaHeaderVersion>
+ <Track4:MediaCreateDate>2021:12:19 21:04:24</Track4:MediaCreateDate>
+ <Track4:MediaModifyDate>2021:12:19 21:04:24</Track4:MediaModifyDate>
+ <Track4:MediaTimeScale>90000</Track4:MediaTimeScale>
+ <Track4:MediaDuration>1.84 s</Track4:MediaDuration>
+ <Track4:HandlerClass>Media Handler</Track4:HandlerClass>
+ <Track4:HandlerType>NRT Metadata</Track4:HandlerType>
+ <Track4:HandlerDescription>GoPro SOS  </Track4:HandlerDescription>
+ <Track4:GenMediaVersion>0</Track4:GenMediaVersion>
+ <Track4:GenFlags>0 0 0</Track4:GenFlags>
+ <Track4:GenGraphicsMode>srcCopy</Track4:GenGraphicsMode>
+ <Track4:GenOpColor>0 0 0</Track4:GenOpColor>
+ <Track4:GenBalance>0</Track4:GenBalance>
+ <Track4:MetaFormat>fdsc</Track4:MetaFormat>
+ <Track4:SampleTime>0 s</Track4:SampleTime>
+ <Track4:SampleDuration>0 s</Track4:SampleDuration>
+ <Track4:FirmwareVersion>H19.03.02.00.00</Track4:FirmwareVersion>
+ <Track4:SerialNumber>C33613B25523881</Track4:SerialNumber>
+ <Track4:OtherSerialNumber>C3351324612139</Track4:OtherSerialNumber>
+ <Track4:Model>GoPro Max</Track4:Model>
+ <Composite:ImageSize>1920x1080</Composite:ImageSize>
+ <Composite:Megapixels>2.1</Composite:Megapixels>
+ <Composite:AvgBitrate>61.5 Mbps</Composite:AvgBitrate>
+ <Composite:GPSLatitude>51 deg 16&#39; 20.64&quot; N</Composite:GPSLatitude>
+ <Composite:GPSLongitude>0 deg 50&#39; 44.88&quot; W</Composite:GPSLongitude>
+ <Composite:Rotation>0</Composite:Rotation>
+ <Composite:GPSPosition>51 deg 16&#39; 20.64&quot; N, 0 deg 50&#39; 44.88&quot; W</Composite:GPSPosition>
+</rdf:Description>
+</rdf:RDF>
