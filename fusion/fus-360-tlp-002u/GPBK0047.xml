@@ -1,0 +1,513 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+<rdf:Description rdf:about='GPBK0047.MP4'
+  xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 12.36'
+  xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
+  xmlns:System='http://ns.exiftool.org/File/System/1.0/'
+  xmlns:File='http://ns.exiftool.org/File/1.0/'
+  xmlns:QuickTime='http://ns.exiftool.org/QuickTime/QuickTime/1.0/'
+  xmlns:UserData='http://ns.exiftool.org/QuickTime/UserData/1.0/'
+  xmlns:GoPro='http://ns.exiftool.org/QuickTime/GoPro/1.0/'
+  xmlns:Track1='http://ns.exiftool.org/QuickTime/Track1/1.0/'
+  xmlns:Track2='http://ns.exiftool.org/QuickTime/Track2/1.0/'
+  xmlns:Track3='http://ns.exiftool.org/QuickTime/Track3/1.0/'
+  xmlns:Track4='http://ns.exiftool.org/QuickTime/Track4/1.0/'
+  xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
+ <ExifTool:ExifToolVersion>12.36</ExifTool:ExifToolVersion>
+ <System:FileName>GPBK0047.MP4</System:FileName>
+ <System:Directory>.</System:Directory>
+ <System:FileSize>9.2 MiB</System:FileSize>
+ <System:FileModifyDate>2018:01:03 07:32:50+00:00</System:FileModifyDate>
+ <System:FileAccessDate>2021:12:26 16:24:10+00:00</System:FileAccessDate>
+ <System:FileInodeChangeDate>2021:12:26 16:36:56+00:00</System:FileInodeChangeDate>
+ <System:FilePermissions>-rwxrwxrwx</System:FilePermissions>
+ <File:FileType>MP4</File:FileType>
+ <File:FileTypeExtension>mp4</File:FileTypeExtension>
+ <File:MIMEType>video/mp4</File:MIMEType>
+ <QuickTime:MajorBrand>MP4 v1 [ISO 14496-1:ch13]</QuickTime:MajorBrand>
+ <QuickTime:MinorVersion>2013.10.18</QuickTime:MinorVersion>
+ <QuickTime:CompatibleBrands>
+  <rdf:Bag>
+   <rdf:li>mp41</rdf:li>
+  </rdf:Bag>
+ </QuickTime:CompatibleBrands>
+ <QuickTime:MediaDataSize>9596688</QuickTime:MediaDataSize>
+ <QuickTime:MediaDataOffset>28</QuickTime:MediaDataOffset>
+ <QuickTime:MovieHeaderVersion>0</QuickTime:MovieHeaderVersion>
+ <QuickTime:CreateDate>2018:01:03 07:31:39</QuickTime:CreateDate>
+ <QuickTime:ModifyDate>2018:01:03 07:31:39</QuickTime:ModifyDate>
+ <QuickTime:TimeScale>90000</QuickTime:TimeScale>
+ <QuickTime:Duration>1.17 s</QuickTime:Duration>
+ <QuickTime:PreferredRate>1</QuickTime:PreferredRate>
+ <QuickTime:PreferredVolume>100.00%</QuickTime:PreferredVolume>
+ <QuickTime:MatrixStructure>1 0 0 0 1 0 0 0 1</QuickTime:MatrixStructure>
+ <QuickTime:PreviewTime>0 s</QuickTime:PreviewTime>
+ <QuickTime:PreviewDuration>0 s</QuickTime:PreviewDuration>
+ <QuickTime:PosterTime>0 s</QuickTime:PosterTime>
+ <QuickTime:SelectionTime>0 s</QuickTime:SelectionTime>
+ <QuickTime:SelectionDuration>0 s</QuickTime:SelectionDuration>
+ <QuickTime:CurrentTime>0 s</QuickTime:CurrentTime>
+ <QuickTime:NextTrackID>5</QuickTime:NextTrackID>
+ <UserData:FirmwareVersion>FS1.04.01.80.00</UserData:FirmwareVersion>
+ <UserData:LensSerialNumber rdf:datatype='http://www.w3.org/2001/XMLSchema#base64Binary'>
+TkFGNzA5MTIwMDUwNTU3OQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAA
+</UserData:LensSerialNumber>
+ <UserData:SerialNumberHash>eeacc9f4c48ce8b51420e72d1ac8ef08</UserData:SerialNumberHash>
+ <GoPro:DeviceName>Geometry Calibrations</GoPro:DeviceName>
+ <GoPro:DeviceName>IMU Calibrations</GoPro:DeviceName>
+ <GoPro:CameraTemperature>27.814453125 C</GoPro:CameraTemperature>
+ <GoPro:DeviceName>Back Lens</GoPro:DeviceName>
+ <GoPro:DeviceName>Front Lens</GoPro:DeviceName>
+ <Track1:TrackHeaderVersion>0</Track1:TrackHeaderVersion>
+ <Track1:TrackCreateDate>2018:01:03 07:31:39</Track1:TrackCreateDate>
+ <Track1:TrackModifyDate>2018:01:03 07:31:39</Track1:TrackModifyDate>
+ <Track1:TrackID>1</Track1:TrackID>
+ <Track1:TrackDuration>1.17 s</Track1:TrackDuration>
+ <Track1:TrackLayer>0</Track1:TrackLayer>
+ <Track1:TrackVolume>0.00%</Track1:TrackVolume>
+ <Track1:MatrixStructure>1 0 0 0 1 0 0 0 1</Track1:MatrixStructure>
+ <Track1:ImageWidth>2704</Track1:ImageWidth>
+ <Track1:ImageHeight>2624</Track1:ImageHeight>
+ <Track1:TimeCode>2</Track1:TimeCode>
+ <Track1:MediaHeaderVersion>0</Track1:MediaHeaderVersion>
+ <Track1:MediaCreateDate>2018:01:03 07:31:39</Track1:MediaCreateDate>
+ <Track1:MediaModifyDate>2018:01:03 07:31:39</Track1:MediaModifyDate>
+ <Track1:MediaTimeScale>90000</Track1:MediaTimeScale>
+ <Track1:MediaDuration>1.17 s</Track1:MediaDuration>
+ <Track1:HandlerClass>Media Handler</Track1:HandlerClass>
+ <Track1:HandlerType>Video Track</Track1:HandlerType>
+ <Track1:HandlerDescription>GoPro AVC</Track1:HandlerDescription>
+ <Track1:GraphicsMode>srcCopy</Track1:GraphicsMode>
+ <Track1:OpColor>0 0 0</Track1:OpColor>
+ <Track1:CompressorID>avc1</Track1:CompressorID>
+ <Track1:SourceImageWidth>2704</Track1:SourceImageWidth>
+ <Track1:SourceImageHeight>2624</Track1:SourceImageHeight>
+ <Track1:XResolution>72</Track1:XResolution>
+ <Track1:YResolution>72</Track1:YResolution>
+ <Track1:CompressorName>GoPro AVC encoder</Track1:CompressorName>
+ <Track1:BitDepth>24</Track1:BitDepth>
+ <Track1:ColorRepresentation>nclx 1 1 1</Track1:ColorRepresentation>
+ <Track1:VideoFrameRate>29.97</Track1:VideoFrameRate>
+ <Track2:TrackHeaderVersion>0</Track2:TrackHeaderVersion>
+ <Track2:TrackCreateDate>2018:01:03 07:31:39</Track2:TrackCreateDate>
+ <Track2:TrackModifyDate>2018:01:03 07:31:39</Track2:TrackModifyDate>
+ <Track2:TrackID>2</Track2:TrackID>
+ <Track2:TrackDuration>1.17 s</Track2:TrackDuration>
+ <Track2:TrackLayer>0</Track2:TrackLayer>
+ <Track2:TrackVolume>0.00%</Track2:TrackVolume>
+ <Track2:MatrixStructure>1 0 0 0 1 0 0 0 1</Track2:MatrixStructure>
+ <Track2:ImageWidth>2704</Track2:ImageWidth>
+ <Track2:ImageHeight>16</Track2:ImageHeight>
+ <Track2:MediaHeaderVersion>0</Track2:MediaHeaderVersion>
+ <Track2:MediaCreateDate>2018:01:03 07:31:39</Track2:MediaCreateDate>
+ <Track2:MediaModifyDate>2018:01:03 07:31:39</Track2:MediaModifyDate>
+ <Track2:MediaTimeScale>90000</Track2:MediaTimeScale>
+ <Track2:MediaDuration>1.17 s</Track2:MediaDuration>
+ <Track2:HandlerClass>Media Handler</Track2:HandlerClass>
+ <Track2:HandlerType>Time Code</Track2:HandlerType>
+ <Track2:HandlerDescription>GoPro TCD</Track2:HandlerDescription>
+ <Track2:GenMediaVersion>0</Track2:GenMediaVersion>
+ <Track2:GenFlags>0 0 0</Track2:GenFlags>
+ <Track2:GenGraphicsMode>ditherCopy</Track2:GenGraphicsMode>
+ <Track2:GenOpColor>32768 32768 32768</Track2:GenOpColor>
+ <Track2:GenBalance>0</Track2:GenBalance>
+ <Track2:TextFont>Unknown (21)</Track2:TextFont>
+ <Track2:TextFace>Plain</Track2:TextFace>
+ <Track2:TextSize>10</Track2:TextSize>
+ <Track2:TextColor>0 0 0</Track2:TextColor>
+ <Track2:BackgroundColor>65535 65535 65535</Track2:BackgroundColor>
+ <Track2:FontName>Helvetica</Track2:FontName>
+ <Track2:OtherFormat>tmcd</Track2:OtherFormat>
+ <Track3:TrackHeaderVersion>0</Track3:TrackHeaderVersion>
+ <Track3:TrackCreateDate>2018:01:03 07:31:39</Track3:TrackCreateDate>
+ <Track3:TrackModifyDate>2018:01:03 07:31:39</Track3:TrackModifyDate>
+ <Track3:TrackID>3</Track3:TrackID>
+ <Track3:TrackDuration>0:01:07</Track3:TrackDuration>
+ <Track3:TrackLayer>0</Track3:TrackLayer>
+ <Track3:TrackVolume>0.00%</Track3:TrackVolume>
+ <Track3:MatrixStructure>1 0 0 0 1 0 0 0 1</Track3:MatrixStructure>
+ <Track3:MediaHeaderVersion>0</Track3:MediaHeaderVersion>
+ <Track3:MediaCreateDate>2018:01:03 07:31:39</Track3:MediaCreateDate>
+ <Track3:MediaModifyDate>2018:01:03 07:31:39</Track3:MediaModifyDate>
+ <Track3:MediaTimeScale>60000</Track3:MediaTimeScale>
+ <Track3:MediaDuration>1.12 s</Track3:MediaDuration>
+ <Track3:HandlerClass>Media Handler</Track3:HandlerClass>
+ <Track3:HandlerType>NRT Metadata</Track3:HandlerType>
+ <Track3:HandlerDescription>GoPro MET</Track3:HandlerDescription>
+ <Track3:GenMediaVersion>0</Track3:GenMediaVersion>
+ <Track3:GenFlags>0 0 0</Track3:GenFlags>
+ <Track3:GenGraphicsMode>srcCopy</Track3:GenGraphicsMode>
+ <Track3:GenOpColor>0 0 0</Track3:GenOpColor>
+ <Track3:GenBalance>0</Track3:GenBalance>
+ <Track3:MetaFormat>gpmd</Track3:MetaFormat>
+ <Track3:SampleTime>0 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/200</Track3:ExposureTimes>
+ <Track3:SampleTime>0.02 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/120</Track3:ExposureTimes>
+ <Track3:SampleTime>0.03 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/120</Track3:ExposureTimes>
+ <Track3:SampleTime>0.05 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/120</Track3:ExposureTimes>
+ <Track3:SampleTime>0.07 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/120</Track3:ExposureTimes>
+ <Track3:SampleTime>0.08 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/120</Track3:ExposureTimes>
+ <Track3:SampleTime>0.10 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/232</Track3:ExposureTimes>
+ <Track3:SampleTime>0.12 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/447</Track3:ExposureTimes>
+ <Track3:SampleTime>0.13 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/514</Track3:ExposureTimes>
+ <Track3:SampleTime>0.15 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/529</Track3:ExposureTimes>
+ <Track3:SampleTime>0.17 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/560</Track3:ExposureTimes>
+ <Track3:SampleTime>0.18 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/563</Track3:ExposureTimes>
+ <Track3:SampleTime>0.20 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/566</Track3:ExposureTimes>
+ <Track3:SampleTime>0.22 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/569</Track3:ExposureTimes>
+ <Track3:SampleTime>0.23 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/569</Track3:ExposureTimes>
+ <Track3:SampleTime>0.25 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/573</Track3:ExposureTimes>
+ <Track3:SampleTime>0.27 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/577</Track3:ExposureTimes>
+ <Track3:SampleTime>0.28 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/581</Track3:ExposureTimes>
+ <Track3:SampleTime>0.30 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/378</Track3:ExposureTimes>
+ <Track3:SampleTime>0.32 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/578</Track3:ExposureTimes>
+ <Track3:SampleTime>0.33 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/595</Track3:ExposureTimes>
+ <Track3:SampleTime>0.35 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/597</Track3:ExposureTimes>
+ <Track3:SampleTime>0.37 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/603</Track3:ExposureTimes>
+ <Track3:SampleTime>0.38 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/612</Track3:ExposureTimes>
+ <Track3:SampleTime>0.40 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/617</Track3:ExposureTimes>
+ <Track3:SampleTime>0.42 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/620</Track3:ExposureTimes>
+ <Track3:SampleTime>0.43 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/623</Track3:ExposureTimes>
+ <Track3:SampleTime>0.45 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/624</Track3:ExposureTimes>
+ <Track3:SampleTime>0.47 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/627</Track3:ExposureTimes>
+ <Track3:SampleTime>0.48 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/632</Track3:ExposureTimes>
+ <Track3:SampleTime>0.50 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/637</Track3:ExposureTimes>
+ <Track3:SampleTime>0.52 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/642</Track3:ExposureTimes>
+ <Track3:SampleTime>0.53 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/303</Track3:ExposureTimes>
+ <Track3:SampleTime>0.55 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/594</Track3:ExposureTimes>
+ <Track3:SampleTime>0.57 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/597</Track3:ExposureTimes>
+ <Track3:SampleTime>0.58 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/611</Track3:ExposureTimes>
+ <Track3:SampleTime>0.60 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/637</Track3:ExposureTimes>
+ <Track3:SampleTime>0.62 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/642</Track3:ExposureTimes>
+ <Track3:SampleTime>0.63 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/647</Track3:ExposureTimes>
+ <Track3:SampleTime>0.65 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/651</Track3:ExposureTimes>
+ <Track3:SampleTime>0.67 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/653</Track3:ExposureTimes>
+ <Track3:SampleTime>0.68 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/657</Track3:ExposureTimes>
+ <Track3:SampleTime>0.70 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/489</Track3:ExposureTimes>
+ <Track3:SampleTime>0.72 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/544</Track3:ExposureTimes>
+ <Track3:SampleTime>0.73 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/582</Track3:ExposureTimes>
+ <Track3:SampleTime>0.75 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/593</Track3:ExposureTimes>
+ <Track3:SampleTime>0.77 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/597</Track3:ExposureTimes>
+ <Track3:SampleTime>0.78 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/601</Track3:ExposureTimes>
+ <Track3:SampleTime>0.80 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/606</Track3:ExposureTimes>
+ <Track3:SampleTime>0.82 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/617</Track3:ExposureTimes>
+ <Track3:SampleTime>0.83 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/620</Track3:ExposureTimes>
+ <Track3:SampleTime>0.85 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/673</Track3:ExposureTimes>
+ <Track3:SampleTime>0.87 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/673</Track3:ExposureTimes>
+ <Track3:SampleTime>0.88 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/631</Track3:ExposureTimes>
+ <Track3:SampleTime>0.90 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/627</Track3:ExposureTimes>
+ <Track3:SampleTime>0.92 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/563</Track3:ExposureTimes>
+ <Track3:SampleTime>0.93 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/567</Track3:ExposureTimes>
+ <Track3:SampleTime>0.95 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/571</Track3:ExposureTimes>
+ <Track3:SampleTime>0.97 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/575</Track3:ExposureTimes>
+ <Track3:SampleTime>0.98 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/578</Track3:ExposureTimes>
+ <Track3:SampleTime>1.00 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/430</Track3:ExposureTimes>
+ <Track3:SampleTime>1.02 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/542</Track3:ExposureTimes>
+ <Track3:SampleTime>1.03 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/612</Track3:ExposureTimes>
+ <Track3:SampleTime>1.05 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/617</Track3:ExposureTimes>
+ <Track3:SampleTime>1.07 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/622</Track3:ExposureTimes>
+ <Track3:SampleTime>1.08 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/626</Track3:ExposureTimes>
+ <Track3:SampleTime>1.10 s</Track3:SampleTime>
+ <Track3:SampleDuration>0.02 s</Track3:SampleDuration>
+ <Track3:DeviceName>Fusion</Track3:DeviceName>
+ <Track3:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track3:ImageSensorGain>
+ <Track3:ExposureTimes>1/631</Track3:ExposureTimes>
+ <Track4:TrackHeaderVersion>0</Track4:TrackHeaderVersion>
+ <Track4:TrackCreateDate>2018:01:03 07:31:39</Track4:TrackCreateDate>
+ <Track4:TrackModifyDate>2018:01:03 07:31:39</Track4:TrackModifyDate>
+ <Track4:TrackID>4</Track4:TrackID>
+ <Track4:TrackDuration>1.17 s</Track4:TrackDuration>
+ <Track4:TrackLayer>0</Track4:TrackLayer>
+ <Track4:TrackVolume>0.00%</Track4:TrackVolume>
+ <Track4:MatrixStructure>1 0 0 0 1 0 0 0 1</Track4:MatrixStructure>
+ <Track4:MediaHeaderVersion>0</Track4:MediaHeaderVersion>
+ <Track4:MediaCreateDate>2018:01:03 07:31:39</Track4:MediaCreateDate>
+ <Track4:MediaModifyDate>2018:01:03 07:31:39</Track4:MediaModifyDate>
+ <Track4:MediaTimeScale>90000</Track4:MediaTimeScale>
+ <Track4:MediaDuration>1.17 s</Track4:MediaDuration>
+ <Track4:HandlerClass>Media Handler</Track4:HandlerClass>
+ <Track4:HandlerType>NRT Metadata</Track4:HandlerType>
+ <Track4:HandlerDescription>GoPro SOS</Track4:HandlerDescription>
+ <Track4:GenMediaVersion>0</Track4:GenMediaVersion>
+ <Track4:GenFlags>0 0 0</Track4:GenFlags>
+ <Track4:GenGraphicsMode>srcCopy</Track4:GenGraphicsMode>
+ <Track4:GenOpColor>0 0 0</Track4:GenOpColor>
+ <Track4:GenBalance>0</Track4:GenBalance>
+ <Track4:MetaFormat>fdsc</Track4:MetaFormat>
+ <Track4:SampleTime>0 s</Track4:SampleTime>
+ <Track4:SampleDuration>0 s</Track4:SampleDuration>
+ <Track4:FirmwareVersion>FS1.04.01.80.00</Track4:FirmwareVersion>
+ <Track4:SerialNumber>NAF7091200505579</Track4:SerialNumber>
+ <Track4:OtherSerialNumber>C3201124510105</Track4:OtherSerialNumber>
+ <Track4:Model>FUSION</Track4:Model>
+ <Composite:ImageSize>2704x2624</Composite:ImageSize>
+ <Composite:Megapixels>7.1</Composite:Megapixels>
+ <Composite:AvgBitrate>65.7 Mbps</Composite:AvgBitrate>
+ <Composite:Rotation>0</Composite:Rotation>
+</rdf:Description>
+</rdf:RDF>

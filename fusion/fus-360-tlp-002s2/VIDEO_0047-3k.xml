@@ -1,0 +1,1536 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+<rdf:Description rdf:about='VIDEO_0047-3k.mp4'
+  xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 12.36'
+  xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
+  xmlns:System='http://ns.exiftool.org/File/System/1.0/'
+  xmlns:File='http://ns.exiftool.org/File/1.0/'
+  xmlns:QuickTime='http://ns.exiftool.org/QuickTime/QuickTime/1.0/'
+  xmlns:Track1='http://ns.exiftool.org/QuickTime/Track1/1.0/'
+  xmlns:XMP-GSpherical='http://ns.exiftool.org/XMP/XMP-GSpherical/1.0/'
+  xmlns:Track2='http://ns.exiftool.org/QuickTime/Track2/1.0/'
+  xmlns:UserData='http://ns.exiftool.org/QuickTime/UserData/1.0/'
+  xmlns:XMP-x='http://ns.exiftool.org/XMP/XMP-x/1.0/'
+  xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
+ <ExifTool:ExifToolVersion>12.36</ExifTool:ExifToolVersion>
+ <System:FileName>VIDEO_0047-3k.mp4</System:FileName>
+ <System:Directory>.</System:Directory>
+ <System:FileSize>6.8 MiB</System:FileSize>
+ <System:FileModifyDate>2021:12:28 20:20:02+00:00</System:FileModifyDate>
+ <System:FileAccessDate>2021:12:29 09:25:31+00:00</System:FileAccessDate>
+ <System:FileInodeChangeDate>2021:12:29 09:25:31+00:00</System:FileInodeChangeDate>
+ <System:FilePermissions>-rwxrwxrwx</System:FilePermissions>
+ <File:FileType>MP4</File:FileType>
+ <File:FileTypeExtension>mp4</File:FileTypeExtension>
+ <File:MIMEType>video/quicktime</File:MIMEType>
+ <QuickTime:MajorBrand>Apple QuickTime (.MOV/QT)</QuickTime:MajorBrand>
+ <QuickTime:MinorVersion>2005.3.0</QuickTime:MinorVersion>
+ <QuickTime:CompatibleBrands>
+  <rdf:Bag>
+   <rdf:li>qt  </rdf:li>
+  </rdf:Bag>
+ </QuickTime:CompatibleBrands>
+ <QuickTime:MediaDataSize>7119166</QuickTime:MediaDataSize>
+ <QuickTime:MediaDataOffset>36</QuickTime:MediaDataOffset>
+ <QuickTime:MovieHeaderVersion>0</QuickTime:MovieHeaderVersion>
+ <QuickTime:CreateDate>2021:12:28 20:19:38</QuickTime:CreateDate>
+ <QuickTime:ModifyDate>2021:12:28 20:19:38</QuickTime:ModifyDate>
+ <QuickTime:TimeScale>2997</QuickTime:TimeScale>
+ <QuickTime:Duration>1.10 s</QuickTime:Duration>
+ <QuickTime:PreferredRate>1</QuickTime:PreferredRate>
+ <QuickTime:PreferredVolume>100.00%</QuickTime:PreferredVolume>
+ <QuickTime:MatrixStructure>1 0 0 0 1 0 0 0 1</QuickTime:MatrixStructure>
+ <QuickTime:PreviewTime>0 s</QuickTime:PreviewTime>
+ <QuickTime:PreviewDuration>0 s</QuickTime:PreviewDuration>
+ <QuickTime:PosterTime>0 s</QuickTime:PosterTime>
+ <QuickTime:SelectionTime>0 s</QuickTime:SelectionTime>
+ <QuickTime:SelectionDuration>0 s</QuickTime:SelectionDuration>
+ <QuickTime:CurrentTime>0 s</QuickTime:CurrentTime>
+ <QuickTime:NextTrackID>3</QuickTime:NextTrackID>
+ <Track1:TrackHeaderVersion>0</Track1:TrackHeaderVersion>
+ <Track1:TrackCreateDate>2021:12:28 20:19:38</Track1:TrackCreateDate>
+ <Track1:TrackModifyDate>2021:12:28 20:19:38</Track1:TrackModifyDate>
+ <Track1:TrackID>1</Track1:TrackID>
+ <Track1:TrackDuration>1.10 s</Track1:TrackDuration>
+ <Track1:TrackLayer>0</Track1:TrackLayer>
+ <Track1:TrackVolume>0.00%</Track1:TrackVolume>
+ <Track1:MatrixStructure>1 0 0 0 1 0 0 0 1</Track1:MatrixStructure>
+ <Track1:ImageWidth>3072</Track1:ImageWidth>
+ <Track1:ImageHeight>1536</Track1:ImageHeight>
+ <Track1:MediaHeaderVersion>0</Track1:MediaHeaderVersion>
+ <Track1:MediaCreateDate>2021:12:28 20:19:38</Track1:MediaCreateDate>
+ <Track1:MediaModifyDate>2021:12:28 20:19:38</Track1:MediaModifyDate>
+ <Track1:MediaTimeScale>2997</Track1:MediaTimeScale>
+ <Track1:MediaDuration>1.10 s</Track1:MediaDuration>
+ <Track1:HandlerClass>Media Handler</Track1:HandlerClass>
+ <Track1:HandlerType>Video Track</Track1:HandlerType>
+ <Track1:HandlerDescription>VideoHandler</Track1:HandlerDescription>
+ <Track1:GraphicsMode>ditherCopy</Track1:GraphicsMode>
+ <Track1:OpColor>32768 32768 32768</Track1:OpColor>
+ <Track1:HandlerClass>Data Handler</Track1:HandlerClass>
+ <Track1:HandlerType>Alias Data</Track1:HandlerType>
+ <Track1:CompressorID>avc1</Track1:CompressorID>
+ <Track1:SourceImageWidth>3072</Track1:SourceImageWidth>
+ <Track1:SourceImageHeight>1536</Track1:SourceImageHeight>
+ <Track1:XResolution>72</Track1:XResolution>
+ <Track1:YResolution>72</Track1:YResolution>
+ <Track1:BitDepth>24</Track1:BitDepth>
+ <Track1:VideoFrameRate>29.97</Track1:VideoFrameRate>
+ <XMP-GSpherical:Spherical>true</XMP-GSpherical:Spherical>
+ <XMP-GSpherical:Stitched>true</XMP-GSpherical:Stitched>
+ <XMP-GSpherical:StitchingSoftware>Fusion Studio / GStreamer</XMP-GSpherical:StitchingSoftware>
+ <XMP-GSpherical:ProjectionType>equirectangular</XMP-GSpherical:ProjectionType>
+ <XMP-GSpherical:StereoMode>mono</XMP-GSpherical:StereoMode>
+ <XMP-GSpherical:SourceCount>2</XMP-GSpherical:SourceCount>
+ <XMP-GSpherical:InitialViewHeadingDegrees>0</XMP-GSpherical:InitialViewHeadingDegrees>
+ <XMP-GSpherical:InitialViewPitchDegrees>0</XMP-GSpherical:InitialViewPitchDegrees>
+ <XMP-GSpherical:InitialViewRollDegrees>0</XMP-GSpherical:InitialViewRollDegrees>
+ <Track2:TrackHeaderVersion>0</Track2:TrackHeaderVersion>
+ <Track2:TrackCreateDate>2021:12:28 20:19:38</Track2:TrackCreateDate>
+ <Track2:TrackModifyDate>2021:12:28 20:19:38</Track2:TrackModifyDate>
+ <Track2:TrackID>2</Track2:TrackID>
+ <Track2:TrackDuration>1.12 s</Track2:TrackDuration>
+ <Track2:TrackLayer>0</Track2:TrackLayer>
+ <Track2:TrackVolume>0.00%</Track2:TrackVolume>
+ <Track2:MatrixStructure>1 0 0 0 1 0 0 0 1</Track2:MatrixStructure>
+ <Track2:MediaHeaderVersion>0</Track2:MediaHeaderVersion>
+ <Track2:MediaCreateDate>2021:12:28 20:19:38</Track2:MediaCreateDate>
+ <Track2:MediaModifyDate>2021:12:28 20:19:38</Track2:MediaModifyDate>
+ <Track2:MediaTimeScale>36000</Track2:MediaTimeScale>
+ <Track2:MediaDuration>1.12 s</Track2:MediaDuration>
+ <Track2:HandlerClass>Media Handler</Track2:HandlerClass>
+ <Track2:HandlerType>NRT Metadata</Track2:HandlerType>
+ <Track2:HandlerDescription>GoPro MET</Track2:HandlerDescription>
+ <Track2:GenMediaVersion>0</Track2:GenMediaVersion>
+ <Track2:GenFlags>0 0 0</Track2:GenFlags>
+ <Track2:GenGraphicsMode>srcCopy</Track2:GenGraphicsMode>
+ <Track2:GenOpColor>0 0 0</Track2:GenOpColor>
+ <Track2:GenBalance>0</Track2:GenBalance>
+ <Track2:TextFont>System</Track2:TextFont>
+ <Track2:TextFace>Plain</Track2:TextFace>
+ <Track2:TextSize>0</Track2:TextSize>
+ <Track2:TextColor>0 0 0</Track2:TextColor>
+ <Track2:BackgroundColor>0 0</Track2:BackgroundColor>
+ <Track2:HandlerClass>Data Handler</Track2:HandlerClass>
+ <Track2:HandlerType>Alias Data</Track2:HandlerType>
+ <Track2:MetaFormat>gpmd</Track2:MetaFormat>
+ <Track2:SampleTime>0 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>373.401419</Track2:TimeStamp>
+ <Track2:CameraTemperature>22.8984375 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 52 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>373.423735</Track2:TimeStamp>
+ <Track2:CameraTemperature>22.8984375 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 56 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-24.973913192749 -13.4260873794556 -37.0260887145996</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:39:40.590</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.93</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 7.73&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 53.76&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>147.003 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>0.221</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>0.22</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>373.616399</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/1112</Track2:ExposureTimes>
+ <Track2:SampleTime>0.02 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>374.397916</Track2:TimeStamp>
+ <Track2:CameraTemperature>22.923828125 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 52 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>374.415274</Track2:TimeStamp>
+ <Track2:CameraTemperature>22.923828125 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 57 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-31.3086967468262 -12.5652179718018 -37.8913040161133</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:39:41.580</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.93</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 7.74&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 53.73&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>146.893 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>0.694</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>0.68</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>374.616401</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/1213</Track2:ExposureTimes>
+ <Track2:SampleTime>0.03 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>375.39937</Track2:TimeStamp>
+ <Track2:CameraTemperature>22.91796875 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 51 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>375.406813</Track2:TimeStamp>
+ <Track2:CameraTemperature>22.91796875 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 57 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-29.5217399597168 -13.1217393875122 -37.3043479919434</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:39:42.570</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.93</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 7.76&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 53.71&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>146.865 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>0.82</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>0.81</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>375.616397</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/1227</Track2:ExposureTimes>
+ <Track2:SampleTime>0.05 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>376.410741</Track2:TimeStamp>
+ <Track2:CameraTemperature>22.91796875 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 52 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>376.398353</Track2:TimeStamp>
+ <Track2:CameraTemperature>22.91796875 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 57 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-27.2565212249756 -13.3000001907349 -37.3521766662598</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:39:43.560</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.93</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 7.79&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 53.69&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>147.128 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>0.92</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>0.92</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>376.616397</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/1241</Track2:ExposureTimes>
+ <Track2:SampleTime>0.07 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>377.397322</Track2:TimeStamp>
+ <Track2:CameraTemperature>22.9609375 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 49 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>377.420879</Track2:TimeStamp>
+ <Track2:CameraTemperature>22.9609375 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 53 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-2.08333349227905 -1.31666672229767 -25.2083339691162</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:39:44.550</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.93</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 7.82&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 53.70&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>147.203 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.053</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.03</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>377.616397</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/1255</Track2:ExposureTimes>
+ <Track2:SampleTime>0.08 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>378.398777</Track2:TimeStamp>
+ <Track2:CameraTemperature>22.98046875 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 51 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>378.412418</Track2:TimeStamp>
+ <Track2:CameraTemperature>22.98046875 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 52 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>13.1608695983887 31.2695655822754 25.2260875701904</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:39:45.595</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.93</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 7.86&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 53.70&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>147.308 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.134</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.12</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>378.616395</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/1255</Track2:ExposureTimes>
+ <Track2:SampleTime>0.10 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>379.404805</Track2:TimeStamp>
+ <Track2:CameraTemperature>22.978515625 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 53 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>379.403958</Track2:TimeStamp>
+ <Track2:CameraTemperature>22.978515625 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 55 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>0.573913037776947 41.6086959838867 34.6000022888184</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:39:46.585</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.93</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 7.89&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 53.70&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>146.754 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.142</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.16</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>379.616395</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/1086</Track2:ExposureTimes>
+ <Track2:SampleTime>0.12 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>380.401688</Track2:TimeStamp>
+ <Track2:CameraTemperature>22.95703125 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 52 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>380.426484</Track2:TimeStamp>
+ <Track2:CameraTemperature>22.95703125 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 56 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-2.44782614707947 42.3695640563965 33.1695671081543</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:39:47.575</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.93</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 7.92&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 53.69&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>146.619 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.38</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.36</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>380.616393</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/928</Track2:ExposureTimes>
+ <Track2:SampleTime>0.13 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>381.398186</Track2:TimeStamp>
+ <Track2:CameraTemperature>22.98046875 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 53 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>381.418025</Track2:TimeStamp>
+ <Track2:CameraTemperature>22.98046875 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 55 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-4.90869569778442 41.8043479919434 34.0869560241699</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:39:48.565</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.93</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 7.95&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 53.69&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>146.241 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.285</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.27</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>381.616393</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/883</Track2:ExposureTimes>
+ <Track2:SampleTime>0.15 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>382.399643</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.037109375 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 53 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>382.409565</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.037109375 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 55 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-6.1956524848938 40.778263092041 35.2478256225586</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:39:49.555</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.93</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 7.98&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 53.71&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>145.941 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.229</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.22</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>382.616391</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/867</Track2:ExposureTimes>
+ <Track2:SampleTime>0.17 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>383.405695</Track2:TimeStamp>
+ <Track2:CameraTemperature>22.982421875 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 52 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>383.401106</Track2:TimeStamp>
+ <Track2:CameraTemperature>22.982421875 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 57 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-9.18260860443115 40.1434783935547 36.6434783935547</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:39:50.545</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.93</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.02&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 53.72&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>145.838 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.329</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.33</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>383.616397</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/847</Track2:ExposureTimes>
+ <Track2:SampleTime>0.18 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>384.397598</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.00390625 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 53 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>384.423632</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.00390625 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 56 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-10.0791664123535 37.6749992370605 39.4958343505859</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:39:51.590</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.93</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.06&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 53.74&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>145.782 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.258</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.24</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>384.616393</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/841</Track2:ExposureTimes>
+ <Track2:SampleTime>0.20 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>385.399054</Track2:TimeStamp>
+ <Track2:CameraTemperature>22.994140625 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 53 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>385.415172</Track2:TimeStamp>
+ <Track2:CameraTemperature>22.994140625 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 54 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-21.3739128112793 32 43.947826385498</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:39:52.580</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.93</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.10&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 53.77&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>145.921 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.192</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.2</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>385.616391</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/832</Track2:ExposureTimes>
+ <Track2:SampleTime>0.22 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>386.400511</Track2:TimeStamp>
+ <Track2:CameraTemperature>22.9921875 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 50 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>386.406714</Track2:TimeStamp>
+ <Track2:CameraTemperature>22.9921875 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 56 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-31.5913047790527 16.3260879516602 42.1782608032227</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:39:53.570</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.93</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.13&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 53.80&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>145.876 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.173</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.15</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>386.616389</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/830</Track2:ExposureTimes>
+ <Track2:SampleTime>0.23 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>387.401582</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.005859375 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 52 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>387.398255</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.005859375 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 55 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-34.447826385498 21.7260875701904 40.4434776306152</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:39:54.560</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.16&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 53.82&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>145.634 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.16</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.15</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>387.616389</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/830</Track2:ExposureTimes>
+ <Track2:SampleTime>0.25 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>388.398467</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.0234375 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 52 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>388.420783</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.0234375 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 56 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-29.4347820281982 23.1521739959717 39.2521743774414</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:39:55.550</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.20&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 53.86&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>145.574 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.298</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.31</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>388.616389</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/828</Track2:ExposureTimes>
+ <Track2:SampleTime>0.27 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>389.399925</Track2:TimeStamp>
+ <Track2:CameraTemperature>23 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 53 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>389.412325</Track2:TimeStamp>
+ <Track2:CameraTemperature>23 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 58 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-30.5782604217529 23.7304344177246 39.3739128112793</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:39:56.595</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.23&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 53.89&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>145.374 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.247</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.24</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>389.616389</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/820</Track2:ExposureTimes>
+ <Track2:SampleTime>0.28 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>390.405955</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.0234375 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 51 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>390.403867</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.0234375 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 54 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-11.017391204834 13.965217590332 33.6347846984863</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:39:57.585</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.27&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 53.93&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>145.335 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.347</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.34</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>390.616387</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/812</Track2:ExposureTimes>
+ <Track2:SampleTime>0.30 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>391.397882</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.072265625 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 51 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>391.426396</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.072265625 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 52 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-5.33333349227905 6.40833330154419 33.0041656494141</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:39:58.575</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.30&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 53.97&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>145.152 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.254</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.23</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>391.616389</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/969</Track2:ExposureTimes>
+ <Track2:SampleTime>0.32 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>392.39934</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.056640625 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 50 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>392.417938</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.056640625 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 57 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-20.1695652008057 16.4434776306152 35.743480682373</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:39:59.565</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.33&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 54.02&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>144.895 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.322</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.34</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>392.616385</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/778</Track2:ExposureTimes>
+ <Track2:SampleTime>0.33 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>393.400799</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.0546875 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 53 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>393.409481</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.0546875 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 59 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-17.7304344177246 11.0869569778442 37.4347839355469</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:00.555</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.35&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 54.07&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>144.986 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.242</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.24</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>393.616385</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/708</Track2:ExposureTimes>
+ <Track2:SampleTime>0.35 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>394.401872</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.029296875 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 53 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>394.401025</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.029296875 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 55 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-13.8652172088623 10.034782409668 37.0565223693848</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:01.545</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.38&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 54.12&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>145.017 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.267</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.27</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>394.616385</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/708</Track2:ExposureTimes>
+ <Track2:SampleTime>0.37 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>395.398758</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.048828125 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 52 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>395.423554</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.048828125 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 58 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-17.3391304016113 13.4521741867065 35.9130439758301</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:02.590</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.41&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 54.16&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>144.717 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.255</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.25</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>395.616383</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/706</Track2:ExposureTimes>
+ <Track2:SampleTime>0.38 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>396.400217</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.1171875 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 53 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>396.415097</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.1171875 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 58 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-19.2521743774414 9.85652160644531 37.3217391967773</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:03.580</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.44&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 54.20&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>144.723 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.188</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.19</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>396.616383</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/703</Track2:ExposureTimes>
+ <Track2:SampleTime>0.40 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>397.401874</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.091796875 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 53 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>397.40664</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.091796875 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 59 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-19.4434795379639 10.9608697891235 37.0739135742188</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:04.570</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.46&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 54.26&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>144.631 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.343</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.34</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>397.616383</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/703</Track2:ExposureTimes>
+ <Track2:SampleTime>0.42 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>398.403134</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.119140625 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 53 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>398.398184</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.119140625 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 54 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-17.552173614502 6.87826108932495 38.552173614502</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:05.560</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.49&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 54.31&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>144.572 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.158</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.14</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>398.616397</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/703</Track2:ExposureTimes>
+ <Track2:SampleTime>0.43 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>399.399636</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.09375 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 52 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>399.420715</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.09375 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 57 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-15.9499998092651 5.96666669845581 37.3833351135254</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:06.550</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.51&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 54.36&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>144.671 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.277</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.26</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>399.616381</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/703</Track2:ExposureTimes>
+ <Track2:SampleTime>0.45 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>400.401096</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.109375 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 53 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>400.412258</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.109375 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 40 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-15.7956523895264 8.56521797180176 36.6130447387695</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:07.595</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.54&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 54.40&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>144.813 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.144</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.16</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>400.616381</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/703</Track2:ExposureTimes>
+ <Track2:SampleTime>0.47 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>401.397599</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.119140625 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 52 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>401.403803</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.119140625 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 58 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-16.4086952209473 8.23478317260742 37.1869583129883</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:08.585</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.57&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 54.44&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>144.9 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.191</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.19</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>401.616381</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/703</Track2:ExposureTimes>
+ <Track2:SampleTime>0.48 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>402.399059</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.1484375 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 52 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>402.426333</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.1484375 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 55 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-19.3173923492432 6.31739139556885 38.2478256225586</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:09.575</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.59&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 54.50&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>145.039 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.101</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.09</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>402.616379</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/699</Track2:ExposureTimes>
+ <Track2:SampleTime>0.50 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>403.400718</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.1953125 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 53 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>403.417894</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.1953125 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 58 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-16.526086807251 4.40000009536743 37.9565238952637</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:10.565</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.60&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 54.55&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>145.033 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.147</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.14</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>403.616377</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/693</Track2:ExposureTimes>
+ <Track2:SampleTime>0.52 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>404.397023</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.177734375 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 51 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>404.409423</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.177734375 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 53 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-3.4391303062439 -7.58695650100708 31.5521755218506</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:11.555</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.62&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 54.60&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>145.043 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.125</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.13</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>404.616377</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/687</Track2:ExposureTimes>
+ <Track2:SampleTime>0.53 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>405.403057</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.138671875 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 52 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>405.40097</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.138671875 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 52 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-9.86666679382324 -2.14166665077209 34.5499992370605</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:12.545</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.63&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 54.66&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>145.206 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.171</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.18</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>405.616375</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/843</Track2:ExposureTimes>
+ <Track2:SampleTime>0.55 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>406.399945</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.1484375 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 53 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>406.423501</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.1484375 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 55 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-20.5217399597168 0.352173924446106 36.2826080322266</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:13.590</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.64&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 54.72&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>145.193 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.311</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.31</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>406.616375</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/845</Track2:ExposureTimes>
+ <Track2:SampleTime>0.57 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>407.401605</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.150390625 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 52 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>407.415047</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.150390625 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 53 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-16.0782604217529 8.06087017059326 33.830436706543</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:14.580</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.66&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 54.78&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>145.138 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.285</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.28</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>407.616375</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/794</Track2:ExposureTimes>
+ <Track2:SampleTime>0.58 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>408.39791</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.14453125 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 52 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>408.406593</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.14453125 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 54 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-15.0227279663086 13.8318185806274 31.7000007629395</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:15.570</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.68&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 54.83&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>144.922 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.264</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.26</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>408.616375</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/753</Track2:ExposureTimes>
+ <Track2:SampleTime>0.60 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>409.409287</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.251953125 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 52 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>409.398139</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.251953125 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 54 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-16.375 14.5625 30.7708339691162</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:16.560</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.72&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 54.87&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>144.905 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.201</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.21</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>409.616373</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/705</Track2:ExposureTimes>
+ <Track2:SampleTime>0.62 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>410.400834</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.205078125 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 52 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>410.420671</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.205078125 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 55 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-10.3608694076538 16.8086967468262 26.8826084136963</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:17.550</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.76&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 54.89&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>144.831 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.519</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.49</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>410.616373</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/703</Track2:ExposureTimes>
+ <Track2:SampleTime>0.63 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>411.397339</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.1875 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 52 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>411.412218</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.1875 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 56 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-3.86521744728088 14.9391307830811 23.8173923492432</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:18.595</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.81&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 54.88&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>144.843 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.458</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.46</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>411.616373</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/703</Track2:ExposureTimes>
+ <Track2:SampleTime>0.65 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>412.398801</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.2265625 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 53 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>412.403765</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.2265625 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 56 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>2.39130449295044 14.7260875701904 21.3391304016113</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:19.585</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.85&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 54.85&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>144.851 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.441</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.43</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>412.616371</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/703</Track2:ExposureTimes>
+ <Track2:SampleTime>0.67 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>413.400263</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.244140625 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 52 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>413.426297</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.244140625 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 53 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>7.76956558227539 10.5826091766357 17.7347831726074</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:20.575</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.88&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 54.80&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>144.895 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.496</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.51</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>413.616371</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/703</Track2:ExposureTimes>
+ <Track2:SampleTime>0.68 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>414.401726</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.279296875 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 51 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>414.417845</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.279296875 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 52 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>15.9217395782471 -23.9173927307129 2.66956520080566</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:21.565</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.91&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 54.74&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>144.718 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.266</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.27</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>414.616371</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/703</Track2:ExposureTimes>
+ <Track2:SampleTime>0.70 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>415.398231</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.259765625 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 52 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>415.409392</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.259765625 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 53 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>11.2347831726074 -12.3956527709961 12.9956521987915</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:22.555</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.92&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 54.67&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>144.616 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.284</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.28</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>415.616375</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/876</Track2:ExposureTimes>
+ <Track2:SampleTime>0.72 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>416.404267</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.25 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 53 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>416.40094</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.25 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 53 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>5.03333330154419 4.34166669845581 16.6000003814697</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:23.600</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.93&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 54.61&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>144.477 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.209</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.18</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>416.616371</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/863</Track2:ExposureTimes>
+ <Track2:SampleTime>0.73 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>417.401158</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.23828125 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 52 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>417.423474</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.23828125 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 56 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>4.86521768569946 4.82173919677734 14.8260879516602</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:24.590</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.93&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 54.54&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>144.391 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.311</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.33</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>417.616367</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/804</Track2:ExposureTimes>
+ <Track2:SampleTime>0.75 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>418.397664</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.28125 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 51 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>418.415022</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.28125 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 58 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>1.39130437374115 4.66956520080566 19</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:25.580</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.95&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 54.48&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>144.299 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.199</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.17</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>418.616369</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/770</Track2:ExposureTimes>
+ <Track2:SampleTime>0.77 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>419.399126</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.275390625 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 52 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>419.40657</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.275390625 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 56 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>3 4.67826080322266 17.3391304016113</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:26.570</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.96&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 54.42&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>144.265 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.272</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.27</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>419.616367</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/762</Track2:ExposureTimes>
+ <Track2:SampleTime>0.78 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>420.410505</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.28515625 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 52 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>420.398118</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.28515625 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 57 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>1.38260877132416 6.83043479919434 15.1391305923462</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:27.560</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.98&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 54.36&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>144.218 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.282</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.26</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>420.616365</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/756</Track2:ExposureTimes>
+ <Track2:SampleTime>0.80 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>421.397096</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.271484375 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 52 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>421.420652</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.271484375 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 54 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>1.96086955070496 6.14782619476318 15.3347826004028</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:28.550</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.99&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 54.29&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>144.11 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.389</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.39</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>421.616365</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/749</Track2:ExposureTimes>
+ <Track2:SampleTime>0.82 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>422.398561</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.2578125 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 52 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>422.412202</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.2578125 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 54 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>4.66956520080566 -17.2782611846924 5.11739158630371</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:29.595</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 9.00&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 54.22&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>143.969 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.313</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.33</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>422.616365</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/690</Track2:ExposureTimes>
+ <Track2:SampleTime>0.83 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>423.404597</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.25390625 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 51 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>423.40375</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.25390625 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 54 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-5.61666679382324 -27.2041683197021 7.80833339691162</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:30.585</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 9.00&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 54.15&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>143.936 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.251</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.23</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>423.616363</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/753</Track2:ExposureTimes>
+ <Track2:SampleTime>0.85 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>424.401307</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.263671875 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 51 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>424.426285</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.263671875 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 57 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-8.43043518066406 -23.8565216064453 14.9217395782471</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:31.575</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.99&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 54.09&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>143.978 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.272</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.27</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>424.616361</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/802</Track2:ExposureTimes>
+ <Track2:SampleTime>0.87 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>425.397997</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.328125 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 51 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>425.417835</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.328125 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 57 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-4.44347858428955 -23.0565223693848 10.2652177810669</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:32.565</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.99&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 54.04&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>144.029 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.02</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.01</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>425.616361</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/800</Track2:ExposureTimes>
+ <Track2:SampleTime>0.88 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>426.399461</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.369140625 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 51 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>426.409384</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.369140625 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 56 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-8.30000019073486 -30.3913059234619 10.482608795166</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:33.555</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.98&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 53.98&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>144.063 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.269</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.27</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>426.616361</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/806</Track2:ExposureTimes>
+ <Track2:SampleTime>0.90 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>427.405885</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.326171875 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 51 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>427.400934</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.326171875 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 55 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-25.1956520080566 -39.0217399597168 9.16956520080566</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:34.600</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.96&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 53.92&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>144.139 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.083</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.09</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>427.616359</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/810</Track2:ExposureTimes>
+ <Track2:SampleTime>0.92 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>428.397435</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.306640625 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 51 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>428.42347</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.306640625 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 55 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-9.30869579315186 -22.7391300201416 11.6217393875122</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:35.590</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.95&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 53.87&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>144.089 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.142</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.11</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>428.616361</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/812</Track2:ExposureTimes>
+ <Track2:SampleTime>0.93 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>429.398901</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.333984375 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 51 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>429.41502</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.333984375 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 56 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-7.9304347038269 -21.5695648193359 9.77826118469238</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:36.580</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.92&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 53.82&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>144.139 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.344</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.33</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>429.616359</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/806</Track2:ExposureTimes>
+ <Track2:SampleTime>0.95 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>430.400366</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.322265625 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 51 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>430.406569</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.322265625 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 55 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-10.7478265762329 -24.0739135742188 11.8217391967773</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:37.570</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.89&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 53.77&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>144.112 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.224</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.24</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>430.616357</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/804</Track2:ExposureTimes>
+ <Track2:SampleTime>0.97 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>431.411747</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.310546875 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 51 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>431.39812</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.310546875 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 57 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-15.7652177810669 -30.0304355621338 9.15652179718018</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:38.560</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.85&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 53.72&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>143.903 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.288</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.29</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>431.616359</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/800</Track2:ExposureTimes>
+ <Track2:SampleTime>0.98 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>432.398341</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.31640625 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 51 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>432.420657</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.31640625 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 54 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-32.0875015258789 -38.3666687011719 0.237499997019768</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:39.550</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.83&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 53.68&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>143.988 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.097</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.08</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>432.616357</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/812</Track2:ExposureTimes>
+ <Track2:SampleTime>1.00 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>433.399807</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.37890625 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 51 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>433.412208</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.37890625 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 55 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-16.0217399597168 -22.9217395782471 6.54347848892212</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:40.595</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.80&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 53.63&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>143.96 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.314</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.29</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>433.616357</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/834</Track2:ExposureTimes>
+ <Track2:SampleTime>1.02 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>434.405847</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.37109375 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 54 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>434.40376</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.37109375 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 54 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-19.8999996185303 -11.517391204834 17.2565212249756</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:41.585</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.76&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 53.59&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>144.067 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.437</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.45</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>434.616355</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/722</Track2:ExposureTimes>
+ <Track2:SampleTime>1.03 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>435.397783</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.369140625 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 52 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>435.426296</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.369140625 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 57 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-15.482608795166 -10.7913045883179 15.482608795166</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:42.575</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.73&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 53.55&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>144.067 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.196</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.19</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>435.616355</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/673</Track2:ExposureTimes>
+ <Track2:SampleTime>1.05 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>436.39925</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.416015625 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 53 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>436.417848</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.416015625 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 54 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-13.0130434036255 -9.08695697784424 14.2043476104736</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:43.565</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.70&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 53.52&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>143.903 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.304</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.3</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>436.616355</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/668</Track2:ExposureTimes>
+ <Track2:SampleTime>1.07 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>437.400717</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.455078125 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 52 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>437.4094</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.455078125 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 57 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-12.9869565963745 -10.3217391967773 14.4869565963745</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:44.555</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.66&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 53.48&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>143.933 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.152</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.16</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>437.616353</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/663</Track2:ExposureTimes>
+ <Track2:SampleTime>1.08 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>438.401799</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.4296875 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 53 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>438.400952</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.4296875 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 58 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-15.1739130020142 -10.0782613754272 15.6173915863037</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:45.600</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.62&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 53.47&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>143.986 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.167</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.17</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>438.616353</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/657</Track2:ExposureTimes>
+ <Track2:SampleTime>1.10 s</Track2:SampleTime>
+ <Track2:SampleDuration>0.02 s</Track2:SampleDuration>
+ <Track2:DeviceName>Fusion</Track2:DeviceName>
+ <Track2:TimeStamp>439.398695</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.359375 C</Track2:CameraTemperature>
+ <Track2:Accelerometer>(Binary data 51 bytes, use -b option to extract)</Track2:Accelerometer>
+ <Track2:TimeStamp>439.42349</Track2:TimeStamp>
+ <Track2:CameraTemperature>23.359375 C</Track2:CameraTemperature>
+ <Track2:Gyroscope>(Binary data 54 bytes, use -b option to extract)</Track2:Gyroscope>
+ <Track2:Magnetometer>-20.1208343505859 -18.5666675567627 11.7333335876465</Track2:Magnetometer>
+ <Track2:GPSMeasureMode>3-Dimensional Measurement</Track2:GPSMeasureMode>
+ <Track2:GPSDateTime>2021:12:26 12:40:46.590</Track2:GPSDateTime>
+ <Track2:GPSHPositioningError>1.92</Track2:GPSHPositioningError>
+ <Track2:GPSLatitude>51 deg 15&#39; 8.58&quot; N</Track2:GPSLatitude>
+ <Track2:GPSLongitude>0 deg 46&#39; 53.45&quot; W</Track2:GPSLongitude>
+ <Track2:GPSAltitude>144.169 m</Track2:GPSAltitude>
+ <Track2:GPSSpeed>1.283</Track2:GPSSpeed>
+ <Track2:GPSSpeed3D>1.28</Track2:GPSSpeed3D>
+ <Track2:ImageSensorGain>(Binary data 16 bytes, use -b option to extract)</Track2:ImageSensorGain>
+ <Track2:TimeStamp>439.616353</Track2:TimeStamp>
+ <Track2:ExposureTimes>1/644</Track2:ExposureTimes>
+ <UserData:GPSCoordinates>51 deg 15&#39; 7.92&quot; N, 0 deg 46&#39; 53.76&quot; W</UserData:GPSCoordinates>
+ <UserData:FirmwareVersion>FS1.04.01.80.00</UserData:FirmwareVersion>
+ <XMP-x:XMPToolkit>GStreamer</XMP-x:XMPToolkit>
+ <Composite:ImageSize>3072x1536</Composite:ImageSize>
+ <Composite:Megapixels>4.7</Composite:Megapixels>
+ <Composite:AvgBitrate>51.7 Mbps</Composite:AvgBitrate>
+ <Composite:GPSLatitude>51 deg 15&#39; 7.92&quot; N</Composite:GPSLatitude>
+ <Composite:GPSLongitude>0 deg 46&#39; 53.76&quot; W</Composite:GPSLongitude>
+ <Composite:Rotation>0</Composite:Rotation>
+ <Composite:GPSPosition>51 deg 15&#39; 7.92&quot; N, 0 deg 46&#39; 53.76&quot; W</Composite:GPSPosition>
+</rdf:Description>
+</rdf:RDF>

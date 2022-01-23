@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+<rdf:Description rdf:about='MULTISHOT_9145-4k.mp4'
+  xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 12.36'
+  xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
+  xmlns:System='http://ns.exiftool.org/File/System/1.0/'
+  xmlns:File='http://ns.exiftool.org/File/1.0/'
+  xmlns:QuickTime='http://ns.exiftool.org/QuickTime/QuickTime/1.0/'
+  xmlns:Track1='http://ns.exiftool.org/QuickTime/Track1/1.0/'
+  xmlns:XMP-GSpherical='http://ns.exiftool.org/XMP/XMP-GSpherical/1.0/'
+  xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
+ <ExifTool:ExifToolVersion>12.36</ExifTool:ExifToolVersion>
+ <System:FileName>MULTISHOT_9145-4k.mp4</System:FileName>
+ <System:Directory>.</System:Directory>
+ <System:FileSize>8.7 MiB</System:FileSize>
+ <System:FileModifyDate>2021:12:28 20:34:48+00:00</System:FileModifyDate>
+ <System:FileAccessDate>2021:12:29 09:25:32+00:00</System:FileAccessDate>
+ <System:FileInodeChangeDate>2021:12:29 09:25:33+00:00</System:FileInodeChangeDate>
+ <System:FilePermissions>-rwxrwxrwx</System:FilePermissions>
+ <File:FileType>MP4</File:FileType>
+ <File:FileTypeExtension>mp4</File:FileTypeExtension>
+ <File:MIMEType>video/quicktime</File:MIMEType>
+ <QuickTime:MajorBrand>Apple QuickTime (.MOV/QT)</QuickTime:MajorBrand>
+ <QuickTime:MinorVersion>2005.3.0</QuickTime:MinorVersion>
+ <QuickTime:CompatibleBrands>
+  <rdf:Bag>
+   <rdf:li>qt  </rdf:li>
+  </rdf:Bag>
+ </QuickTime:CompatibleBrands>
+ <QuickTime:MediaDataSize>9149560</QuickTime:MediaDataSize>
+ <QuickTime:MediaDataOffset>36</QuickTime:MediaDataOffset>
+ <QuickTime:MovieHeaderVersion>0</QuickTime:MovieHeaderVersion>
+ <QuickTime:CreateDate>2021:12:28 20:34:30</QuickTime:CreateDate>
+ <QuickTime:ModifyDate>2021:12:28 20:34:30</QuickTime:ModifyDate>
+ <QuickTime:TimeScale>3000</QuickTime:TimeScale>
+ <QuickTime:Duration>0.47 s</QuickTime:Duration>
+ <QuickTime:PreferredRate>1</QuickTime:PreferredRate>
+ <QuickTime:PreferredVolume>100.00%</QuickTime:PreferredVolume>
+ <QuickTime:MatrixStructure>1 0 0 0 1 0 0 0 1</QuickTime:MatrixStructure>
+ <QuickTime:PreviewTime>0 s</QuickTime:PreviewTime>
+ <QuickTime:PreviewDuration>0 s</QuickTime:PreviewDuration>
+ <QuickTime:PosterTime>0 s</QuickTime:PosterTime>
+ <QuickTime:SelectionTime>0 s</QuickTime:SelectionTime>
+ <QuickTime:SelectionDuration>0 s</QuickTime:SelectionDuration>
+ <QuickTime:CurrentTime>0 s</QuickTime:CurrentTime>
+ <QuickTime:NextTrackID>2</QuickTime:NextTrackID>
+ <Track1:TrackHeaderVersion>0</Track1:TrackHeaderVersion>
+ <Track1:TrackCreateDate>2021:12:28 20:34:30</Track1:TrackCreateDate>
+ <Track1:TrackModifyDate>2021:12:28 20:34:30</Track1:TrackModifyDate>
+ <Track1:TrackID>1</Track1:TrackID>
+ <Track1:TrackDuration>0.47 s</Track1:TrackDuration>
+ <Track1:TrackLayer>0</Track1:TrackLayer>
+ <Track1:TrackVolume>0.00%</Track1:TrackVolume>
+ <Track1:MatrixStructure>1 0 0 0 1 0 0 0 1</Track1:MatrixStructure>
+ <Track1:ImageWidth>3840</Track1:ImageWidth>
+ <Track1:ImageHeight>1920</Track1:ImageHeight>
+ <Track1:MediaHeaderVersion>0</Track1:MediaHeaderVersion>
+ <Track1:MediaCreateDate>2021:12:28 20:34:30</Track1:MediaCreateDate>
+ <Track1:MediaModifyDate>2021:12:28 20:34:30</Track1:MediaModifyDate>
+ <Track1:MediaTimeScale>3000</Track1:MediaTimeScale>
+ <Track1:MediaDuration>0.47 s</Track1:MediaDuration>
+ <Track1:HandlerClass>Media Handler</Track1:HandlerClass>
+ <Track1:HandlerType>Video Track</Track1:HandlerType>
+ <Track1:HandlerDescription>VideoHandler</Track1:HandlerDescription>
+ <Track1:GraphicsMode>ditherCopy</Track1:GraphicsMode>
+ <Track1:OpColor>32768 32768 32768</Track1:OpColor>
+ <Track1:HandlerClass>Data Handler</Track1:HandlerClass>
+ <Track1:HandlerType>Alias Data</Track1:HandlerType>
+ <Track1:CompressorID>avc1</Track1:CompressorID>
+ <Track1:SourceImageWidth>3840</Track1:SourceImageWidth>
+ <Track1:SourceImageHeight>1920</Track1:SourceImageHeight>
+ <Track1:XResolution>72</Track1:XResolution>
+ <Track1:YResolution>72</Track1:YResolution>
+ <Track1:BitDepth>24</Track1:BitDepth>
+ <Track1:VideoFrameRate>30</Track1:VideoFrameRate>
+ <XMP-GSpherical:Spherical>true</XMP-GSpherical:Spherical>
+ <XMP-GSpherical:Stitched>true</XMP-GSpherical:Stitched>
+ <XMP-GSpherical:StitchingSoftware>Fusion Studio / GStreamer</XMP-GSpherical:StitchingSoftware>
+ <XMP-GSpherical:ProjectionType>equirectangular</XMP-GSpherical:ProjectionType>
+ <XMP-GSpherical:StereoMode>mono</XMP-GSpherical:StereoMode>
+ <XMP-GSpherical:SourceCount>2</XMP-GSpherical:SourceCount>
+ <XMP-GSpherical:InitialViewHeadingDegrees>0</XMP-GSpherical:InitialViewHeadingDegrees>
+ <XMP-GSpherical:InitialViewPitchDegrees>0</XMP-GSpherical:InitialViewPitchDegrees>
+ <XMP-GSpherical:InitialViewRollDegrees>0</XMP-GSpherical:InitialViewRollDegrees>
+ <Composite:ImageSize>3840x1920</Composite:ImageSize>
+ <Composite:Megapixels>7.4</Composite:Megapixels>
+ <Composite:AvgBitrate>157 Mbps</Composite:AvgBitrate>
+ <Composite:Rotation>0</Composite:Rotation>
+</rdf:Description>
+</rdf:RDF>
