@@ -53,4 +53,5 @@ Other useful tools for understanding / using GPMF:
 
 ## License
 
-All sample files used to extract metadata are offered free of charge for the benefit of other developers under and MIT license / CC BY 4.0 license.
+* Code: [Apache 2.0](/LICENSE).
+* Images: [CC BY-SA 4.0](/LICENSE-IMAGES).
