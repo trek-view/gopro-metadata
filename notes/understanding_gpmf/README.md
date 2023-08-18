@@ -1,8 +1,7 @@
 # 1. Introduction
 
 ## 1.1. KLV
-![](https://raw.githubusercontent.com/gopro/gpmf-parser/main/docs/readmegfx/KLVDesign.png "KLV Design")
-[https://raw.githubusercontent.com/gopro/gpmf-parser/main/docs/readmegfx/KLVDesign.png](https://raw.githubusercontent.com/gopro/gpmf-parser/main/docs/readmegfx/KLVDesign.png)
+![](https://raw.githubusercontent.com/trek-view/gopro-metadata/notes/images/KLVDesign.png "KLV Design")
 
 ```mermaid
 	erDiagram
