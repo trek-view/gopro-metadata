@@ -117,7 +117,7 @@ These are named in the same way as non-timelapse videos.
 
 Note 1: it appears both 5.2k are both upscaled from raw mp4 files. Seems like 5.2k is actually 4k raw.
 
-![](https://raw.githubusercontent.com/trek-view/gopro-metadata/notes/images/fusion-upscale.png)
+![](https://raw.githubusercontent.com/trek-view/gopro-metadata/main/notes/images/fusion-upscale.png)
 
 ### Video: thm, lrv and wav files
 

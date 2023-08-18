@@ -86,7 +86,7 @@ Note 1: it appears both 5.6k and 3k selected resolutions are both upscaled from 
 
 Note 2: for each input resolution GoPro offers the above listed standard resolution outputs. User is also free to choose "custom" resolution in GP Player, but for our use-cases we completely ignore (through upload validation) that processed mp4 is created using a default GP Player resolution.
 
-![](https://raw.githubusercontent.com/trek-view/gopro-metadata/notes/images/max-upscaling.png)
+![](https://raw.githubusercontent.com/trek-view/gopro-metadata/main/notes/images/max-upscaling.png)
 
 ### Video: thm and lrv files
 

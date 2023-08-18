@@ -1,7 +1,7 @@
 # 1. Introduction
 
 ## 1.1. KLV
-![](https://raw.githubusercontent.com/trek-view/gopro-metadata/notes/images/KLVDesign.png "KLV Design")
+![](https://raw.githubusercontent.com/trek-view/gopro-metadata/main/notes/images/KLVDesign.png "KLV Design")
 
 ```mermaid
 	erDiagram
@@ -84,17 +84,17 @@ mpeg4 [8985739]
 
 Below images helps to understand how data is organized in a file.
 
-![](https://raw.githubusercontent.com/trek-view/gopro-metadata/notes/images/mp4_1.png)
+![](https://raw.githubusercontent.com/trek-view/gopro-metadata/main/notes/images/mp4_1.png)
 
 According to the size of the file, there's always a position where we can write data.
 
-![](https://raw.githubusercontent.com/trek-view/gopro-metadata/notes/images/mp4_2.png)
+![](https://raw.githubusercontent.com/trek-view/gopro-metadata/main/notes/images/mp4_2.png)
 
 Every position represents some sort of data.
 
-![](https://raw.githubusercontent.com/trek-view/gopro-metadata/notes/images/mp4_3.png)
+![](https://raw.githubusercontent.com/trek-view/gopro-metadata/main/notes/images/mp4_3.png)
 
-![](https://raw.githubusercontent.com/trek-view/gopro-metadata/notes/images/mp4_4.png)
+![](https://raw.githubusercontent.com/trek-view/gopro-metadata/main/notes/images/mp4_4.png)
 
 In above image we can see how the data is organised as every position holds data.
 
@@ -104,9 +104,9 @@ position `(0)` holds `A`
 position `(1)` holds `B`
 etc...
 
-![](https://raw.githubusercontent.com/trek-view/gopro-metadata/notes/images/mp4_5.png)
+![](https://raw.githubusercontent.com/trek-view/gopro-metadata/main/notes/images/mp4_5.png)
 
-![](https://raw.githubusercontent.com/trek-view/gopro-metadata/notes/images/mp4_6.png)
+![](https://raw.githubusercontent.com/trek-view/gopro-metadata/main/notes/images/mp4_6.png)
 
 Just like gopro has `KLVs` mp4 files has `atoms`
 
@@ -175,11 +175,11 @@ pos 8988013 b'DEVC\x00\x01\x01\x04DVIDL\x04\x00\x01\x00\x00\x00\x01DVNMc\t\x00\x
 
 And `mdat` will appear something like below images:
 
-![](https://raw.githubusercontent.com/trek-view/gopro-metadata/notes/images/mp4_18.png)
+![](https://raw.githubusercontent.com/trek-view/gopro-metadata/main/notes/images/mp4_18.png)
 
-![](https://raw.githubusercontent.com/trek-view/gopro-metadata/notes/images/mp4_19.png)
+![](https://raw.githubusercontent.com/trek-view/gopro-metadata/main/notes/images/mp4_19.png)
 
-![](https://raw.githubusercontent.com/trek-view/gopro-metadata/notes/images/mp4_20.png)
+![](https://raw.githubusercontent.com/trek-view/gopro-metadata/main/notes/images/mp4_20.png)
 
 ### 1.2.3. Resulting video
 
