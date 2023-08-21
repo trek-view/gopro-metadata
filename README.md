@@ -28,7 +28,8 @@ exiftool -ee -G3 -api LargeFileSupport=1 -X INPUT.FILE > OUTPUT.xml
 
 ## Download files used to generate metadata
 
-https://docs.google.com/spreadsheets/d/1iEoSwvziu27XJ8TEsvXcERy6DpHtdO0NtxpO1zzpqlw/edit?usp=sharing
+* Library of files: https://docs.google.com/spreadsheets/d/1iEoSwvziu27XJ8TEsvXcERy6DpHtdO0NtxpO1zzpqlw/edit?usp=sharing
+* Actual metadata output: https://drive.google.com/drive/folders/196l5H__7vh_UhuE7EF9qFy4t6GJVasYU?usp=drive_link
 
 ## Relevant Posts for understanding GPMF
 
